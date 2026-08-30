@@ -4,10 +4,10 @@
 
 ## Активные документы
 
-- `pregnancy-book-editorial-v1.6.md` — PROCESS AUTHORITY / SOURCE OF TRUTH для маршрута разработки, Checkpoint'ов, остановок, автоматических переходов, возвратов и финального принятия тем.
+- `pregnancy-book-editorial-v1.6.md` — **PROCESS SPEC / PROCESS AUTHORITY / SOURCE OF TRUTH** для маршрута разработки, Checkpoint'ов, остановок, автоматических переходов, возвратов и финального принятия тем. Это управляющий документ, а не executable skill.
 - `pregnancy-book-evidence-content-map-v3.0.md` — активная архитектура книги: reader jobs, границы тем, coverage, cross-links, evidence priorities и правила глубины.
 - `project-instructions-v1.6.md` — краткие управляющие инструкции проекта: активные материалы, иерархия приоритетов, роли навыков, путь текста и правила возврата.
 
-Полноценные исполняющие plugin-пакеты хранятся отдельно в `plugins/`, а одиночные Markdown-skills — в `skills/`.
+Единственный executable `$pregnancy-book-editorial` хранится в `plugins/pregnancy-book-editorial/SKILL.md` и обязан следовать активной process spec. Полноценные исполняющие plugin-пакеты хранятся отдельно в `plugins/`, а одиночные Markdown-skills — в `skills/`.
 
 При конфликте версий семантические номера версий значимы: для текущего процесса используются Editorial v1.6 и Content Map v3.0. Исторические версии не должны управлять активной разработкой.

@@ -8,7 +8,7 @@
 
 ## Текущие plugins
 
-- `pregnancy-book-editorial/` — исполняющий оркестратор редакционного workflow. Активный файл `editorial/pregnancy-book-editorial-v*.md` остаётся PROCESS AUTHORITY / SOURCE OF TRUTH.
+- `pregnancy-book-editorial/` — **единственный executable** `$pregnancy-book-editorial`, исполняющий оркестратор редакционного workflow. `editorial/pregnancy-book-editorial-v1.6.md` остаётся неисполняемой PROCESS SPEC / PROCESS AUTHORITY / SOURCE OF TRUTH.
 - `pregnancy-book-depth-review/` — независимая проверка глубины: Depth review №1 и Depth review №2 / COMPRESSION REGRESSION.
 - `russian-book-editor/` — финальная русская книжная редактура после Checkpoint 5 и обязательного подтверждения пользователя; последний этап разработки, имеющий право менять текст.
 - `pregnancy-book-prepress-audit/` — независимый финальный pre-press аудит и издательский вердикт.

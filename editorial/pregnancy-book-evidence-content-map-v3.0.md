@@ -15,8 +15,8 @@ It combines:
 - selected development rules that do not need to live in Project Instructions.
 
 This file does NOT replace:
-- `pregnancy-book-editorial-v1.6.md` as the master editorial skill;
-- `methodical-review.md` as the methodological audit framework;
+- `editorial/pregnancy-book-editorial-v1.6.md` as the master editorial PROCESS SPEC / SOURCE OF TRUTH;
+- `skills/methodical-review.md` as the methodological audit framework;
 - `themes/theme-1/tema_1_final_canonical.docx` as the canonical completed Theme 1.
 
 When architecture/content decisions in older maps conflict with this file, **v3.0 has priority**.
@@ -812,11 +812,11 @@ This file contains architecture and content-policy detail.
 
 The actual editorial workflow, checkpoint logic, anti-neurophrase work, Russian narrative reconstruction, final acceptance, and regression checks are governed by:
 
-> `pregnancy-book-editorial-v1.6.md`
+> `editorial/pregnancy-book-editorial-v1.6.md`
 
 Methodological review is governed by:
 
-> `methodical-review.md`
+> `skills/methodical-review.md`
 
 Theme 1 quality benchmark is governed by:
 

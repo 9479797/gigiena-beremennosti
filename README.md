@@ -6,7 +6,7 @@
 
 ## Структура репозитория
 
-- `themes/` — тексты тем книги. Темы добавляются по мере их разработки и корректировки.
+- `themes/` — исходные, рабочие и финальные тексты тем. Папки отдельных тем добавляются по мере их разработки; legacy SOURCE TEXT маршрутизируется по `themes/SOURCE-TEXT-MAPPING.md`.
 - `research/` — research briefs, source audits, coverage audits и другие исследовательские материалы.
 - `editorial/` — управляющие редакционные документы, workflow, архитектура книги, Checkpoint'ы, критерии качества и инструкции проекта.
 - `plugins/` — полноценные пакеты специализированных навыков с `SKILL.md` и внутренними файлами пакета.
@@ -15,13 +15,14 @@
 
 ## Активные управляющие документы
 
-- `editorial/pregnancy-book-editorial-v1.6.md` — PROCESS AUTHORITY / SOURCE OF TRUTH для порядка этапов, Checkpoint'ов, остановок, переходов, возвратов и финального принятия тем.
+- `editorial/pregnancy-book-editorial-v1.6.md` — **PROCESS SPEC / PROCESS AUTHORITY / SOURCE OF TRUTH** для порядка этапов, Checkpoint'ов, остановок, переходов, возвратов и финального принятия тем. Это не executable skill.
 - `editorial/pregnancy-book-evidence-content-map-v3.0.md` — активная архитектура книги: reader jobs, границы тем, coverage, cross-links и evidence priorities.
 - `editorial/project-instructions-v1.6.md` — краткая управляющая инструкция проекта с иерархией приоритетов, ролями навыков и маршрутом текста.
+- `themes/theme-1/tema_1_final_canonical.docx` — CANONICAL Theme 1, эталон качества результата и авторского голоса в установленных границах.
 
 ## Основные контрольные инструменты
 
-- `$pregnancy-book-editorial` — исполняющий оркестратор редакционного процесса; следует активному editorial-файлу.
+- `$pregnancy-book-editorial` (`plugins/pregnancy-book-editorial/`) — единственный executable оркестратор редакционного процесса; следует активной process spec.
 - `$pregnancy-book-depth-review` — независимые Depth review №1 и №2 / COMPRESSION REGRESSION.
 - `methodical-review.md` — независимая методическая экспертиза после Checkpoint 4 и перед Checkpoint 5.
 - `$russian-book-editor` — финальная русская книжная редактура после Checkpoint 5 и обязательного подтверждения пользователя.

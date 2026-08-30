@@ -1,7 +1,9 @@
 ---
-name: pregnancy-book-editorial
+document_id: pregnancy-book-editorial
+document_type: process-spec
 version: 1.6.0
-description: Master editorial skill for transforming medical and educational pregnancy materials into engaging, intelligent, book-like narrative nonfiction for pregnant readers while preserving source fidelity, medical safety, evidence boundaries, natural human voice, and editorial restraint.
+status: active
+description: Master editorial process specification for developing medical and educational pregnancy materials into engaging, intelligent, book-like narrative nonfiction while preserving source fidelity, medical safety, evidence boundaries, natural human voice, and editorial restraint.
 ---
 
 # Pregnancy Book Editorial v1.6
@@ -25,17 +27,17 @@ Do not silently add, correct, reconcile, or replace medical claims with general 
 
 # PROJECT INTEGRATION / ROLE BOUNDARIES
 
-When this skill is used inside the Pregnancy Book project:
+When this process specification governs the Pregnancy Book project:
 
-- `pregnancy-book-evidence-content-map-v3.0.md` controls the current book architecture, topic boundaries, reader jobs, cross-links, and content/evidence map.
-- `tema_1_final_canonical.docx` is the CANONICAL QUALITY BENCHMARK: a completed approved Theme 1 used to calibrate depth, practical usefulness, explanation quality, reader orientation, and overall book-level standard.
+- `editorial/pregnancy-book-evidence-content-map-v3.0.md` controls the current book architecture, topic boundaries, reader jobs, cross-links, and content/evidence map.
+- `themes/theme-1/tema_1_final_canonical.docx` is the CANONICAL QUALITY BENCHMARK: a completed approved Theme 1 used to calibrate depth, practical usefulness, explanation quality, reader orientation, and overall book-level standard.
 - The canonical Theme 1 is an outcome benchmark, not a rigid structural template. Do not mechanically copy its section structure, paragraph rhythm, examples, or wording into other Themes.
-- `methodical-review.md` governs independent methodological review.
+- `skills/methodical-review.md` governs independent methodological review.
 - `$russian-book-editor` governs the final Russian language-and-logic reconstruction after Checkpoint 5 and an explicit user STOP. It is the last development stage allowed to change the text.
 - `$pregnancy-book-depth-review` governs Depth review №1 after Checkpoint 2A and Depth review №2 after the final Russian Book Edit.
 - `$pregnancy-book-prepress-audit` governs the independent final pre-press verdict after the final Russian Book Edit, Depth review №2, and Regression / Canon Check.
-- This file governs the order of all stages, transition policy, handoffs, returns, state management, final acceptance, and regression/canon control.
-- If architecture/content-map decisions conflict with this skill's generic structural suggestions, the active project map controls architecture while this skill controls editorial method.
+- This file is the **PROCESS AUTHORITY / SOURCE OF TRUTH** for the order of all stages, transition policy, handoffs, returns, state management, final acceptance, and regression/canon control. It is a process specification, not an executable plugin. The only executable `$pregnancy-book-editorial` is `plugins/pregnancy-book-editorial/SKILL.md`.
+- If architecture/content-map decisions conflict with this process specification's generic structural suggestions, the active project map controls architecture while this process specification controls editorial method.
 - Never silently alter approved project architecture or approved canonical content.
 
 # 0.1 CORE BOOK PRINCIPLE
@@ -103,14 +105,17 @@ If a relevant answer is missing, do not compress yet.
 
 # 0.5 OPERATING MODES
 
-This skill has two explicit modes.
+This process specification supports two explicit operating modes.
 
 ## MODE A — FULL_REWRITE
 
 Use when the user explicitly asks for a complete rewrite and the editorial direction is already established.
 
-Run:
-> Reader-JTBD → Architecture → Book Draft → Medical Evidence & Expansion → Medical Depth → Literary Refinement → Anti-Neurophrase → Lists/Rhythm → Methodical Review → Final Content Acceptance → USER STOP → Final Russian Book Edit → Depth Regression → Regression / Canon Check → Prepress Audit
+`FULL_REWRITE` changes the interaction cadence, not the authoritative stage order or safety gates. Run the same route used by the project:
+
+> SOURCE AUDIT / RESEARCH-BRIEF AUDIT → CONTENT COVERAGE → preliminary EVIDENCE & GAP ANALYSIS → Checkpoint 0 — Reader Job + Architecture → Checkpoint 1 — Book Draft → Checkpoint 2 — Medical Evidence, Integrity & Expansion → Checkpoint 2A — Medical Depth & Completeness → Depth review №1 → Checkpoint 3 — Anti-Neurophrase + Humanize → Checkpoint 4 — Lists, Rhythm & Presentation → Methodical review → Checkpoint 5 — Final Content Acceptance → MANDATORY USER STOP → Final Russian Book Edit → Depth review №2 / COMPRESSION REGRESSION → Regression / Canon Check → Prepress Audit
+
+Do not use `FULL_REWRITE` to bypass user gates, the mandatory stop after Checkpoint 5, or any medical/canon/author hold.
 
 Return:
 1. finished text;
@@ -126,7 +131,7 @@ Default mode for chapter development or material restructuring.
 
 ### CHECKPOINT TRANSITION POLICY
 
-The skill normally stops at a checkpoint unless an automatic transition is explicitly defined below.
+The process normally stops at a checkpoint unless an automatic transition is explicitly defined below.
 
 At each checkpoint:
 1. show the current artifact/decision;
@@ -847,8 +852,10 @@ Default iterative pipeline:
 If the final Russian Book Edit reveals missing substance:
 > **return to Checkpoint 2A.**
 
-If a later correction changes wording or information function:
-> **repeat the affected content gates, Checkpoint 5, the mandatory STOP, the final Russian Book Edit, and every affected independent gate.**
+If a later substantive or textual correction changes wording or information function after Final Russian Book Edit:
+> **repeat Final Russian Book Edit and every independent gate whose function is affected. Before a new prepress entry, Depth review №2 and Regression / Canon Check must be fresh for the exact text version.**
+
+A purely technical file/layout correction that changes no words, numbers, order, meaning, or information function may use the local technical minor-fix route defined by `$pregnancy-book-prepress-audit`.
 
 If Checkpoint 2 reveals insufficient evidence:
 > **do not finalize the passage.**
