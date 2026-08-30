@@ -1,0 +1,14 @@
+interface:
+  display_name: Pregnancy Book Prepress Audit
+  short_description: Финальный аудит темы перед печатью
+  default_prompt: Используй $pregnancy-book-prepress-audit для независимой проверки
+    готовой темы перед печатью.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
