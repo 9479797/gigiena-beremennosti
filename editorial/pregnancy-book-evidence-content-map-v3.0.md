@@ -17,7 +17,7 @@ It combines:
 This file does NOT replace:
 - `pregnancy-book-editorial-v1.6.md` as the master editorial skill;
 - `methodical-review.md` as the methodological audit framework;
-- `Тема 1(1).docx` as the canonical completed Theme 1.
+- `themes/theme-1/tema_1_final_canonical.docx` as the canonical completed Theme 1.
 
 When architecture/content decisions in older maps conflict with this file, **v3.0 has priority**.
 
@@ -820,7 +820,7 @@ Methodological review is governed by:
 
 Theme 1 quality benchmark is governed by:
 
-> `Тема 1(1).docx`
+> `themes/theme-1/tema_1_final_canonical.docx`
 
 The active architecture/content map is:
 
@@ -833,7 +833,6 @@ Older architecture maps are historical only.
 # 11. SUPERSESSION RULE
 
 This v3.0 file supersedes:
-
 - `pregnancy-book-evidence-content-map-v1.0.md`
 - `pregnancy-book-evidence-content-map-v2.0.md`
 
