@@ -22,9 +22,9 @@
 
 На текущем этапе проекта:
 
-1. `editorial/project-instructions-v1.7.md`
+1. `editorial/project-instructions-v1.8.md`
    — активная GitHub-first инструкция проекта, приоритеты, стандартные команды,
-   правила состояния темы и связи Project ↔ GitHub.
+   правила состояния темы, связи Project ↔ GitHub и действующий CANONICAL style corpus.
 
 2. `editorial/pregnancy-book-editorial-v1.6.md`
    — PROCESS SPEC / PROCESS AUTHORITY / SOURCE OF TRUTH для Checkpoint'ов,
@@ -34,11 +34,16 @@
    — активная архитектура книги, reader jobs, границы тем, coverage,
    cross-links и evidence priorities.
 
-4. `themes/theme-1/tema_1_final_canonical.docx`
-   — CANONICAL Theme 1, эталон глубины, объяснительной насыщенности,
-   практической полезности и авторского голоса в установленных границах.
+4. `editorial/canonical-style-corpus-v1.0.md`
+   — активное распределение ролей CANONICAL-текстов и порядок их применения при финальной русской редактуре.
 
-`editorial/project-instructions-v1.6.md` является исторической версией.
+5. `themes/theme-1/tema_1_final_canonical.docx`
+   — CANONICAL Theme 1, эталон глубины, объяснительной насыщенности, практической полезности и качества результата; не шаблон структуры, ритма или длины.
+
+6. `themes/theme-2/theme 2 canonical.docx`, `themes/theme-3/theme 3 canonical.docx`, `themes/theme-4/theme 4 canonical.docx`
+   — совместный STYLE CANON финальной русской редакции; Theme 3 имеет особо приоритетное значение для сверки авторского голоса.
+
+`editorial/project-instructions-v1.6.md` и `editorial/project-instructions-v1.7.md` являются историческими версиями.
 
 Дополнительно читать специализированные файлы только тогда, когда они
 относятся к выполняемой задаче.
@@ -73,7 +78,7 @@
 
 ## Стандартные команды
 
-Короткие команды определены в `editorial/project-instructions-v1.7.md`.
+Короткие команды определены в `editorial/project-instructions-v1.8.md`.
 Они не создают новых пользовательских gate'ов.
 
 - `START THEME N` — инициализировать фактическую работу над темой и пройти
@@ -102,8 +107,9 @@
 ## Канон и исходные материалы
 
 `themes/theme-1/tema_1_final_canonical.docx` имеет статус CANONICAL.
-Не переписывать, не сокращать и не изменять его без явного решения
-пользователя.
+Не переписывать, не сокращать и не изменять его без явного решения пользователя.
+
+`themes/theme-2/theme 2 canonical.docx`, `themes/theme-3/theme 3 canonical.docx` и `themes/theme-4/theme 4 canonical.docx` имеют статус CANONICAL и совместно задают фактический стиль Final Russian Book Edit. Их роль, границы и порядок приоритета зафиксированы в `editorial/canonical-style-corpus-v1.0.md`. Не использовать эти файлы как источник новых медицинских положений для другой темы.
 
 Файл:
 
@@ -180,7 +186,7 @@
 - `pregnancy-book-depth-review` — независимая проверка глубины;
 - `skills/methodical-review.md` — независимая методическая экспертиза;
 - `russian-book-editor` — финальная русская книжная редактура после
-  Checkpoint 5 и обязательного разрешения пользователя;
+  Checkpoint 5 и обязательного разрешения пользователя; для этой книги он обязан применять `editorial/canonical-style-corpus-v1.0.md` и свой `canonical-style-guide-v1.0.md`;
 - `pregnancy-book-prepress-audit` — финальный независимый prepress-аудит.
 
 Не объединять их роли и не позволять одному инструменту молча заменять другой.
@@ -218,7 +224,7 @@ Skill является исполняемым слоем и не должен у
 
 ## Работа с файлами и версиями
 
-Семантические версии (`v1.7`, `v1.6`, `v3.0` и т. п.) значимы.
+Семантические версии (`v1.8`, `v1.6`, `v3.0` и т. п.) значимы.
 
 Не выбирать историческую версию только потому, что её имя похоже на запрос.
 

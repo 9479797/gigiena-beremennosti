@@ -25,10 +25,12 @@
 
 ## Активные управляющие документы
 
-- `editorial/project-instructions-v1.7.md` — активная GitHub-first инструкция проекта: связь Project ↔ GitHub, приоритеты, стандартные команды и правила сохранения состояния тем.
+- `editorial/project-instructions-v1.8.md` — активная GitHub-first инструкция проекта: связь Project ↔ GitHub, приоритеты, стандартные команды, правила сохранения состояния тем и CANONICAL style corpus.
 - `editorial/pregnancy-book-editorial-v1.6.md` — **PROCESS SPEC / PROCESS AUTHORITY / SOURCE OF TRUTH** для порядка этапов, Checkpoint'ов, остановок, переходов, возвратов и финального принятия тем. Это не executable skill.
 - `editorial/pregnancy-book-evidence-content-map-v3.0.md` — активная архитектура книги: reader jobs, границы тем, coverage, cross-links и evidence priorities.
-- `themes/theme-1/tema_1_final_canonical.docx` — CANONICAL Theme 1, эталон качества результата и авторского голоса в установленных границах.
+- `editorial/canonical-style-corpus-v1.0.md` — действующий CANONICAL-корпус и распределение ролей Theme 1–4 для будущей финальной русской редакции.
+- `themes/theme-1/tema_1_final_canonical.docx` — CANONICAL Theme 1, эталон глубины, объяснения, практической пользы и качества результата.
+- `themes/theme-2/theme 2 canonical.docx`, `themes/theme-3/theme 3 canonical.docx`, `themes/theme-4/theme 4 canonical.docx` — совместный STYLE CANON; Theme 3 имеет особо приоритетное значение для сверки авторского голоса.
 
 ## Основные контрольные инструменты
 
@@ -54,7 +56,7 @@
 
 Старые копии файлов не создаются без необходимости. Значимые изменения фиксируются отдельными commit'ами с понятным описанием.
 
-Семантические версии управляющих документов значимы. Для текущего процесса используются Project Instructions v1.7, Editorial v1.6 и Content Map v3.0; исторические версии не должны управлять активной разработкой.
+Семантические версии управляющих документов значимы. Для текущего процесса используются Project Instructions v1.8, Editorial v1.6 и Content Map v3.0; исторические версии не должны управлять активной разработкой.
 
 ## Статус проекта
 

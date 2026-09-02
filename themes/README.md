@@ -6,7 +6,8 @@
 
 Папки отдельных тем создаются постепенно, по мере фактической разработки и утверждения темы. Не создавать заранее пустые каталоги для всех будущих тем.
 
-- `theme-1/` — CANONICAL Theme 1 и связанные с ней утверждённые материалы.
+- `theme-1/` — CANONICAL Theme 1: глубина, объяснение, практическая польза и качество результата.
+- `theme-2/`, `theme-3/`, `theme-4/` — утверждённые CANONICAL-тексты. Совместно они задают STYLE CANON для Final Russian Book Edit; Theme 3 имеет особо приоритетное значение для сверки авторского голоса.
 - `темы гигиена беременности — SOURCE TEXT 2–9.docx` — общий резервуар исходных текстов. Это source text, а не approved canon и не медицинское доказательство.
 - `SOURCE-TEXT-MAPPING.md` — обязательная карта маршрутизации legacy-блоков SOURCE TEXT в актуальные Theme 2–11, Section 0 и Orientation по Content Map v3.0.
 
@@ -28,4 +29,4 @@ README конкретной темы используется как компа�
 - ссылки на evidence ledger и Regression Watch, если они вынесены отдельно;
 - следующий допустимый шаг.
 
-Команды `START THEME N`, `CONTINUE THEME N`, `STATUS THEME N` и `SAVE THEME N` определены в `editorial/project-instructions-v1.7.md` и используют этот state record для устойчивого продолжения работы между чатами.
+Команды `START THEME N`, `CONTINUE THEME N`, `STATUS THEME N` и `SAVE THEME N` определены в `editorial/project-instructions-v1.8.md` и используют этот state record для устойчивого продолжения работы между чатами.

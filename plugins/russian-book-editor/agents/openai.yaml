@@ -1,8 +1,7 @@
 interface:
   display_name: Russian Book Editor
   short_description: Русская книжная редактура с сохранением авторского голоса
-  default_prompt: 'Используй $russian-book-editor для BOOK EDIT: сохрани голос утверждённого
-    авторского образца, полноту объяснения, медицинский смысл и границы безопасности.'
+  default_prompt: 'Используй $russian-book-editor для BOOK EDIT: сохрани CANONICAL-голос тем 2–4, полноту объяснения Theme 1, медицинский смысл и границы безопасности.'
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg
 policy:
