@@ -41,7 +41,7 @@
    — CANONICAL Theme 1, эталон глубины, объяснительной насыщенности, практической полезности и качества результата; не шаблон структуры, ритма или длины.
 
 6. `themes/theme-2/theme 2 canonical.docx`, `themes/theme-3/theme 3 canonical.docx`, `themes/theme-4/theme 4 canonical.docx`
-   — совместный STYLE CANON финальной русской редакции; Theme 3 имеет особо приоритетное значение для сверки авторского голоса.
+   — совместный STYLE CANON финальной русской редакции; темы 2–4 равноправны при сверке авторского голоса.
 
 `editorial/project-instructions-v1.6.md` и `editorial/project-instructions-v1.7.md` являются историческими версиями.
 
@@ -109,7 +109,7 @@
 `themes/theme-1/tema_1_final_canonical.docx` имеет статус CANONICAL.
 Не переписывать, не сокращать и не изменять его без явного решения пользователя.
 
-`themes/theme-2/theme 2 canonical.docx`, `themes/theme-3/theme 3 canonical.docx` и `themes/theme-4/theme 4 canonical.docx` имеют статус CANONICAL и совместно задают фактический стиль Final Russian Book Edit. Их роль, границы и порядок приоритета зафиксированы в `editorial/canonical-style-corpus-v1.0.md`. Не использовать эти файлы как источник новых медицинских положений для другой темы.
+`themes/theme-2/theme 2 canonical.docx`, `themes/theme-3/theme 3 canonical.docx` и `themes/theme-4/theme 4 canonical.docx` имеют статус CANONICAL и совместно задают фактический стиль Final Russian Book Edit. Их роли и границы зафиксированы в `editorial/canonical-style-corpus-v1.0.md`. Не использовать эти файлы как источник новых медицинских положений для другой темы.
 
 Файл:
 

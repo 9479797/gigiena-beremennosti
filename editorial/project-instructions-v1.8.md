@@ -40,7 +40,7 @@ persistent_source_of_truth: github-repository
 5. `editorial/pregnancy-book-evidence-content-map-v3.0.md` — активная архитектура книги, reader jobs, границы тем, coverage, cross-links и evidence priorities.
 6. `editorial/canonical-style-corpus-v1.0.md` — активное распределение ролей CANONICAL-текстов и порядок их использования на Final Russian Book Edit.
 7. `themes/theme-1/tema_1_final_canonical.docx` — CANONICAL Theme 1: ориентир по глубине, объяснению, практической полезности и качеству результата; не жёсткий шаблон структуры, ритма или длины.
-8. `themes/theme-2/theme 2 canonical.docx`, `themes/theme-3/theme 3 canonical.docx`, `themes/theme-4/theme 4 canonical.docx` — совместный STYLE CANON финальной русской редакции. Theme 3 имеет особо приоритетное значение для сверки авторского голоса.
+8. `themes/theme-2/theme 2 canonical.docx`, `themes/theme-3/theme 3 canonical.docx`, `themes/theme-4/theme 4 canonical.docx` — совместный STYLE CANON финальной русской редакции. Темы 2–4 равноправны при сверке авторского голоса.
 9. `skills/methodical-review.md` — независимая методическая экспертиза.
 10. `themes/темы гигиена беременности — SOURCE TEXT 2–9.docx` — резервуар исходных неканонических материалов; внутренние номера являются legacy labels, поэтому использовать вместе с `themes/SOURCE-TEXT-MAPPING.md` и активной Content Map.
 11. Одобренные пользователем тексты, решения, evidence ledger и Regression Watch конкретной темы — действующий canon/state этой темы после фиксации в репозитории.
@@ -231,7 +231,7 @@ Read-only команда.
 
 Для Final Russian Book Edit использовать `editorial/canonical-style-corpus-v1.0.md` и `plugins/russian-book-editor/references/canonical-style-guide-v1.0.md`.
 
-Theme 1 задаёт глубину, объяснительную функцию, практическую пользу и качество результата. Темы 2–4 задают фактический стиль подачи; Theme 3 имеет особо приоритетное значение для сверки авторского голоса. В вопросах стилистики этот корпус имеет приоритет над более ранними редакторскими эвристиками, но не над безопасностью, утверждённым содержанием, Semantic Lock или явным решением пользователя.
+Theme 1 задаёт глубину, объяснительную функцию, практическую пользу и качество результата. Темы 2–4 совместно задают фактический стиль подачи и имеют равный статус стилевых опор. В вопросах стилистики этот корпус имеет приоритет над более ранними редакторскими эвристиками, но не над безопасностью, утверждённым содержанием, Semantic Lock или явным решением пользователя.
 
 ## 9. ПОСЛЕ FINAL RUSSIAN BOOK EDIT
 
