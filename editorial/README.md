@@ -14,6 +14,6 @@
 
 `project-instructions-v1.6.md` и `project-instructions-v1.7.md` являются историческими версиями и не управляют новой работой после активации v1.8.
 
-Единственный executable `$pregnancy-book-editorial` хранится в `plugins/pregnancy-book-editorial/SKILL.md` и обязан следовать активной process spec. Полноценные исполняющие plugin-пакеты хранятся отдельно в `plugins/`, а одиночные Markdown-skills — в `skills/`.
+Единственный executable `$pregnancy-book-editorial` хранится в `.claude/skills/pregnancy-book-editorial/SKILL.md` и обязан следовать активной process spec. Все навыки проекта лежат в `.claude/skills/` (каждый — папка с `SKILL.md` и внутренними файлами).
 
 При конфликте версий семантические номера значимы: для текущей работы используются Project Instructions v1.8, Editorial v1.6 и Content Map v3.0. Исторические версии не должны управлять активной разработкой.

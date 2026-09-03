@@ -16,7 +16,7 @@ It combines:
 
 This file does NOT replace:
 - `editorial/pregnancy-book-editorial-v1.6.md` as the master editorial PROCESS SPEC / SOURCE OF TRUTH;
-- `skills/methodical-review.md` as the methodological audit framework;
+- `.claude/skills/methodical-review/SKILL.md` as the methodological audit framework;
 - `themes/theme-1/tema_1_final_canonical.docx` as the approved (pre-rebuild) Theme 1 text.
 
 When architecture/content decisions in older maps conflict with this file, **v3.0 has priority**.
@@ -815,7 +815,7 @@ The actual editorial workflow, checkpoint logic, anti-neurophrase work, Russian 
 
 Methodological review is governed by:
 
-> `skills/methodical-review.md`
+> `.claude/skills/methodical-review/SKILL.md`
 
 The active architecture/content map is:
 

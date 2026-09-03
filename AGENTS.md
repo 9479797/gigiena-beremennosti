@@ -193,14 +193,14 @@
 
 Единственный executable orchestrator:
 
-`plugins/pregnancy-book-editorial/SKILL.md`
+`.claude/skills/pregnancy-book-editorial/SKILL.md`
 
 Он обязан следовать активной process spec в `editorial/`.
 
 Специализированные проверки:
 
 - `pregnancy-book-depth-review` — независимая проверка глубины;
-- `skills/methodical-review.md` — независимая методическая экспертиза;
+- `.claude/skills/methodical-review/SKILL.md` — независимая методическая экспертиза;
 - `russian-book-editor` — финальная русская книжная редактура после
   Checkpoint 5 и обязательного разрешения пользователя; для этой книги он обязан применять `editorial/tone-of-voice-v1.0.md`, `editorial/text-architecture-v1.0.md` и свой `canonical-style-guide-v1.0.md` (руководство по русскому языку);
 - `pregnancy-book-prepress-audit` — финальный независимый prepress-аудит.

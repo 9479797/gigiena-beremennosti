@@ -19,8 +19,7 @@
 - `themes/` — исходные, рабочие и финальные тексты тем. Папки отдельных тем добавляются по мере их разработки; legacy SOURCE TEXT маршрутизируется по `themes/SOURCE-TEXT-MAPPING.md`.
 - `research/` — research briefs, source audits, coverage audits и другие исследовательские материалы.
 - `editorial/` — управляющие редакционные документы, workflow, архитектура книги, Checkpoint'ы, критерии качества и инструкции проекта.
-- `plugins/` — полноценные пакеты специализированных навыков с `SKILL.md` и внутренними файлами пакета.
-- `skills/` — одиночные Markdown-skills, не оформленные как полноценные plugin-пакеты.
+- `.claude/skills/` — Claude Code skills проекта: каждый навык — папка с `SKILL.md` и внутренними файлами (`references/`, `agents/`, `assets/`).
 - `sources/` — клинические рекомендации, руководства, научные публикации и другие источники.
 
 ## Активные управляющие документы
@@ -37,9 +36,9 @@
 
 ## Основные контрольные инструменты
 
-- `$pregnancy-book-editorial` (`plugins/pregnancy-book-editorial/`) — единственный executable оркестратор редакционного процесса; следует активной process spec.
+- `$pregnancy-book-editorial` (`.claude/skills/pregnancy-book-editorial/`) — единственный executable оркестратор редакционного процесса; следует активной process spec.
 - `$pregnancy-book-depth-review` — независимые Depth review №1 и №2 / COMPRESSION REGRESSION.
-- `skills/methodical-review.md` — независимая методическая экспертиза после Checkpoint 4 и перед Checkpoint 5.
+- `.claude/skills/methodical-review/SKILL.md` — независимая методическая экспертиза после Checkpoint 4 и перед Checkpoint 5.
 - `$russian-book-editor` — финальная русская книжная редактура после Checkpoint 5 и обязательного подтверждения пользователя.
 - `$pregnancy-book-prepress-audit` — независимый финальный pre-press аудит и издательский вердикт.
 

@@ -31,11 +31,11 @@ When this process specification governs the Pregnancy Book project:
 
 - `editorial/pregnancy-book-evidence-content-map-v3.0.md` controls the current book architecture, topic boundaries, reader jobs, cross-links, and content/evidence map.
 - `themes/theme-1/tema_1_final_canonical.docx` is an approved Theme 1 scheduled for rebuild under the new specification (`editorial/text-architecture-v1.0.md` + `editorial/tone-of-voice-v1.0.md`). It is NOT a quality benchmark, depth reference, style canon, or author-voice reference; do not calibrate other Themes against it.
-- `skills/methodical-review.md` governs independent methodological review.
+- `.claude/skills/methodical-review/SKILL.md` governs independent methodological review.
 - `$russian-book-editor` governs the final Russian language-and-logic reconstruction after Checkpoint 5 and an explicit user STOP. It is the last development stage allowed to change the text.
 - `$pregnancy-book-depth-review` governs Depth review №1 after Checkpoint 2A and Depth review №2 after the final Russian Book Edit.
 - `$pregnancy-book-prepress-audit` governs the independent final pre-press verdict after the final Russian Book Edit, Depth review №2, and Regression / Canon Check.
-- This file is the **PROCESS AUTHORITY / SOURCE OF TRUTH** for the order of all stages, transition policy, handoffs, returns, state management, final acceptance, and regression/canon control. It is a process specification, not an executable plugin. The only executable `$pregnancy-book-editorial` is `plugins/pregnancy-book-editorial/SKILL.md`.
+- This file is the **PROCESS AUTHORITY / SOURCE OF TRUTH** for the order of all stages, transition policy, handoffs, returns, state management, final acceptance, and regression/canon control. It is a process specification, not an executable skill. The only executable `$pregnancy-book-editorial` is `.claude/skills/pregnancy-book-editorial/SKILL.md`.
 - If architecture/content-map decisions conflict with this process specification's generic structural suggestions, the active project map controls architecture while this process specification controls editorial method.
 - Never silently alter approved project architecture or approved canonical content.
 

@@ -4,7 +4,7 @@ document_type: tone-of-voice-spec
 version: 1.0.0
 status: active
 scope: all-themes
-supersedes: plugins/russian-book-editor/references/pregnancy-author-voice.md
+supersedes: .claude/skills/russian-book-editor/references/pregnancy-author-voice.md
 ---
 
 # Тон изложения v1.0

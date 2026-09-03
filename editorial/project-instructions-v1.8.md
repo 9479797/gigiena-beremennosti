@@ -36,14 +36,14 @@ persistent_source_of_truth: github-repository
 1. `AGENTS.md` — корневая точка входа и правила работы с репозиторием.
 2. `editorial/project-instructions-v1.8.md` — активная инструкция интеграции Project ↔ GitHub, приоритеты, команды, правила состояния и действующий стилевой ориентир.
 3. `editorial/pregnancy-book-editorial-v1.6.md` — активная **PROCESS SPEC / PROCESS AUTHORITY / SOURCE OF TRUTH** для порядка этапов, Checkpoint’ов, пользовательских остановок, автоматических переходов, возвратов и финального принятия. Это не executable skill.
-4. `plugins/pregnancy-book-editorial/SKILL.md` — единственный executable `$pregnancy-book-editorial`; он обязан следовать активной process spec.
+4. `.claude/skills/pregnancy-book-editorial/SKILL.md` — единственный executable `$pregnancy-book-editorial`; он обязан следовать активной process spec.
 5. `editorial/pregnancy-book-evidence-content-map-v3.0.md` — активная архитектура книги, reader jobs, границы тем, coverage, cross-links и evidence priorities.
 6. `editorial/text-architecture-v1.0.md` — активная спецификация устройства текста темы: единицы текста, право информации на объём, критерий пустого объёма.
 7. `editorial/tone-of-voice-v1.0.md` — активная спецификация голоса книги: регистр, обращение к читательнице, модальность, словарь, режимы речи, присутствие автора.
 8. `editorial/templates/evidence-ledger-template.md` — обязательный шаблон evidence ledger темы; копируется в `themes/theme-N/evidence-ledger.md` при начале работы над темой.
 9. `themes/theme-1/tema_1_final_canonical.docx` — одобренная Theme 1; подлежит пересборке по новой спецификации (`editorial/text-architecture-v1.0.md` + `editorial/tone-of-voice-v1.0.md`). Не эталон глубины; опору для других тем в ней не искать.
 10. `themes/theme-2/theme 2 canonical.docx`, `themes/theme-3/theme 3 canonical.docx`, `themes/theme-4/theme 4 canonical.docx` — одобренные тексты тем 2–4; подлежат проверке. Не STYLE CANON.
-11. `skills/methodical-review.md` — независимая методическая экспертиза.
+11. `.claude/skills/methodical-review/SKILL.md` — независимая методическая экспертиза.
 12. `themes/темы гигиена беременности — SOURCE TEXT 2–9.docx` — резервуар исходных неканонических материалов; внутренние номера являются legacy labels, поэтому использовать вместе с `themes/SOURCE-TEXT-MAPPING.md` и активной Content Map.
 13. Одобренные пользователем тексты, решения, evidence ledger и Regression Watch конкретной темы — действующий canon/state этой темы после фиксации в репозитории.
 
@@ -233,7 +233,7 @@ Read-only команда.
 
 ### 8.1. СТИЛЕВОЙ ОРИЕНТИР
 
-Для Final Russian Book Edit использовать `editorial/tone-of-voice-v1.0.md` (голос) и `editorial/text-architecture-v1.0.md` (устройство текста); `plugins/russian-book-editor/references/canonical-style-guide-v1.0.md` применять как руководство по русскому языку, синтаксису и борьбе с канцеляритом.
+Для Final Russian Book Edit использовать `editorial/tone-of-voice-v1.0.md` (голос) и `editorial/text-architecture-v1.0.md` (устройство текста); `.claude/skills/russian-book-editor/references/canonical-style-guide-v1.0.md` применять как руководство по русскому языку, синтаксису и борьбе с канцеляритом.
 
 `editorial/canonical-style-corpus-v1.0.md` выведен из обращения. Темы 1–4 не являются каноном стиля или эталоном глубины: Theme 1 одобрена и подлежит пересборке по новой спецификации, темы 2–4 одобрены и подлежат проверке. Опору для новых тем в них не искать. Спецификации голоса и текста имеют приоритет над более ранними редакторскими эвристиками, но не над безопасностью, утверждённым содержанием, Semantic Lock или явным решением пользователя.
 

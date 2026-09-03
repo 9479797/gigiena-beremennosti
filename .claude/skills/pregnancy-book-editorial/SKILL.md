@@ -12,9 +12,9 @@ description: Управлять разработкой русскоязычны�
 - активный `editorial/pregnancy-book-editorial-v1.6.md` — **PROCESS AUTHORITY / SOURCE OF TRUTH** и неисполняемая process spec для порядка этапов, Checkpoint’ов, пользовательских остановок, автоматических переходов, handoff’ов, возвратов и правил финального принятия;
 - `$pregnancy-book-editorial` — **ORCHESTRATOR / EXECUTABLE WORKFLOW LAYER**, который читает активный editorial-файл и ведёт тему по установленному им маршруту.
 
-`plugins/pregnancy-book-editorial/SKILL.md` — единственный executable skill с именем `pregnancy-book-editorial`; файл в `editorial/` не должен трактоваться как второй экземпляр навыка.
+`.claude/skills/pregnancy-book-editorial/SKILL.md` — единственный executable skill с именем `pregnancy-book-editorial`; файл в `editorial/` не должен трактоваться как второй экземпляр навыка.
 
-Если текст этого plugin расходится с активным editorial-файлом, применять активный editorial-файл и не создавать параллельную версию процесса внутри plugin.
+Если текст этого навыка расходится с активным editorial-файлом, применять активный editorial-файл и не создавать параллельную версию процесса внутри навыка.
 
 ## Загрузить рабочую базу
 
@@ -24,7 +24,7 @@ description: Управлять разработкой русскоязычны�
 2. `editorial/pregnancy-book-evidence-content-map-v3.0.md` — активную архитектуру, reader job, границы темы, coverage и cross-links;
 3. `editorial/text-architecture-v1.0.md` и `editorial/tone-of-voice-v1.0.md` — действующие спецификации устройства текста и голоса книги;
 4. `editorial/templates/evidence-ledger-template.md` — обязательный шаблон evidence ledger темы;
-5. `skills/methodical-review.md` — правила независимой методической экспертизы, когда она относится к запросу;
+5. `.claude/skills/methodical-review/SKILL.md` — правила независимой методической экспертизы, когда она относится к запросу;
 6. `themes/темы гигиена беременности — SOURCE TEXT 2–9.docx` — резервуар исходных текстов неканонических тем; при выборе материала обязательно сверять legacy labels с `themes/SOURCE-TEXT-MAPPING.md`;
 7. текущий черновик, redline, чистую версию, evidence ledger и журнал решений, если они доступны.
 

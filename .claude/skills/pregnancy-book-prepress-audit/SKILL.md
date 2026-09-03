@@ -29,7 +29,7 @@ description: Проводить независимый финальный ред
 2. `pregnancy-book-evidence-content-map-v*.md`;
 3. `pregnancy-book-editorial-v*.md`;
 4. `editorial/text-architecture-v1.0.md` и `editorial/tone-of-voice-v1.0.md` как действующий стандарт устройства текста и голоса;
-5. `methodical-review*.md` либо установленный эквивалент;
+5. `.claude/skills/methodical-review/SKILL.md`;
 6. клинические источники темы, evidence ledger, approved canon, decisions и Regression Watch;
 7. отчёт Depth review №2 после финального Russian Book Edit, если он относится к этой точной версии текста, и замороженную содержательную версию Checkpoint 5 как regression baseline.
 

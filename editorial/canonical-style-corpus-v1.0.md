@@ -34,14 +34,14 @@ scope: final-russian-book-edit
 > Раздел недействителен. Актуальные правила — editorial/tone-of-voice-v1.0.md.
 
 1. На Final Russian Book Edit сначала зафиксируй SEMANTIC BASELINE редактируемой темы.
-2. Прочитай plugins/russian-book-editor/references/canonical-style-guide-v1.0.md.
+2. Прочитай .claude/skills/russian-book-editor/references/canonical-style-guide-v1.0.md.
 3. Сверь фактический стиль с CANONICAL-файлами тем 2–4 по функции фрагмента, а не по отдельной фразе.
 4. Используй Theme 1 для проверки глубины, объяснённости и практической функции.
 5. Не переносить из STYLE CANON новые факты, дозы, противопоказания, медицинские сценарии, силу рекомендаций или не относящиеся к теме примеры.
 6. При расхождении между ранней редакторской эвристикой и CANONICAL-корпусом в вопросах языка и подачи приоритет имеет корпус тем 2–4.
 7. При конфликте с текущим решением пользователя, медицинской безопасностью, утверждённым содержанием или Semantic Lock стилевой корпус не имеет приоритета.
 
-Полный набор редакторских правил находится в plugins/russian-book-editor/references/canonical-style-guide-v1.0.md.
+Полный набор редакторских правил находится в .claude/skills/russian-book-editor/references/canonical-style-guide-v1.0.md.
 
 ## Границы
 
