@@ -8,7 +8,7 @@
 
 При расхождении с визуальной схемой приоритет имеют:
 - `AGENTS.md`;
-- `editorial/project-instructions-v1.7.md`;
+- `editorial/project-instructions-v1.8.md`;
 - `editorial/pregnancy-book-editorial-v1.6.md`;
 - `editorial/pregnancy-book-evidence-content-map-v3.0.md`;
 - утверждённые решения пользователя.
