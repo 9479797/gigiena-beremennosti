@@ -17,7 +17,7 @@ It combines:
 This file does NOT replace:
 - `editorial/pregnancy-book-editorial-v1.6.md` as the master editorial PROCESS SPEC / SOURCE OF TRUTH;
 - `skills/methodical-review.md` as the methodological audit framework;
-- `themes/theme-1/tema_1_final_canonical.docx` as the canonical completed Theme 1.
+- `themes/theme-1/tema_1_final_canonical.docx` as the approved (pre-rebuild) Theme 1 text.
 
 When architecture/content decisions in older maps conflict with this file, **v3.0 has priority**.
 
@@ -25,7 +25,7 @@ When architecture/content decisions in older maps conflict with this file, **v3.
 
 # 1. PROJECT STATUS
 
-- Theme 1: CANONICAL and complete.
+- Theme 1: approved; scheduled for rebuild under the new specification (`editorial/text-architecture-v1.0.md` + `editorial/tone-of-voice-v1.0.md`). No normative status.
 - Section 0: Fast Help / urgent safety navigator; not a numbered main Theme.
 - Orientation section: brief guide to medical monitoring in pregnancy.
 - Themes 2–11: active working architecture.
@@ -132,9 +132,8 @@ Suggested evidence statuses:
 4. Section 0 may duplicate red flags from any Theme.
 5. Do not silently redesign the top-level architecture.
 6. If evidence or source audit reveals a major structural gap or overlap, identify it and propose a change before modifying the canon.
-7. Theme 1 remains the benchmark for depth, practical usefulness, explanation quality, and reader orientation.
-8. Do not compress before confirming medical completeness.
-9. Literary editing must not reduce explanation depth.
+7. Do not compress before confirming medical completeness.
+8. Literary editing must not reduce explanation depth.
 
 ---
 
@@ -817,10 +816,6 @@ The actual editorial workflow, checkpoint logic, anti-neurophrase work, Russian 
 Methodological review is governed by:
 
 > `skills/methodical-review.md`
-
-Theme 1 quality benchmark is governed by:
-
-> `themes/theme-1/tema_1_final_canonical.docx`
 
 The active architecture/content map is:
 

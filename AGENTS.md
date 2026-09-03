@@ -13,6 +13,15 @@
 может быть текущим входом в работу. Если он расходится с репозиторием,
 сначала определить его статус и не заменять утверждённый канон молча.
 
+## Текущий режим проекта
+
+Проект находится в фазе переработки правил.
+
+- Новые темы не начинаются. Команды `START THEME N` / `CONTINUE THEME N` не запускать без явного нового решения пользователя.
+- Темы 1–4 нормативного статуса не имеют. Theme 1 одобрена и подлежит пересборке по новой спецификации; темы 2–4 одобрены и подлежат проверке. Их нельзя использовать как эталон глубины, STYLE CANON или ориентир авторского голоса.
+- Действующая спецификация текста и голоса: `editorial/text-architecture-v1.0.md` и `editorial/tone-of-voice-v1.0.md`.
+- Следующий шаг проекта — пилотная тема, написанная по новой спецификации.
+
 ## Что прочитать перед работой
 
 Для быстрого обзора структуры репозитория, связей файлов и полного маршрута текста можно открыть [визуальную карту проекта](editorial/diagrams/repository-workflow-map.png). Карта носит поясняющий характер и не заменяет управляющие документы.
@@ -24,7 +33,7 @@
 
 1. `editorial/project-instructions-v1.8.md`
    — активная GitHub-first инструкция проекта, приоритеты, стандартные команды,
-   правила состояния темы, связи Project ↔ GitHub и действующий CANONICAL style corpus.
+   правила состояния темы, связи Project ↔ GitHub и действующий стилевой ориентир.
 
 2. `editorial/pregnancy-book-editorial-v1.6.md`
    — PROCESS SPEC / PROCESS AUTHORITY / SOURCE OF TRUTH для Checkpoint'ов,
@@ -34,14 +43,22 @@
    — активная архитектура книги, reader jobs, границы тем, coverage,
    cross-links и evidence priorities.
 
-4. `editorial/canonical-style-corpus-v1.0.md`
-   — активное распределение ролей CANONICAL-текстов и порядок их применения при финальной русской редактуре.
+4. `editorial/text-architecture-v1.0.md`
+   — активная спецификация устройства текста темы: единицы текста, право информации на объём, критерий пустого объёма.
 
-5. `themes/theme-1/tema_1_final_canonical.docx`
-   — CANONICAL Theme 1, эталон глубины, объяснительной насыщенности, практической полезности и качества результата; не шаблон структуры, ритма или длины.
+5. `editorial/tone-of-voice-v1.0.md`
+   — активная спецификация голоса книги: регистр, обращение к читательнице, модальность, словарь, режимы речи, присутствие автора.
 
-6. `themes/theme-2/theme 2 canonical.docx`, `themes/theme-3/theme 3 canonical.docx`, `themes/theme-4/theme 4 canonical.docx`
-   — совместный STYLE CANON финальной русской редакции; темы 2–4 равноправны при сверке авторского голоса.
+6. `editorial/templates/evidence-ledger-template.md`
+   — обязательный шаблон evidence ledger темы; копируется в `themes/theme-N/evidence-ledger.md` при начале работы над темой.
+
+7. `themes/theme-1/tema_1_final_canonical.docx`
+   — одобренная Theme 1; подлежит пересборке по новой спецификации (`editorial/text-architecture-v1.0.md` + `editorial/tone-of-voice-v1.0.md`). Не эталон глубины; опору для других тем в ней не искать.
+
+8. `themes/theme-2/theme 2 canonical.docx`, `themes/theme-3/theme 3 canonical.docx`, `themes/theme-4/theme 4 canonical.docx`
+   — одобренные тексты тем 2–4; подлежат проверке. Не STYLE CANON.
+
+`editorial/canonical-style-corpus-v1.0.md` выведен из обращения (status: retired); стиль задаётся `editorial/tone-of-voice-v1.0.md`.
 
 `editorial/project-instructions-v1.6.md` и `editorial/project-instructions-v1.7.md` являются историческими версиями.
 
@@ -106,10 +123,9 @@
 
 ## Канон и исходные материалы
 
-`themes/theme-1/tema_1_final_canonical.docx` имеет статус CANONICAL.
-Не переписывать, не сокращать и не изменять его без явного решения пользователя.
+`themes/theme-1/tema_1_final_canonical.docx` — одобренная Theme 1, подлежит пересборке по новой спецификации (`editorial/text-architecture-v1.0.md` + `editorial/tone-of-voice-v1.0.md`). Не эталон глубины; опору для других тем в ней не искать. Не переписывать, не сокращать и не изменять его без явного решения пользователя.
 
-`themes/theme-2/theme 2 canonical.docx`, `themes/theme-3/theme 3 canonical.docx` и `themes/theme-4/theme 4 canonical.docx` имеют статус CANONICAL и совместно задают фактический стиль Final Russian Book Edit. Их роли и границы зафиксированы в `editorial/canonical-style-corpus-v1.0.md`. Не использовать эти файлы как источник новых медицинских положений для другой темы.
+`themes/theme-2/theme 2 canonical.docx`, `themes/theme-3/theme 3 canonical.docx` и `themes/theme-4/theme 4 canonical.docx` — одобренные тексты, подлежат проверке. Не STYLE CANON. Не использовать эти файлы как источник новых медицинских положений для другой темы. `editorial/canonical-style-corpus-v1.0.md` выведен из обращения; стиль задаётся `editorial/tone-of-voice-v1.0.md`.
 
 Файл:
 
@@ -186,7 +202,7 @@
 - `pregnancy-book-depth-review` — независимая проверка глубины;
 - `skills/methodical-review.md` — независимая методическая экспертиза;
 - `russian-book-editor` — финальная русская книжная редактура после
-  Checkpoint 5 и обязательного разрешения пользователя; для этой книги он обязан применять `editorial/canonical-style-corpus-v1.0.md` и свой `canonical-style-guide-v1.0.md`;
+  Checkpoint 5 и обязательного разрешения пользователя; для этой книги он обязан применять `editorial/tone-of-voice-v1.0.md`, `editorial/text-architecture-v1.0.md` и свой `canonical-style-guide-v1.0.md` (руководство по русскому языку);
 - `pregnancy-book-prepress-audit` — финальный независимый prepress-аудит.
 
 Не объединять их роли и не позволять одному инструменту молча заменять другой.

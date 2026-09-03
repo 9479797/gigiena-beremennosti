@@ -2,11 +2,13 @@
 document_id: pregnancy-book-canonical-style-corpus
 document_type: canonical-style-corpus
 version: 1.0.0
-status: active
+status: retired
 scope: final-russian-book-edit
 ---
 
 # CANONICAL Style Corpus v1.0
+
+> Документ выведен из обращения. Стиль книги теперь задаётся `editorial/tone-of-voice-v1.0.md`, а устройство текста — `editorial/text-architecture-v1.0.md`. Темы 1–4 нормативного статуса стиля или глубины не имеют.
 
 ## Назначение
 

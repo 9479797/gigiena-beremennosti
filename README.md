@@ -25,12 +25,15 @@
 
 ## Активные управляющие документы
 
-- `editorial/project-instructions-v1.8.md` — активная GitHub-first инструкция проекта: связь Project ↔ GitHub, приоритеты, стандартные команды, правила сохранения состояния тем и CANONICAL style corpus.
+- `editorial/project-instructions-v1.8.md` — активная GitHub-first инструкция проекта: связь Project ↔ GitHub, приоритеты, стандартные команды, правила сохранения состояния тем и действующий стилевой ориентир.
 - `editorial/pregnancy-book-editorial-v1.6.md` — **PROCESS SPEC / PROCESS AUTHORITY / SOURCE OF TRUTH** для порядка этапов, Checkpoint'ов, остановок, переходов, возвратов и финального принятия тем. Это не executable skill.
 - `editorial/pregnancy-book-evidence-content-map-v3.0.md` — активная архитектура книги: reader jobs, границы тем, coverage, cross-links и evidence priorities.
-- `editorial/canonical-style-corpus-v1.0.md` — действующий CANONICAL-корпус и распределение ролей Theme 1–4 для будущей финальной русской редакции.
-- `themes/theme-1/tema_1_final_canonical.docx` — CANONICAL Theme 1, эталон глубины, объяснения, практической пользы и качества результата.
-- `themes/theme-2/theme 2 canonical.docx`, `themes/theme-3/theme 3 canonical.docx`, `themes/theme-4/theme 4 canonical.docx` — совместный STYLE CANON; темы 2–4 равноправны при сверке авторского голоса.
+- `editorial/text-architecture-v1.0.md` — активная спецификация устройства текста темы: единицы текста, право информации на объём, критерий пустого объёма.
+- `editorial/tone-of-voice-v1.0.md` — активная спецификация голоса книги: регистр, обращение к читательнице, модальность, словарь, режимы речи.
+- `editorial/templates/evidence-ledger-template.md` — обязательный шаблон evidence ledger темы (копируется в `themes/theme-N/evidence-ledger.md`).
+- `editorial/canonical-style-corpus-v1.0.md` — выведен из обращения (status: retired); стиль задаётся `editorial/tone-of-voice-v1.0.md`.
+- `themes/theme-1/tema_1_final_canonical.docx` — одобренная Theme 1; подлежит пересборке по новой спецификации (`editorial/text-architecture-v1.0.md` + `editorial/tone-of-voice-v1.0.md`). Не эталон глубины; опору для других тем в ней не искать.
+- `themes/theme-2/theme 2 canonical.docx`, `themes/theme-3/theme 3 canonical.docx`, `themes/theme-4/theme 4 canonical.docx` — одобренные тексты тем 2–4; подлежат проверке. Не STYLE CANON.
 
 ## Основные контрольные инструменты
 
@@ -60,4 +63,4 @@
 
 ## Статус проекта
 
-Проект находится в активной разработке.
+Проект находится в активной разработке. Сейчас идёт переработка правил: новые темы не начинаются, темы 1–4 нормативного статуса не имеют, следующий шаг — пилотная тема по новой спецификации (`editorial/text-architecture-v1.0.md` + `editorial/tone-of-voice-v1.0.md`).

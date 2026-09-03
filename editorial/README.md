@@ -4,10 +4,13 @@
 
 ## Активные документы
 
-- `project-instructions-v1.8.md` — активная GitHub-first инструкция проекта: постоянный SOURCE OF TRUTH, связь Project ↔ GitHub, стандартные команды, правила состояния тем, CANONICAL style corpus и политика дубликатов skills/files.
+- `project-instructions-v1.8.md` — активная GitHub-first инструкция проекта: постоянный SOURCE OF TRUTH, связь Project ↔ GitHub, стандартные команды, правила состояния тем, действующий стилевой ориентир и политика дубликатов skills/files.
 - `pregnancy-book-editorial-v1.6.md` — **PROCESS SPEC / PROCESS AUTHORITY / SOURCE OF TRUTH** для маршрута разработки, Checkpoint'ов, остановок, автоматических переходов, возвратов и финального принятия тем. Это управляющий документ, а не executable skill.
 - `pregnancy-book-evidence-content-map-v3.0.md` — активная архитектура книги: reader jobs, границы тем, coverage, cross-links, evidence priorities и правила глубины.
-- `canonical-style-corpus-v1.0.md` — действующий CANONICAL-корпус и границы применения Theme 1–4 при Final Russian Book Edit.
+- `text-architecture-v1.0.md` — активная спецификация устройства текста темы: единицы текста, право информации на объём, критерий пустого объёма.
+- `tone-of-voice-v1.0.md` — активная спецификация голоса книги: регистр, обращение к читательнице, модальность, словарь, режимы речи, присутствие автора.
+- `templates/evidence-ledger-template.md` — обязательный шаблон evidence ledger темы; копируется в `themes/theme-N/evidence-ledger.md`.
+- `canonical-style-corpus-v1.0.md` — выведен из обращения (status: retired); стиль задаётся `tone-of-voice-v1.0.md`.
 
 `project-instructions-v1.6.md` и `project-instructions-v1.7.md` являются историческими версиями и не управляют новой работой после активации v1.8.
 

@@ -30,8 +30,7 @@ Do not silently add, correct, reconcile, or replace medical claims with general 
 When this process specification governs the Pregnancy Book project:
 
 - `editorial/pregnancy-book-evidence-content-map-v3.0.md` controls the current book architecture, topic boundaries, reader jobs, cross-links, and content/evidence map.
-- `themes/theme-1/tema_1_final_canonical.docx` is the CANONICAL QUALITY BENCHMARK: a completed approved Theme 1 used to calibrate depth, practical usefulness, explanation quality, reader orientation, and overall book-level standard.
-- The canonical Theme 1 is an outcome benchmark, not a rigid structural template. Do not mechanically copy its section structure, paragraph rhythm, examples, or wording into other Themes.
+- `themes/theme-1/tema_1_final_canonical.docx` is an approved Theme 1 scheduled for rebuild under the new specification (`editorial/text-architecture-v1.0.md` + `editorial/tone-of-voice-v1.0.md`). It is NOT a quality benchmark, depth reference, style canon, or author-voice reference; do not calibrate other Themes against it.
 - `skills/methodical-review.md` governs independent methodological review.
 - `$russian-book-editor` governs the final Russian language-and-logic reconstruction after Checkpoint 5 and an explicit user STOP. It is the last development stage allowed to change the text.
 - `$pregnancy-book-depth-review` governs Depth review №1 after Checkpoint 2A and Depth review №2 after the final Russian Book Edit.
