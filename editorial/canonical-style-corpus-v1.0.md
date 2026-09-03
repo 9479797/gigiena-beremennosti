@@ -12,9 +12,13 @@ scope: final-russian-book-edit
 
 ## Назначение
 
+> Раздел недействителен. Актуальные правила — editorial/tone-of-voice-v1.0.md.
+
 Этот корпус фиксирует утверждённую пользователем стилевую опору для следующих тем книги «Гигиена беременности». Он не меняет медицинские факты, архитектуру книги, процесс Checkpoint'ов или approved canon конкретной темы.
 
 ## Роли CANONICAL-текстов
+
+> Раздел недействителен. Актуальные правила — editorial/tone-of-voice-v1.0.md.
 
 | Файл | Роль |
 |---|---|
@@ -26,6 +30,8 @@ scope: final-russian-book-edit
 Темы 2–4 совместно образуют STYLE CANON для Final Russian Book Edit и имеют равный статус стилевых опор. Theme 1 не теряет своего статуса, но отвечает прежде всего за глубину и качество объяснения.
 
 ## Как применять
+
+> Раздел недействителен. Актуальные правила — editorial/tone-of-voice-v1.0.md.
 
 1. На Final Russian Book Edit сначала зафиксируй SEMANTIC BASELINE редактируемой темы.
 2. Прочитай plugins/russian-book-editor/references/canonical-style-guide-v1.0.md.
@@ -39,6 +45,8 @@ scope: final-russian-book-edit
 
 ## Границы
 
+> Раздел недействителен. Актуальные правила — editorial/tone-of-voice-v1.0.md.
+
 Этот корпус не разрешает:
 
 - заменять CONTENT / MEDICAL REVIEW финальной редактурой;
@@ -48,6 +56,8 @@ scope: final-russian-book-edit
 - изменять CANONICAL-файлы без явного решения пользователя.
 
 ## Installed skill
+
+> Раздел недействителен. Актуальные правила — editorial/tone-of-voice-v1.0.md.
 
 GitHub хранит master/source version навыка. После изменения его source-пакета проверить установленную копию. Пока она не подтверждена как обновлённая, использовать пометку:
 
