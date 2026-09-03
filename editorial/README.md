@@ -4,7 +4,7 @@
 
 ## Активные документы
 
-- `project-instructions-v1.8.md` — активная GitHub-first инструкция проекта: постоянный SOURCE OF TRUTH, связь Project ↔ GitHub, стандартные команды, правила состояния тем, действующий стилевой ориентир и политика дубликатов skills/files.
+- `project-instructions-v1.8.md` — активная GitHub-first инструкция проекта: постоянный SOURCE OF TRUTH, стандартные команды, правила состояния тем, действующий стилевой ориентир и роли навыков.
 - `pregnancy-book-editorial-v1.6.md` — **PROCESS SPEC / PROCESS AUTHORITY / SOURCE OF TRUTH** для маршрута разработки, Checkpoint'ов, остановок, автоматических переходов, возвратов и финального принятия тем. Это управляющий документ, а не executable skill.
 - `pregnancy-book-evidence-content-map-v3.0.md` — активная архитектура книги: reader jobs, границы тем, coverage, cross-links, evidence priorities и правила глубины.
 - `text-architecture-v1.0.md` — активная спецификация устройства текста темы: единицы текста, право информации на объём, критерий пустого объёма.
