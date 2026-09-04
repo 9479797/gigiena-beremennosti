@@ -42,8 +42,8 @@
 Все навыки лежат в `.claude/skills/<имя>/`:
 
 - `$pregnancy-book-editorial` — единственный executable оркестратор редакционного процесса; следует активной process spec.
-- `$pregnancy-book-depth-review` — независимые Depth review №1 и №2 / COMPRESSION REGRESSION.
-- `$methodical-review` — независимая методическая экспертиза после Checkpoint 4 и перед Checkpoint 5.
+- `$pregnancy-book-depth-review` — Depth review №2 / COMPRESSION REGRESSION после финальной редактуры и по запросу проверка плотности; Depth review №1 упразднён, функции в Checkpoint 4.
+- `$methodical-review` — независимая методическая экспертиза по разовому запросу; в маршруте книги этап между Checkpoint 4 и Checkpoint 5 ведёт живая акушерка-редактор.
 - `$russian-book-editor` — финальная русская книжная редактура после Checkpoint 5 и обязательного подтверждения пользователя.
 - `$pregnancy-book-prepress-audit` — независимый финальный pre-press аудит и издательский вердикт.
 
