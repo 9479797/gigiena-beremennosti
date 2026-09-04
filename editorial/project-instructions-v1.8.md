@@ -35,7 +35,7 @@ persistent_source_of_truth: github-repository
 
 1. `AGENTS.md` — корневая точка входа и правила работы с репозиторием.
 2. `editorial/project-instructions-v1.8.md` — активная инструкция интеграции Project ↔ GitHub, приоритеты, команды, правила состояния и действующий стилевой ориентир.
-3. `editorial/pregnancy-book-editorial-v1.6.md` — активная **PROCESS SPEC / PROCESS AUTHORITY / SOURCE OF TRUTH** для порядка этапов, Checkpoint’ов, пользовательских остановок, автоматических переходов, возвратов и финального принятия. Это не executable skill.
+3. `editorial/pregnancy-book-editorial-v1.7.md` — активная **PROCESS SPEC / PROCESS AUTHORITY / SOURCE OF TRUTH** для порядка этапов, Checkpoint’ов, пользовательских остановок, автоматических переходов, возвратов и финального принятия. Это не executable skill. `editorial/pregnancy-book-editorial-v1.6.md` — историческая версия (`status: superseded`).
 4. `.claude/skills/pregnancy-book-editorial/SKILL.md` — единственный executable `$pregnancy-book-editorial`; он обязан следовать активной process spec.
 5. `editorial/pregnancy-book-evidence-content-map-v3.0.md` — активная архитектура книги, reader jobs, границы тем, coverage, cross-links и evidence priorities.
 6. `editorial/human-review-roles-v1.0.md` — спецификация участников проверки и их мест в маршруте: кто подключается на каком этапе, что получает и что возвращает; hold-состояния ожидания живого участника.
@@ -77,7 +77,7 @@ persistent_source_of_truth: github-repository
 
 Двухслойной схемы «GitHub master + установленная копия» больше нет. Правило `SKILL UPDATE REQUIRED` отменяется: изменение `SKILL.md` в репозитории само по себе делает новую версию действующей.
 
-Единственный executable — `.claude/skills/pregnancy-book-editorial/SKILL.md`. Файл `editorial/pregnancy-book-editorial-v1.6.md` остаётся неисполняемой PROCESS SPEC и не является вторым экземпляром навыка.
+Единственный executable — `.claude/skills/pregnancy-book-editorial/SKILL.md`. Файл `editorial/pregnancy-book-editorial-v1.7.md` остаётся неисполняемой PROCESS SPEC и не является вторым экземпляром навыка.
 
 ## 5. СОСТОЯНИЕ КАЖДОЙ ТЕМЫ
 
@@ -140,15 +140,11 @@ README темы является навигацией и state record, а не �
 4. продолжить до следующего **реального пользовательского gate** или предусмотренного hold;
 5. соблюдать все автоматические связки активной process spec.
 
-На текущем процессе пользовательские gates сохраняются после Checkpoint 0, 1, 3 и 4, после Methodical review перед Checkpoint 5 и обязательно после Checkpoint 5 перед Final Russian Book Edit.
+На текущем процессе (v1.7) пользовательские gates сохраняются после Checkpoint 0, 1, 3 и 4, после Checkpoint 5 и обязательно перед Final Russian Book Edit. Между Checkpoint 4 и Checkpoint 5 маршрут проходит через живую экспертизу применимости акушерки-редактора (hold `MIDWIFE REVIEW PENDING`); между Checkpoint 5 и USER STOP — через медицинскую проверку врача-рецензента (hold `MEDICAL REVIEW PENDING`).
 
-Автоматические связки, не требующие промежуточного подтверждения:
+Единственная автоматическая связка внутри разработки — `Checkpoint 2 → Checkpoint 3`.
 
-`Checkpoint 2 → Checkpoint 2A → Depth review №1 → Checkpoint 3`
-
-и после обязательного разрешения перед финальной редактурой:
-
-`Final Russian Book Edit → Depth review №2 / COMPRESSION REGRESSION → Regression / Canon Check → pregnancy-book-prepress-audit`.
+После обязательного разрешения перед финальной редактурой: `Final Russian Book Edit → Depth review №2 / COMPRESSION REGRESSION`. Далее — читательская проверка пользователем, и только после неё prepress-аудит (не автоматически за Depth review №2). Regression / Canon Check в v1.7 — первый проход prepress-аудита, а не отдельный этап.
 
 Если сообщение пользователя одновременно одобряет текущий gate и просит продолжить, это считается достаточным подтверждением этого gate; повторно спрашивать то же разрешение не нужно.
 
@@ -194,7 +190,7 @@ Read-only команда.
 
 ## 7. CHECKPOINTS: НЕ ДОБАВЛЯТЬ ЛИШНИЕ ОДОБРЕНИЯ
 
-Точный порядок Checkpoint’ов и возвратов определяется `editorial/pregnancy-book-editorial-v1.6.md`.
+Точный порядок Checkpoint’ов и возвратов определяется `editorial/pregnancy-book-editorial-v1.7.md`.
 
 Команды проекта не должны превращать каждый технический шаг в вопрос пользователю.
 

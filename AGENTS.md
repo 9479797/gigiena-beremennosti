@@ -35,9 +35,10 @@
    — активная GitHub-first инструкция проекта, приоритеты, стандартные команды,
    правила состояния темы, связи Project ↔ GitHub и действующий стилевой ориентир.
 
-2. `editorial/pregnancy-book-editorial-v1.6.md`
+2. `editorial/pregnancy-book-editorial-v1.7.md`
    — PROCESS SPEC / PROCESS AUTHORITY / SOURCE OF TRUTH для Checkpoint'ов,
    переходов, остановок, возвратов и финального принятия.
+   `editorial/pregnancy-book-editorial-v1.6.md` — историческая версия, не управляет активной работой.
 
 3. `editorial/pregnancy-book-evidence-content-map-v3.0.md`
    — активная архитектура книги, reader jobs, границы тем, coverage,
@@ -119,13 +120,15 @@
 Ясная русская формулировка с тем же смыслом может трактоваться как
 соответствующая команда.
 
-Сохранять согласованные автоматические связки активной process spec:
+Сохранять согласованные автоматические связки активной process spec (v1.7):
 
-`Checkpoint 2 → Checkpoint 2A → Depth review №1 → Checkpoint 3`
+`Checkpoint 2 → Checkpoint 3`
 
 и после обязательного разрешения перед финальной редактурой:
 
-`Final Russian Book Edit → Depth review №2 / COMPRESSION REGRESSION → Regression / Canon Check → pregnancy-book-prepress-audit`.
+`Final Russian Book Edit → Depth review №2 / COMPRESSION REGRESSION`.
+
+Prepress-аудит запускается после читательской проверки, а не автоматически за Depth review №2. Regression / Canon Check в v1.7 не отдельный этап, а первый проход prepress-аудита.
 
 Не запрашивать повторное подтверждение gate, если сообщение пользователя уже
 явно одобряет текущий gate и просит продолжить.
@@ -208,8 +211,8 @@
 
 Специализированные проверки:
 
-- `pregnancy-book-depth-review` — независимая проверка глубины;
-- `.claude/skills/methodical-review/SKILL.md` — независимая методическая экспертиза;
+- `pregnancy-book-depth-review` — независимая проверка глубины: Depth review №2 / COMPRESSION REGRESSION и по запросу проверка плотности (Depth review №1 как отдельный этап в v1.7 упразднён, его функции в Checkpoint 4);
+- `.claude/skills/methodical-review/SKILL.md` — независимая методическая экспертиза; в маршруте книги «Гигиена беременности» этот этап заменён живой экспертизой применимости акушерки-редактора (v1.7, раздел 8), навык остаётся доступен для разовых проверок по прямому запросу;
 - `russian-book-editor` — финальная русская книжная редактура после
   Checkpoint 5 и обязательного разрешения пользователя; для этой книги он обязан применять `editorial/tone-of-voice-v1.0.md`, `editorial/text-architecture-v1.0.md` и свой `canonical-style-guide-v1.0.md` (руководство по русскому языку);
 - `pregnancy-book-prepress-audit` — финальный независимый prepress-аудит.

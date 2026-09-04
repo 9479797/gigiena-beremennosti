@@ -15,7 +15,7 @@ It combines:
 - selected development rules that do not need to live in Project Instructions.
 
 This file does NOT replace:
-- `editorial/pregnancy-book-editorial-v1.6.md` as the master editorial PROCESS SPEC / SOURCE OF TRUTH;
+- `editorial/pregnancy-book-editorial-v1.7.md` as the master editorial PROCESS SPEC / SOURCE OF TRUTH (`v1.6` is superseded and historical);
 - `.claude/skills/methodical-review/SKILL.md` as the methodological audit framework;
 - `themes/theme-1/tema_1_final_canonical.docx` as the approved (pre-rebuild) Theme 1 text.
 
@@ -811,7 +811,7 @@ This file contains architecture and content-policy detail.
 
 The actual editorial workflow, checkpoint logic, anti-neurophrase work, Russian narrative reconstruction, final acceptance, and regression checks are governed by:
 
-> `editorial/pregnancy-book-editorial-v1.6.md`
+> `editorial/pregnancy-book-editorial-v1.7.md`
 
 Methodological review is governed by:
 

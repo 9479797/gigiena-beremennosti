@@ -25,7 +25,7 @@
 ## Активные управляющие документы
 
 - `editorial/project-instructions-v1.8.md` — активная GitHub-first инструкция проекта: связь Project ↔ GitHub, приоритеты, стандартные команды, правила сохранения состояния тем и действующий стилевой ориентир.
-- `editorial/pregnancy-book-editorial-v1.6.md` — **PROCESS SPEC / PROCESS AUTHORITY / SOURCE OF TRUTH** для порядка этапов, Checkpoint'ов, остановок, переходов, возвратов и финального принятия тем. Это не executable skill.
+- `editorial/pregnancy-book-editorial-v1.7.md` — **PROCESS SPEC / PROCESS AUTHORITY / SOURCE OF TRUTH** для порядка этапов, Checkpoint'ов, остановок, переходов, возвратов и финального принятия тем. Это не executable skill. `editorial/pregnancy-book-editorial-v1.6.md` — историческая версия.
 - `editorial/pregnancy-book-evidence-content-map-v3.0.md` — активная архитектура книги: reader jobs, границы тем, coverage, cross-links и evidence priorities.
 - `editorial/human-review-roles-v1.0.md` — спецификация участников проверки и их мест в маршруте: кто подключается на каком этапе, что получает и что возвращает.
 - `editorial/theme-reconnaissance-v1.0.md` — спецификация этапа разведки темы перед Checkpoint 0: как определяется, из чего тема может состоять.
@@ -63,7 +63,7 @@
 
 Старые копии файлов не создаются без необходимости. Значимые изменения фиксируются отдельными commit'ами с понятным описанием.
 
-Семантические версии управляющих документов значимы. Для текущего процесса используются Project Instructions v1.8, Editorial v1.6 и Content Map v3.0; исторические версии не должны управлять активной разработкой.
+Семантические версии управляющих документов значимы. Для текущего процесса используются Project Instructions v1.8, Editorial v1.7 и Content Map v3.0; исторические версии не должны управлять активной разработкой.
 
 ## Статус проекта
 
