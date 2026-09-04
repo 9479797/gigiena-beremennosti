@@ -162,7 +162,7 @@ Coverage-список Content Map — перечень обязательног�
 
 Заполнить строки evidence ledger по каждому существенному утверждению.
 
-`АВТОМАТИЧЕСКИЙ ПЕРЕХОД → Checkpoint 3`. Остановка только при `MEDICAL HOLD`, `CANON CONFLICT` или `AUTHOR DECISION REQUIRED`.
+`АВТОМАТИЧЕСКИЙ ПЕРЕХОД → Checkpoint 3`. Остановка только при `MEDICAL HOLD`, `CANON CONFLICT` или `USER CHOICE REQUIRED`.
 
 ### Checkpoint 3 — Анти-шаблон и человечность
 
