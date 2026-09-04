@@ -119,14 +119,14 @@ README темы является навигацией и state record, а не �
 3. найти релевантный исходный материал через `SOURCE-TEXT-MAPPING.md`;
 4. проверить существующие `themes/theme-N/`, `research/theme-N/` и связанные sources;
 5. если тема действительно начинается и `themes/theme-N/` отсутствует — инициализировать её созданием `themes/theme-N/README.md`; пустую папку не создавать;
-6. определить правильный вход: `SOURCE AUDIT` или `RESEARCH-BRIEF AUDIT`;
-7. без лишних подтверждений выполнить входной участок процесса:
+6. выполнить разведку темы по `editorial/theme-reconnaissance-v1.0.md`. Материал любого типа — legacy-глава, бриф, конспект, outline — на разведке считается материалом. Не считать бриф готовой главой и не переходить от сырого текста к книжной переработке, минуя спину темы. Если для темы нет документа, задающего границы нормы, объявить `SOURCE MISSING`;
+7. передать отчёт разведки пользователю и дождаться отбора кандидатов, затем перейти к Checkpoint 0:
 
-`SOURCE AUDIT / RESEARCH-BRIEF AUDIT → CONTENT COVERAGE → предварительный EVIDENCE & GAP ANALYSIS → Checkpoint 0`;
+`РАЗВЕДКА ТЕМЫ → отбор кандидатов пользователем → Checkpoint 0`;
 
 8. остановиться на существующем пользовательском gate после Checkpoint 0.
 
-Не спрашивать отдельное разрешение между входными этапами, если process spec не требует остановки и нет `MEDICAL HOLD`, `CANON CONFLICT`, `AUTHOR DECISION REQUIRED` или другой предусмотренной блокировки.
+Не спрашивать отдельное разрешение между входными этапами, если process spec не требует остановки и нет `MEDICAL HOLD`, `CANON CONFLICT`, `USER CHOICE REQUIRED` или другой предусмотренной блокировки.
 
 ### `CONTINUE THEME N`
 
@@ -200,8 +200,13 @@ Read-only команда.
 - на обязательном STOP после Checkpoint 5;
 - при `MEDICAL HOLD`;
 - при `CANON CONFLICT`;
-- при `AUTHOR DECISION REQUIRED`;
-- при неустранимой неоднозначности (`AMBIGUOUS_MEANING / UNRESOLVED REDLINE`) или иной блокировке, предусмотренной активной process spec.
+- при `USER CHOICE REQUIRED`;
+- при неустранимой неоднозначности (`AMBIGUOUS_MEANING / UNRESOLVED REDLINE`);
+- при `SOURCE MISSING`;
+- при `USER DECISION REQUIRED`;
+- при `MIDWIFE REVIEW PENDING`;
+- при `MEDICAL REVIEW PENDING`;
+- при иной блокировке, предусмотренной активной process spec.
 
 Во всех остальных случаях используй согласованные автоматические переходы.
 
