@@ -1,3 +1,11 @@
+---
+document_id: pregnancy-book-project-instructions
+document_type: project-instructions
+version: 1.6.0
+status: superseded
+superseded_by: editorial/project-instructions-v1.8.md
+---
+
 # ПРОЕКТ: «ГИГИЕНА БЕРЕМЕННОСТИ»
 
 > Историческая версия. Актуальный статус тем 1–4 и действующие правила см. в project-instructions-v1.8.md.

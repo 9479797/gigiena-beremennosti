@@ -2,7 +2,8 @@
 document_id: pregnancy-book-project-instructions
 document_type: project-instructions
 version: 1.7.0
-status: active
+status: superseded
+superseded_by: editorial/project-instructions-v1.8.md
 repository: 9479797/gigiena-beremennosti
 persistent_source_of_truth: github-repository
 ---

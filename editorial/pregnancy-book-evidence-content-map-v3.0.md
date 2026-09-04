@@ -1,3 +1,10 @@
+---
+document_id: pregnancy-book-evidence-content-map
+document_type: architecture-content-map
+version: 3.0.0
+status: active
+---
+
 # Pregnancy Book — Evidence, Content & Architecture Map v3.0
 
 ## Purpose
@@ -827,13 +834,9 @@ Older architecture maps are historical only.
 
 # 11. SUPERSESSION RULE
 
-This v3.0 file supersedes:
-- `pregnancy-book-evidence-content-map-v1.0.md`
-- `pregnancy-book-evidence-content-map-v2.0.md`
+This v3.0 file supersedes earlier architecture/content-map versions (v1.0, v2.0) for active architecture and content-map purposes. Previous maps are not kept in the repository.
 
-for active architecture and content-map purposes.
-
-If an older map contains a useful research detail not yet migrated into v3.0, it may be consulted as historical research material, but it must not override v3.0 architecture.
+If a future older map is added back for reference, it may be consulted as historical research material, but it must not override v3.0 architecture.
 
 When in conflict:
 
