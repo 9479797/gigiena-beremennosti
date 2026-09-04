@@ -8,6 +8,8 @@
 - `pregnancy-book-editorial-v1.6.md` — **PROCESS SPEC / PROCESS AUTHORITY / SOURCE OF TRUTH** для маршрута разработки, Checkpoint'ов, остановок, автоматических переходов, возвратов и финального принятия тем. Это управляющий документ, а не executable skill.
 - `pregnancy-book-evidence-content-map-v3.0.md` — активная архитектура книги: reader jobs, границы тем, coverage, cross-links, evidence priorities и правила глубины.
 - `human-review-roles-v1.0.md` — спецификация участников проверки и их мест в маршруте: кто подключается на каком этапе, что получает и что возвращает; hold-состояния ожидания живого участника.
+- `theme-reconnaissance-v1.0.md` — спецификация этапа разведки темы перед Checkpoint 0: как определяется, из чего тема может состоять. Этап выполняется до Checkpoint 0 и заканчивается списком кандидатов в узлы.
+- `source-verification-v1.0.md` — правила связи утверждений с источниками, иерархия источников по функции, работа с PubMed и периодикой, формат списка SOURCE NEEDED. Применяется с Checkpoint 2.
 - `text-architecture-v1.0.md` — активная спецификация устройства текста темы: единицы текста, право информации на объём, критерий пустого объёма.
 - `tone-of-voice-v1.0.md` — активная спецификация голоса книги: регистр, обращение к читательнице, модальность, словарь, режимы речи, присутствие автора.
 - `templates/evidence-ledger-template.md` — обязательный шаблон evidence ledger темы; копируется в `themes/theme-N/evidence-ledger.md`.
