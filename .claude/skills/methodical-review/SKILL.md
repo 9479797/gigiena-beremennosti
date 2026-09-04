@@ -516,7 +516,7 @@ Do not determine medical correctness without appropriate sources.
 - крупный дефект книжного черновика или содержательной последовательности, требующий пересборки блока в рамках уже утверждённой архитектуры → `Checkpoint 1 — Черновик`;
 - шаблонная AI-подача, искусственная риторика или humanize-дефект → `Checkpoint 3 — Анти-шаблон и человечность`;
 - разбавленность, плотность, расплющивание, списки, информационная иерархия, фрагментация, композиция, расположение уже объяснённого материала → `Checkpoint 4 — Плотность, композиция и подача`;
-- если требуется решение автора между несколькими содержательно различными вариантами → `AUTHOR DECISION REQUIRED`.
+- если требуется выбор пользователя между несколькими содержательно различными вариантами → `USER CHOICE REQUIRED`.
 
 `FACTUAL_VERIFICATION_NEEDED` всегда является маршрутом на медицинскую/доказательную проверку, а не основанием для самостоятельного исправления этим skill.
 
@@ -592,7 +592,7 @@ Quote only the minimum necessary text.
 Describe what should be changed conceptually.
 
 **Route:**  
-For the Pregnancy Book project, name the responsible Checkpoint or `AUTHOR DECISION REQUIRED`. Outside the project, describe the responsible type of revision without inventing a workflow.
+For the Pregnancy Book project, name the responsible Checkpoint or `USER CHOICE REQUIRED`. Outside the project, describe the responsible type of revision without inventing a workflow.
 
 Do not rewrite the passage unless requested.
 
@@ -664,7 +664,7 @@ For the Pregnancy Book project, add one non-acceptance handoff line:
 
 - `METHODICAL GATE: READY FOR USER DECISION` — findings are reported and no unresolved methodological issue prevents the user from deciding whether to proceed;
 - `METHODICAL GATE: REVISION RECOMMENDED BEFORE CP5` — one or more findings should be routed back before Checkpoint 5;
-- `METHODICAL GATE: AUTHOR DECISION REQUIRED` — the next step depends on an unresolved author choice.
+- `METHODICAL GATE: USER CHOICE REQUIRED` — the next step depends on an unresolved choice between materially different options, to be made by the user.
 
 These statuses do not replace Checkpoint 5 and never authorize automatic transition past the USER GATE.
 
