@@ -27,6 +27,7 @@
 - `editorial/project-instructions-v1.8.md` — активная GitHub-first инструкция проекта: связь Project ↔ GitHub, приоритеты, стандартные команды, правила сохранения состояния тем и действующий стилевой ориентир.
 - `editorial/pregnancy-book-editorial-v1.6.md` — **PROCESS SPEC / PROCESS AUTHORITY / SOURCE OF TRUTH** для порядка этапов, Checkpoint'ов, остановок, переходов, возвратов и финального принятия тем. Это не executable skill.
 - `editorial/pregnancy-book-evidence-content-map-v3.0.md` — активная архитектура книги: reader jobs, границы тем, coverage, cross-links и evidence priorities.
+- `editorial/human-review-roles-v1.0.md` — спецификация участников проверки и их мест в маршруте: кто подключается на каком этапе, что получает и что возвращает.
 - `editorial/text-architecture-v1.0.md` — активная спецификация устройства текста темы: единицы текста, право информации на объём, критерий пустого объёма.
 - `editorial/tone-of-voice-v1.0.md` — активная спецификация голоса книги: регистр, обращение к читательнице, модальность, словарь, режимы речи.
 - `editorial/templates/evidence-ledger-template.md` — обязательный шаблон evidence ledger темы (копируется в `themes/theme-N/evidence-ledger.md`).

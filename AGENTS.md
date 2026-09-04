@@ -43,19 +43,22 @@
    — активная архитектура книги, reader jobs, границы тем, coverage,
    cross-links и evidence priorities.
 
-4. `editorial/text-architecture-v1.0.md`
+4. `editorial/human-review-roles-v1.0.md`
+   — спецификация участников проверки и их мест в маршруте: кто подключается на каком этапе, что получает и что возвращает; hold-состояния ожидания живого участника.
+
+5. `editorial/text-architecture-v1.0.md`
    — активная спецификация устройства текста темы: единицы текста, право информации на объём, критерий пустого объёма.
 
-5. `editorial/tone-of-voice-v1.0.md`
+6. `editorial/tone-of-voice-v1.0.md`
    — активная спецификация голоса книги: регистр, обращение к читательнице, модальность, словарь, режимы речи, присутствие автора.
 
-6. `editorial/templates/evidence-ledger-template.md`
+7. `editorial/templates/evidence-ledger-template.md`
    — обязательный шаблон evidence ledger темы; копируется в `themes/theme-N/evidence-ledger.md` при начале работы над темой.
 
-7. `themes/theme-1/tema_1_final_canonical.docx`
+8. `themes/theme-1/tema_1_final_canonical.docx`
    — одобренная Theme 1; подлежит пересборке по новой спецификации (`editorial/text-architecture-v1.0.md` + `editorial/tone-of-voice-v1.0.md`). Не эталон глубины; опору для других тем в ней не искать.
 
-8. `themes/theme-2/theme 2 canonical.docx`, `themes/theme-3/theme 3 canonical.docx`, `themes/theme-4/theme 4 canonical.docx`
+9. `themes/theme-2/theme 2 canonical.docx`, `themes/theme-3/theme 3 canonical.docx`, `themes/theme-4/theme 4 canonical.docx`
    — одобренные тексты тем 2–4; подлежат проверке. Не STYLE CANON.
 
 `editorial/canonical-style-corpus-v1.0.md` выведен из обращения (status: retired); стиль задаётся `editorial/tone-of-voice-v1.0.md`.

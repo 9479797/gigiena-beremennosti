@@ -37,8 +37,9 @@ description: >-
 3. `pregnancy-book-editorial-v*.md`;
 4. `editorial/text-architecture-v1.0.md` и `editorial/tone-of-voice-v1.0.md` как действующий стандарт устройства текста и голоса;
 5. `.claude/skills/methodical-review/SKILL.md`;
-6. клинические источники темы, evidence ledger, approved canon, decisions и Regression Watch;
-7. отчёт Depth review №2 после финального Russian Book Edit, если он относится к этой точной версии текста, и замороженную содержательную версию Checkpoint 5 как regression baseline.
+6. `editorial/human-review-roles-v1.0.md`, разделы 5–6: тема не может получить положительный вердикт, если остались утверждения без разрешения (`SOURCE NEEDED` / `UNRESOLVED` в ledger) или не пройдена медицинская проверка врачом-рецензентом;
+7. клинические источники темы, evidence ledger, approved canon, decisions и Regression Watch;
+8. отчёт Depth review №2 после финального Russian Book Edit, если он относится к этой точной версии текста, и замороженную содержательную версию Checkpoint 5 как regression baseline.
 
 Числовые суффиксы вида `(1)` считать техническими. Семантические версии считать значимыми. Соблюдать иерархию проекта и явные решения пользователя.
 

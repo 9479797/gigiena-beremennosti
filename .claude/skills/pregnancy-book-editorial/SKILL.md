@@ -31,11 +31,12 @@ description: >-
 
 1. `editorial/pregnancy-book-editorial-v1.6.md` — управляющую process spec и точные определения Checkpoint’ов;
 2. `editorial/pregnancy-book-evidence-content-map-v3.0.md` — активную архитектуру, reader job, границы темы, coverage и cross-links;
-3. `editorial/text-architecture-v1.0.md` и `editorial/tone-of-voice-v1.0.md` — действующие спецификации устройства текста и голоса книги;
-4. `editorial/templates/evidence-ledger-template.md` — обязательный шаблон evidence ledger темы;
-5. `.claude/skills/methodical-review/SKILL.md` — правила независимой методической экспертизы, когда она относится к запросу;
-6. `themes/темы гигиена беременности — SOURCE TEXT 2–9.docx` — резервуар исходных текстов неканонических тем; при выборе материала обязательно сверять legacy labels с `themes/SOURCE-TEXT-MAPPING.md`;
-7. текущий черновик, redline, чистую версию, evidence ledger и журнал решений, если они доступны.
+3. `editorial/human-review-roles-v1.0.md` — на каких этапах маршрут останавливается и ждёт живого участника (акушерка-редактор, врач-рецензент, пользователь), что ему отправляется и что он возвращает; hold-состояния `MIDWIFE REVIEW PENDING`, `MEDICAL REVIEW PENDING`, `USER DECISION REQUIRED`;
+4. `editorial/text-architecture-v1.0.md` и `editorial/tone-of-voice-v1.0.md` — действующие спецификации устройства текста и голоса книги;
+5. `editorial/templates/evidence-ledger-template.md` — обязательный шаблон evidence ledger темы;
+6. `.claude/skills/methodical-review/SKILL.md` — правила независимой методической экспертизы, когда она относится к запросу;
+7. `themes/темы гигиена беременности — SOURCE TEXT 2–9.docx` — резервуар исходных текстов неканонических тем; при выборе материала обязательно сверять legacy labels с `themes/SOURCE-TEXT-MAPPING.md`;
+8. текущий черновик, redline, чистую версию, evidence ledger и журнал решений, если они доступны.
 
 Числовые суффиксы вида `(1)` считать техническими. Семантические версии `v1.6`, `v3.0` и подобные считать значимыми. Не выбирать старую версию только из-за более точного совпадения имени.
 
