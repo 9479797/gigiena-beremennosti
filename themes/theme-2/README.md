@@ -10,7 +10,7 @@
 
 ## CURRENT CHECKPOINT
 
-**Checkpoint 0 утверждён пользователем.** Работа — на Checkpoint 1 (черновик).
+**Checkpoint 3 утверждён пользователем.** Работа — на Checkpoint 4 (плотность, композиция и подача; поглощает Depth review №1).
 
 ## Файлы
 
