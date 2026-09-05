@@ -1,13 +1,11 @@
 ---
-document_id: pregnancy-book-human-review-template
-document_type: template
+document_id: pregnancy-book-theme-2-human-review
+document_type: theme-state
 version: 1.0.0
 status: active
 ---
 
-# Шаблон: артефакт живого участия темы
-
-Копировать в `themes/theme-N/human-review.md` при инициализации темы, как и evidence ledger.
+# Human review — Тема 2
 
 Фиксирует результаты трёх живых участников маршрута v1.7: акушерки-редактора (между Checkpoint 4 и Checkpoint 5), врача-рецензента (после Checkpoint 5), пользователя-читателя (после Depth review №2). Prepress-аудит проверяет наличие этого файла и статус каждой секции, а не верит на слово: положительный вердикт невозможен, пока секции 1 и 2 не в статусе `INTEGRATED`, а секция 3 не закрыта.
 
@@ -24,7 +22,7 @@ status: active
 
 | Дата | Кто | Что отправлено | Что вернулось (дословно) | Статус |
 |---|---|---|---|---|
-|  |  | чистый текст темы + лист вопросов из `editorial/human-review-roles-v1.0.md`, раздел 3 |  | `PENDING` / `RECEIVED` / `INTEGRATED` |
+| 2026-09-05 | — (ожидает назначения) | `themes/theme-2/clean-for-midwife.md` + лист вопросов из `editorial/human-review-roles-v1.0.md`, раздел 3 | — | `PENDING` |
 
 ---
 
