@@ -24,7 +24,7 @@ It combines:
 This file does NOT replace:
 - `editorial/pregnancy-book-editorial-v1.7.md` as the master editorial PROCESS SPEC / SOURCE OF TRUTH (`v1.6` is superseded and historical);
 - `.claude/skills/methodical-review/SKILL.md` as the methodological audit framework;
-- `themes/theme-1/tema_1_final_canonical.docx` as the approved (pre-rebuild) Theme 1 text.
+- `themes/theme-1/tema_1_final_canonical.docx` as the Theme 1 chapter text (joint themes 1–3 editorial pass applied; carries open `[ПРОВЕРИТЬ]` markers).
 
 When architecture/content decisions in older maps conflict with this file, **v3.0 has priority**.
 
@@ -32,7 +32,7 @@ When architecture/content decisions in older maps conflict with this file, **v3.
 
 # 1. PROJECT STATUS
 
-- Theme 1: approved; scheduled for rebuild under the new specification (`editorial/text-architecture-v1.0.md` + `editorial/tone-of-voice-v1.0.md`). No normative status.
+- Themes 1–3: passed the joint editorial pass; carry open `[ПРОВЕРИТЬ]` markers awaiting clinical-consultant answers (registry: `editorial/DISPUTED-CLAIMS.md`). No normative status: not STYLE CANON, not a depth benchmark. Active specification: `editorial/text-architecture-v1.1.md` + `editorial/tone-of-voice-v1.1.md` (v1.0 of both — historical).
 - Section 0: Fast Help / urgent safety navigator; not a numbered main Theme.
 - Orientation section: brief guide to medical monitoring in pregnancy.
 - Themes 2–11: active working architecture.
@@ -218,7 +218,15 @@ Do not create an oversized universal testing calendar unless separately approved
 # THEME 1 — Питание и питьевой режим во время беременности
 
 Status:
-**CANONICAL — complete. Do not restructure, rewrite, shorten, or improve without explicit user instruction.**
+Passed the joint themes 1–3 editorial pass. Carries open `[ПРОВЕРИТЬ]` markers awaiting clinical-consultant answers (registry: `editorial/DISPUTED-CLAIMS.md`). Not STYLE CANON, not a depth benchmark, not frozen.
+
+Chapter sections (finalised text):
+- 1.1 Вес во время беременности: сколько нужно есть и что означает прибавка
+- 1.2. Витамины и нутриенты: что действительно нужно
+- 1.3. Особые рационы: ограничения по выбору, здоровью и убеждениям
+- 1.4. Когда есть трудно: тошнота, изжога, запоры
+- 1.5. Пищевая безопасность: что и как можно есть
+- 1.6. Питьевой режим и кофеин
 
 Core domains:
 - nutrition and weight gain;
@@ -238,6 +246,16 @@ Cross-links:
 ---
 
 # THEME 2 — Режим дня, сон и восстановление
+
+Status:
+Passed the joint themes 1–3 editorial pass. Carries open `[ПРОВЕРИТЬ]` markers awaiting clinical-consultant answers (registry: `editorial/DISPUTED-CLAIMS.md`). Not STYLE CANON, not a depth benchmark, not frozen.
+
+Chapter sections (finalised text):
+- 2.1. Сон при беременности: что меняется и почему
+- 2.2. Причины плохого сна: от изжоги до тревоги
+- 2.3. Режим дня: как настроить засыпание
+- 2.4. Поза для сна: почему после 28 недель это важно
+- 2.5. Когда нужен врач: границы самопомощи при бессоннице
 
 Reader job:
 Understand why sleep and energy change, what can be improved in everyday life, and when a sleep problem needs medical assessment.
@@ -281,6 +299,22 @@ Theme 1, Theme 3, Theme 10, Theme 11.
 ---
 
 # THEME 3 — Физическая активность и тело
+
+Status:
+Passed the joint themes 1–3 editorial pass. Carries open `[ПРОВЕРИТЬ]` markers awaiting clinical-consultant answers (registry: `editorial/DISPUTED-CLAIMS.md`). Not STYLE CANON, not a depth benchmark, not frozen.
+
+Chapter sections (finalised text):
+- 3.1. Польза движения: что даёт активность и на что она не влияет
+- 3.2. Допуск к нагрузкам: кому можно, кому нужно согласование с врачом
+- 3.3. Объём нагрузки: сколько двигаться и как увеличивать
+- 3.4. Интенсивность: как понять, что нагрузка подходит
+- 3.5. Виды активности: что подходит при беременности
+- 3.6. Организация занятия: разминка, одежда, вода, безопасность
+- 3.7. Изменения тела: как подстроить упражнения по срокам
+- 3.8. Боль в спине и тазу: почему возникает и что делать
+- 3.9. Мышцы тазового дна: как тренировать и как расслаблять
+- 3.10. Ограничения: что нельзя и что требует изменений
+- 3.11. Стоп-сигналы: когда прекратить занятие и куда обращаться
 
 Reader job:
 Move safely, understand suitable activity and intensity, adapt activity through pregnancy, and recognize when to stop or seek assessment.
