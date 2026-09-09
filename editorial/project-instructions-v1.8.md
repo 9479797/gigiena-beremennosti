@@ -41,18 +41,18 @@ persistent_source_of_truth: github-repository
 6. `editorial/human-review-roles-v1.0.md` — спецификация участников проверки и их мест в маршруте: кто подключается на каком этапе, что получает и что возвращает; hold-состояния ожидания живого участника.
 7. `editorial/theme-reconnaissance-v1.0.md` — спецификация этапа разведки темы перед Checkpoint 0: как определяется, из чего тема может состоять; этап выполняется до Checkpoint 0 и заканчивается списком кандидатов в узлы.
 8. `editorial/source-verification-v1.0.md` — правила связи утверждений с источниками, иерархия источников по функции, работа с PubMed и периодикой, формат списка SOURCE NEEDED; применяется с Checkpoint 2.
-9. `editorial/text-architecture-v1.0.md` — активная спецификация устройства текста темы: единицы текста, право информации на объём, критерий пустого объёма.
-10. `editorial/tone-of-voice-v1.0.md` — активная спецификация голоса книги: регистр, обращение к читательнице, модальность, словарь, режимы речи, присутствие автора.
+9. `editorial/text-architecture-v1.1.md` — активная спецификация устройства текста темы: единицы текста, право информации на объём, критерий пустого объёма, устройство главы, заголовки разделов, итоги главы. `editorial/text-architecture-v1.0.md` — историческая версия.
+10. `editorial/tone-of-voice-v1.1.md` — активная спецификация голоса книги: регистр, обращение к читательнице, модальность, словарь, режимы речи, присутствие автора, минимизация оставшихся вопросов, границы обращения к врачу. `editorial/tone-of-voice-v1.0.md` — историческая версия.
 11. `editorial/templates/evidence-ledger-template.md` — обязательный шаблон evidence ledger темы; копируется в `themes/theme-N/evidence-ledger.md` при начале работы над темой.
-12. `themes/theme-1/tema_1_final_canonical.docx` — одобренная Theme 1; подлежит пересборке по новой спецификации (`editorial/text-architecture-v1.0.md` + `editorial/tone-of-voice-v1.0.md`). Не эталон глубины; опору для других тем в ней не искать.
-13. `themes/theme-2/theme 2 canonical.docx`, `themes/theme-3/theme 3 canonical.docx`, `themes/theme-4/theme 4 canonical.docx` — одобренные тексты тем 2–4; подлежат проверке. Не STYLE CANON.
+12. `themes/theme-1/tema_1_final_canonical.docx` — Theme 1; прошла совместную редактуру тем 1–3, содержит незакрытые `[ПРОВЕРИТЬ]`, ждёт ответов врача-консультанта. Не эталон глубины и не STYLE CANON; опора берётся из `editorial/text-architecture-v1.1.md` и `editorial/tone-of-voice-v1.1.md`, тема — иллюстрация их применения.
+13. `themes/theme-2/theme 2 canonical.docx`, `themes/theme-3/theme 3 canonical.docx` — прошли совместную редактуру, содержат незакрытые `[ПРОВЕРИТЬ]`, ждут ответов врача-консультанта. `themes/theme-4/theme 4 canonical.docx` — одобрена, подлежит проверке. Не STYLE CANON, не эталон глубины.
 14. `.claude/skills/methodical-review/SKILL.md` — независимая методическая экспертиза.
 15. `themes/темы гигиена беременности — SOURCE TEXT 2–9.docx` — резервуар исходных неканонических материалов; внутренние номера являются legacy labels, поэтому использовать вместе с `themes/SOURCE-TEXT-MAPPING.md` и активной Content Map.
 16. Одобренные пользователем тексты, решения, evidence ledger и Regression Watch конкретной темы — действующий canon/state этой темы после фиксации в репозитории.
 
-`editorial/canonical-style-corpus-v1.0.md` выведен из обращения (status: retired); стиль задаётся `editorial/tone-of-voice-v1.0.md`.
+`editorial/canonical-style-corpus-v1.0.md` выведен из обращения (status: retired); стиль задаётся `editorial/tone-of-voice-v1.1.md`.
 
-Семантические версии значимы. `project-instructions-v1.6.md` и `project-instructions-v1.7.md` после активации v1.8 являются историческими документами и не управляют новой работой.
+Семантические версии значимы. `project-instructions-v1.6.md` и `project-instructions-v1.7.md` после активации v1.8 являются историческими документами и не управляют новой работой. `text-architecture-v1.0.md` и `tone-of-voice-v1.0.md` — исторические; активны версии `v1.1`.
 
 ## 3. ПРИОРИТЕТЫ
 
@@ -228,9 +228,9 @@ Read-only команда.
 
 ### 8.1. СТИЛЕВОЙ ОРИЕНТИР
 
-Для Final Russian Book Edit использовать `editorial/tone-of-voice-v1.0.md` (голос) и `editorial/text-architecture-v1.0.md` (устройство текста); `.claude/skills/russian-book-editor/references/canonical-style-guide-v1.0.md` применять как руководство по русскому языку, синтаксису и борьбе с канцеляритом.
+Для Final Russian Book Edit использовать `editorial/tone-of-voice-v1.1.md` (голос) и `editorial/text-architecture-v1.1.md` (устройство текста); `.claude/skills/russian-book-editor/references/canonical-style-guide-v1.0.md` применять как руководство по русскому языку, синтаксису и борьбе с канцеляритом.
 
-`editorial/canonical-style-corpus-v1.0.md` выведен из обращения. Темы 1–4 не являются каноном стиля или эталоном глубины: Theme 1 одобрена и подлежит пересборке по новой спецификации, темы 2–4 одобрены и подлежат проверке. Опору для новых тем в них не искать. Спецификации голоса и текста имеют приоритет над более ранними редакторскими эвристиками, но не над безопасностью, утверждённым содержанием, Semantic Lock или явным решением пользователя.
+`editorial/canonical-style-corpus-v1.0.md` выведен из обращения. Темы 1–4 не являются каноном стиля или эталоном глубины: темы 1–3 прошли совместную редактуру, содержат незакрытые `[ПРОВЕРИТЬ]` и ждут ответов врача-консультанта; тема 4 одобрена и подлежит проверке. Опора для новой работы берётся из `text-architecture-v1.1` и `tone-of-voice-v1.1`; темы 1–3 служат иллюстрацией применения этих правил. Спецификации голоса и текста имеют приоритет над более ранними редакторскими эвристиками, но не над безопасностью, утверждённым содержанием, Semantic Lock или явным решением пользователя.
 
 ## 9. ПОСЛЕ FINAL RUSSIAN BOOK EDIT
 

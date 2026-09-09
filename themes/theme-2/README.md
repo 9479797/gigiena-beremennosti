@@ -4,7 +4,7 @@
 
 ## Текущий статус
 
-**Активная пересборка по новой спецификации** (`editorial/text-architecture-v1.0.md` + `editorial/tone-of-voice-v1.0.md`), маршрут `editorial/pregnancy-book-editorial-v1.7.md`, режим `ITERATIVE_EDITORIAL`.
+**Активная пересборка по новой спецификации** (`editorial/text-architecture-v1.1.md` + `editorial/tone-of-voice-v1.1.md`), маршрут `editorial/pregnancy-book-editorial-v1.7.md`, режим `ITERATIVE_EDITORIAL`.
 
 Прежний статус «одобрена, подлежит проверке» закрыт запуском `START THEME 2` (2026-09-05): тема входит в маршрут v1.7 с нуля, начиная с разведки, а не с проверки старого текста.
 

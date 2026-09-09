@@ -30,12 +30,12 @@
 - `editorial/human-review-roles-v1.0.md` — спецификация участников проверки и их мест в маршруте: кто подключается на каком этапе, что получает и что возвращает.
 - `editorial/theme-reconnaissance-v1.0.md` — спецификация этапа разведки темы перед Checkpoint 0: как определяется, из чего тема может состоять.
 - `editorial/source-verification-v1.0.md` — правила связи утверждений с источниками, иерархия источников по функции, работа с PubMed и периодикой, формат списка SOURCE NEEDED.
-- `editorial/text-architecture-v1.0.md` — активная спецификация устройства текста темы: единицы текста, право информации на объём, критерий пустого объёма.
-- `editorial/tone-of-voice-v1.0.md` — активная спецификация голоса книги: регистр, обращение к читательнице, модальность, словарь, режимы речи.
+- `editorial/text-architecture-v1.1.md` — активная спецификация устройства текста темы: единицы текста, право информации на объём, критерий пустого объёма.
+- `editorial/tone-of-voice-v1.1.md` — активная спецификация голоса книги: регистр, обращение к читательнице, модальность, словарь, режимы речи.
 - `editorial/templates/evidence-ledger-template.md` — обязательный шаблон evidence ledger темы (копируется в `themes/theme-N/evidence-ledger.md`).
-- `editorial/canonical-style-corpus-v1.0.md` — выведен из обращения (status: retired); стиль задаётся `editorial/tone-of-voice-v1.0.md`.
-- `themes/theme-1/tema_1_final_canonical.docx` — одобренная Theme 1; подлежит пересборке по новой спецификации (`editorial/text-architecture-v1.0.md` + `editorial/tone-of-voice-v1.0.md`). Не эталон глубины; опору для других тем в ней не искать.
-- `themes/theme-2/theme 2 canonical.docx`, `themes/theme-3/theme 3 canonical.docx`, `themes/theme-4/theme 4 canonical.docx` — одобренные тексты тем 2–4; подлежат проверке. Не STYLE CANON.
+- `editorial/canonical-style-corpus-v1.0.md` — выведен из обращения (status: retired); стиль задаётся `editorial/tone-of-voice-v1.1.md`.
+- `themes/theme-1/tema_1_final_canonical.docx` — Theme 1; прошла совместную редактуру тем 1–3, содержит незакрытые `[ПРОВЕРИТЬ]`, ждёт ответов врача-консультанта. Не эталон глубины и не STYLE CANON; опора берётся из спецификаций v1.1, тема — иллюстрация их применения.
+- `themes/theme-2/theme 2 canonical.docx`, `themes/theme-3/theme 3 canonical.docx` — прошли совместную редактуру, содержат незакрытые `[ПРОВЕРИТЬ]`, ждут ответов врача-консультанта. `themes/theme-4/theme 4 canonical.docx` — одобрена, подлежит проверке. Не STYLE CANON.
 
 ## Основные контрольные инструменты
 
@@ -67,4 +67,4 @@
 
 ## Статус проекта
 
-Проект находится в активной разработке. Сейчас идёт переработка правил: новые темы не начинаются, темы 1–4 нормативного статуса не имеют, следующий шаг — пилотная тема по новой спецификации (`editorial/text-architecture-v1.0.md` + `editorial/tone-of-voice-v1.0.md`).
+Проект находится в активной разработке. Сейчас идёт переработка правил: новые темы не начинаются, темы 1–4 нормативного статуса не имеют, следующий шаг — пилотная тема по новой спецификации (`editorial/text-architecture-v1.1.md` + `editorial/tone-of-voice-v1.1.md`).
