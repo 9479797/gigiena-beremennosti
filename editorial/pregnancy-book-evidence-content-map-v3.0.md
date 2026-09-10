@@ -344,6 +344,20 @@ Theme 2, Theme 8, Theme 11.
 
 # THEME 4 — Интимное здоровье и сексуальная жизнь
 
+Status:
+Passed the joint themes 1–4 editorial pass. Carries open `[ПРОВЕРИТЬ]` markers awaiting clinical-consultant answers (registry: `editorial/DISPUTED-CLAIMS.md`, rows 6–11). Not STYLE CANON, not a depth benchmark, not frozen.
+
+Chapter sections (finalised text):
+- 4.1. Безопасность: можно ли заниматься сексом при беременности
+- 4.2. Желание: почему оно меняется и что с этим делать
+- 4.3. Ощущения и оргазм: что меняется и как реагирует матка
+- 4.4. Боль и дискомфорт: как сделать близость удобной
+- 4.5. Другие формы близости: что возможно кроме проникновения
+- 4.6. Защита от инфекций: зачем нужен презерватив при беременности
+- 4.7. Врачебные ограничения: что означает «половой покой»
+- 4.8. После близости: какие симптомы требуют действий
+- 4.9. После родов: когда и как возвращаться к близости
+
 Reader job:
 Understand whether sex is usually safe, why desire and sensations may change, how to make intimacy more comfortable, and when sex should be paused or medically discussed.
 
