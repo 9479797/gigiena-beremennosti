@@ -39,12 +39,12 @@ persistent_source_of_truth: github-repository
 1. `AGENTS.md` — корневая точка входа и правила работы с репозиторием.
 2. `editorial/project-instructions-v1.7.md` — активная инструкция интеграции Project ↔ GitHub, приоритеты, команды и правила состояния.
 3. `editorial/pregnancy-book-editorial-v1.6.md` — активная **PROCESS SPEC / PROCESS AUTHORITY / SOURCE OF TRUTH** для порядка этапов, Checkpoint’ов, пользовательских остановок, автоматических переходов, возвратов и финального принятия. Это не executable skill.
-4. `plugins/pregnancy-book-editorial/SKILL.md` — единственный executable `$pregnancy-book-editorial`; он обязан следовать активной process spec.
-5. `editorial/pregnancy-book-evidence-content-map-v3.0.md` — активная архитектура книги, reader jobs, границы тем, coverage, cross-links и evidence priorities.
-6. `themes/theme-1/tema_1_final_canonical.docx` — CANONICAL Theme 1: ориентир по глубине, объяснению, практической полезности и качеству результата; не жёсткий шаблон структуры, ритма или длины.
-7. `skills/methodical-review.md` — независимая методическая экспертиза.
-8. `themes/темы гигиена беременности — SOURCE TEXT 2–9.docx` — резервуар исходных неканонических материалов; внутренние номера являются legacy labels, поэтому использовать вместе с `themes/SOURCE-TEXT-MAPPING.md` и активной Content Map.
-9. Одобренные пользователем тексты, решения, evidence ledger и Regression Watch конкретной темы — действующий canon/state этой темы после фиксации в репозитории.
+4. `editorial/pregnancy-book-evidence-content-map-v3.0.md` — активная архитектура книги, reader jobs, границы тем, coverage, cross-links и evidence priorities.
+5. `themes/theme-1/tema_1_final_canonical.docx` — CANONICAL Theme 1: ориентир по глубине, объяснению, практической полезности и качеству результата; не жёсткий шаблон структуры, ритма или длины.
+6. `themes/темы гигиена беременности — SOURCE TEXT 2–9.docx` — резервуар исходных неканонических материалов; внутренние номера являются legacy labels, поэтому использовать вместе с `themes/SOURCE-TEXT-MAPPING.md` и активной Content Map.
+7. Одобренные пользователем тексты, решения, evidence ledger и Regression Watch конкретной темы — действующий canon/state этой темы после фиксации в репозитории.
+
+_Примечание (техническая правка, добавлена при SYNC PROJECT): в исходной версии этого документа пункты 4 и 7 указывали на пути `plugins/pregnancy-book-editorial/SKILL.md` и `skills/methodical-review.md`, которых в репозитории больше нет — навыки переехали в `.claude/skills/`. Мёртвые пути удалены из списка; исторический маршрут процесса, который описывает этот документ, не затронут._
 
 Семантические версии значимы. `project-instructions-v1.6.md` после активации v1.7 является историческим документом и не управляет новой работой.
 

@@ -8,17 +8,17 @@ scope: final-russian-book-edit
 
 # CANONICAL Style Corpus v1.0
 
-> Документ выведен из обращения. Стиль книги теперь задаётся `editorial/tone-of-voice-v1.0.md`, а устройство текста — `editorial/text-architecture-v1.0.md`. Темы 1–4 нормативного статуса стиля или глубины не имеют.
+> Документ выведен из обращения. Стиль книги теперь задаётся `editorial/tone-of-voice-v1.1.md`, а устройство текста — `editorial/text-architecture-v1.1.md`. Темы 1–4 нормативного статуса стиля или глубины не имеют.
 
 ## Назначение
 
-> Раздел недействителен. Актуальные правила — editorial/tone-of-voice-v1.0.md.
+> Раздел недействителен. Актуальные правила — editorial/tone-of-voice-v1.1.md.
 
 Этот корпус фиксирует утверждённую пользователем стилевую опору для следующих тем книги «Гигиена беременности». Он не меняет медицинские факты, архитектуру книги, процесс Checkpoint'ов или approved canon конкретной темы.
 
 ## Роли CANONICAL-текстов
 
-> Раздел недействителен. Актуальные правила — editorial/tone-of-voice-v1.0.md.
+> Раздел недействителен. Актуальные правила — editorial/tone-of-voice-v1.1.md.
 
 | Файл | Роль |
 |---|---|
@@ -31,7 +31,7 @@ scope: final-russian-book-edit
 
 ## Как применять
 
-> Раздел недействителен. Актуальные правила — editorial/tone-of-voice-v1.0.md.
+> Раздел недействителен. Актуальные правила — editorial/tone-of-voice-v1.1.md.
 
 1. На Final Russian Book Edit сначала зафиксируй SEMANTIC BASELINE редактируемой темы.
 2. Прочитай .claude/skills/russian-book-editor/references/canonical-style-guide-v1.0.md.
@@ -45,7 +45,7 @@ scope: final-russian-book-edit
 
 ## Границы
 
-> Раздел недействителен. Актуальные правила — editorial/tone-of-voice-v1.0.md.
+> Раздел недействителен. Актуальные правила — editorial/tone-of-voice-v1.1.md.
 
 Этот корпус не разрешает:
 
@@ -57,7 +57,7 @@ scope: final-russian-book-edit
 
 ## Installed skill
 
-> Раздел недействителен. Актуальные правила — editorial/tone-of-voice-v1.0.md.
+> Раздел недействителен. Актуальные правила — editorial/tone-of-voice-v1.1.md.
 
 GitHub хранит master/source version навыка. После изменения его source-пакета проверить установленную копию. Пока она не подтверждена как обновлённая, использовать пометку:
 

@@ -17,12 +17,12 @@ superseded_by: editorial/project-instructions-v1.8.md
 ## АКТИВНЫЕ МАТЕРИАЛЫ
 
 1. `editorial/pregnancy-book-editorial-v1.6.md` — активная PROCESS SPEC / SOURCE OF TRUTH: маршрут текста, Checkpoint’ы, остановки, автоматические переходы, возвраты и правила приёмки. Это не executable skill.
-2. `plugins/pregnancy-book-editorial/SKILL.md` — единственный executable `$pregnancy-book-editorial`; оркестратор обязан следовать активной process spec.
-3. `editorial/pregnancy-book-evidence-content-map-v3.0.md` — архитектура книги, границы тем, reader job, coverage и cross-links.
-4. `themes/theme-1/tema_1_final_canonical.docx` — CANONICAL Тема 1: ориентир по глубине, объяснению, практической полезности и качеству результата; не шаблон структуры, ритма или длины.
-5. `skills/methodical-review.md` — независимая методическая экспертиза.
-6. `themes/темы гигиена беременности — SOURCE TEXT 2–9.docx` — резервуар исходных текстов неканонических тем. Его внутренние номера тем являются legacy labels; для маршрутизации использовать `themes/SOURCE-TEXT-MAPPING.md` и активную Content Map v3.0.
-7. Одобренные пользователем тексты, решения, evidence ledger и Regression Watch — действующий канон конкретной темы.
+2. `editorial/pregnancy-book-evidence-content-map-v3.0.md` — архитектура книги, границы тем, reader job, coverage и cross-links.
+3. `themes/theme-1/tema_1_final_canonical.docx` — CANONICAL Тема 1: ориентир по глубине, объяснению, практической полезности и качеству результата; не шаблон структуры, ритма или длины.
+4. `themes/темы гигиена беременности — SOURCE TEXT 2–9.docx` — резервуар исходных текстов неканонических тем. Его внутренние номера тем являются legacy labels; для маршрутизации использовать `themes/SOURCE-TEXT-MAPPING.md` и активную Content Map v3.0.
+5. Одобренные пользователем тексты, решения, evidence ledger и Regression Watch — действующий канон конкретной темы.
+
+_Примечание (техническая правка, добавлена при SYNC PROJECT): в исходной версии этого документа пункты 2 и 5 указывали на пути `plugins/pregnancy-book-editorial/SKILL.md` и `skills/methodical-review.md`, которых в репозитории больше нет — навыки переехали в `.claude/skills/`. Мёртвые пути удалены из списка; исторический маршрут процесса, который описывает этот документ, не затронут._
 
 Суффиксы `(1)`, `(2)` в названиях файлов технические. Версии `v1.6` и `v3.0` значимы. `editorial/pregnancy-book-editorial-v1.6.md` является активной процедурой; v1.5 и v1.4 считаются историческими и не управляют текущим процессом.
 
