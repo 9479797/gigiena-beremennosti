@@ -10,7 +10,7 @@
 - `theme-2/`, `theme-3/`, `theme-4/` — прошли совместную редактуру, содержат незакрытые `[ПРОВЕРИТЬ]`, ждут ответов врача-консультанта. Не STYLE CANON.
 - `theme-5/` — Theme 5; поступила извне маршрута, проходит §16, реестра утверждений нет, открыты строки 17–19 `editorial/DISPUTED-CLAIMS.md`.
 - `theme-6/` — Theme 6; Checkpoint 4 пройден, hold `MIDWIFE REVIEW PENDING`, открыты строки 12–16 `editorial/DISPUTED-CLAIMS.md`.
-- `theme-7/` — Theme 7; Checkpoint 4 пройден и выполнена полная редакторская сверка вне маршрута, hold перед живой экспертизой, Checkpoint 2 не завершён (26 строк реестра из 67 не в статусе `VERIFIED`).
+- `theme-7/` — Theme 7; Checkpoint 4 пройден и выполнена полная редакторская сверка вне маршрута, hold перед живой экспертизой, Checkpoint 2 не завершён (29 строк реестра из 67 не в статусе `VERIFIED`).
 - `темы гигиена беременности — SOURCE TEXT 2–9.docx` — общий резервуар исходных текстов. Это source text, а не approved canon и не медицинское доказательство.
 - `SOURCE-TEXT-MAPPING.md` — обязательная карта маршрутизации legacy-блоков SOURCE TEXT в актуальные Theme 2–11, Section 0 и Orientation по Content Map v3.0.
 
