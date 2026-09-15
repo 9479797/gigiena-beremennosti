@@ -427,6 +427,34 @@
 
 ---
 
+### 7.6. Gamba T.O. et al. — дозы при стоматологической визуализации у беременных (систематический обзор)
+
+| Поле | Значение |
+|---|---|
+| Тип | Систематический обзор. Целевая папка при скачивании — **`reviews/`**, а не `who-international/`: по `sources/README.md` это единственная папка, из которой допустимо брать цифры эффекта |
+| Полная ссылка | Gamba T.O., Visioli F., Bringmann D.R. et al. Impact of dental imaging on pregnant women and recommendations for fetal radiation safety: A systematic review. *Imaging Science in Dentistry.* 2024;54(1):1–11 |
+| DOI | 10.5624/isd.20230177 |
+| Где взять | https://isdent.org/DOIx.php?id=10.5624%2Fisd.20230177 — прямой доступ инструментами заблокирован robots.txt, скачивать браузером. Зеркало: https://pmc.ncbi.nlm.nih.gov/articles/PMC10985525/ |
+| Проверка содержания (WebFetch, 2026-09-12) | Дозы на матку при панорамной съёмке: 7,97 мкЗв без фартука и 2,24 мкЗв с фартуком (Buch et al.); 17,3–85,4 мкГр по разным аппаратам (Rottke et al.); 0,11 мкГр без экранирования и 0,04 мкГр с ним (Kelaranta et al.). Внутриротовые снимки: ≈2,4–2,7 мкЗв. Пороги детерминированных эффектов: гибель эмбриона ≈100 мГр, умственная отсталость и микроцефалия ≈300 мГр. Заключение об экранировании: «No evidence presently supports the routine application of abdominal protection in conventional dental radiography or CBCT examination» |
+| Зачем нужен Теме 6 | Единственный найденный источник, дающий и дозы при панорамной съёмке, и прямое заключение об абдоминальной защите. Обслуживает узел 7 (рентген) и строку 13 реестра `DISPUTED-CLAIMS.md` |
+| Осторожность при использовании | Разброс доз между включёнными исследованиями достигает **трёх порядков** (0,11 мкГр против 85,4 мкГр). Отдельное число в текст книги не переносить; допустимо только сопоставление порядков величин (микрозиверты и микрогреи против сотен миллигрей) |
+| Применимость к РФ | Не проверена. По вопросу экранирования расходится с российской практикой — см. `editorial/DISPUTED-CLAIMS.md`, строка 13 |
+| Статус | **Кандидат, файл не скачан** |
+
+---
+
+### 7.7. Систематические обзоры по гигиене полости рта (Тема 6, узел 3)
+
+| # | Источник | Что даёт Теме 6 | Статус |
+|---|---|---|---|
+| 7.7.1 | Yaacob M., Worthington H.V., Deacon S.A. et al. Powered versus manual toothbrushing for oral health. *Cochrane Database of Systematic Reviews.* 2014, Issue 6, CD002281. DOI 10.1002/14651858.CD002281.pub3 | Единственный источник цифр по электрической щётке: ≈11 % меньше налёта и 6 % меньше воспаления дёсен при 1–3 месяцах, 21 % и 11 % — дольше трёх месяцев; лучший результат у вращательно-возвратных. Качество доказательств — умеренное | Кандидат, файл не скачан. Проверить, нет ли редакции новее 2014 г. |
+| 7.7.2 | Natto Z.S., Badahdah A., Hariri M.A. et al. Alleviation of Plaque and Gingivitis with Dental Water Jet in Regular and Orthodontic Patients: A Systematic Review and Meta-Analysis. *Healthcare.* 2025;13(4):396. DOI 10.3390/healthcare13040396 | Ирригатор: небольшое улучшение по кровоточивости против чистки щёткой и против нити; ортодонтические пациенты выделены отдельной группой. 18 РКИ, метаанализ по 15 | Кандидат, файл не скачан. Свободный доступ на mdpi.com |
+| 7.7.3 | Систематический обзор по жёсткости щетины: *Anti-plaque and anti-gingivitis efficacy of different bristle stiffness and end-shape toothbrushes on interproximal surfaces.* J Evid Based Dent Pract, 2021. PMID 34391550 | Должен закрыть строку 14 реестра `DISPUTED-CLAIMS.md` (мягкая против средней жёсткости) | **Получить не удалось инструментами:** PubMed — reCAPTCHA, ScienceDirect — 400, Europe PMC — требует JS, REST API — 503. Скачивать браузером |
+| 7.7.4 | Molina C., Pimentel R.P., Oballe H.J.R., Muniz F.W.M.G., Rösing C.K. *Association between toothbrush bristles stiffness and dentine hypersensitivity: a systematic review.* CDHA, 2025 | Вторая сторона вопроса о жёсткости: «The use of medium bristle toothbrushes is associated with the incidence of gingival fissures»; жёсткие щётки традиционно не рекомендуются из-за истирания эмали и рецессии десны; на риск гиперчувствительности дентина жёсткость значимо не влияет. Механизм «привыкания» дёсен не обсуждает — этим обзором закрывается отрицательная часть строки 29 ledger | Кандидат, файл не скачан. Открытый PDF: files.cdha.ca |
+| 7.7.5 | Ranzan N., Muniz F.W.M.G., Rösing C.K. *Are bristle stiffness and bristle end-shape related to adverse effects on soft tissues during toothbrushing? A systematic review.* International Dental Journal. 2019. DOI 10.1111/idj.12421 | Профильный обзор по повреждениям мягких тканей в зависимости от жёсткости щетины — прямо по спорному вопросу строки 14 реестра | **Получить не удалось:** Wiley — 403, ScienceDirect — 400, Semantic Scholar API — 400/429. Скачивать браузером |
+
+---
+
 ## 8. Российские стоматологические КР (Тема 6) — статус после доразведки
 
 Дошёл до предела доступности через инструменты поиска/фетча: КонсультантПлюс и рубрикатор Минздрава недоступны напрямую (JS/защита от бота), а зеркала уровня 3 (региональные минздравы, например minzdravtuva.ru) дают **только старые протоколы СтАР 2014/2018 года** (`4_karies.pdf`, `5_gingivit.pdf`, `8_parodontit.pdf`, `1_pulpa.pdf`) — без ID рубрикатора, года утверждения и срока пересмотра, то есть формат до перехода на актуальные рубрикаторные КР.
