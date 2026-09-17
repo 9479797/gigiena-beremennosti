@@ -140,7 +140,7 @@ README темы является навигацией и state record, а не �
 4. продолжить до следующего **реального пользовательского gate** или предусмотренного hold;
 5. соблюдать все автоматические связки активной process spec.
 
-На текущем процессе (v1.7) пользовательские gates сохраняются после Checkpoint 0, 1, 3 и 4, после Checkpoint 5 и обязательно перед Final Russian Book Edit. Между Checkpoint 4 и Checkpoint 5 маршрут проходит через живую экспертизу применимости акушерки-редактора (hold `MIDWIFE REVIEW PENDING`); между Checkpoint 5 и USER STOP — через медицинскую проверку врача-рецензента (hold `MEDICAL REVIEW PENDING`).
+На текущем процессе (v1.7) пользовательские gates сохраняются после Checkpoint 0, 1, 3 и 4, после Checkpoint 5 и обязательно перед Final Russian Book Edit. Экспертиза применимости акушерки-редактора между Checkpoint 4 и Checkpoint 5 упразднена решением пользователя 17.09.2026; между Checkpoint 5 и USER STOP маршрут проходит через проверку врача-рецензента — медицинскую и на применимость (hold `MEDICAL REVIEW PENDING`).
 
 Единственная автоматическая связка внутри разработки — `Checkpoint 2 → Checkpoint 3`.
 
@@ -204,7 +204,6 @@ Read-only команда.
 - при неустранимой неоднозначности (`AMBIGUOUS_MEANING / UNRESOLVED REDLINE`);
 - при `SOURCE MISSING`;
 - при `USER DECISION REQUIRED`;
-- при `MIDWIFE REVIEW PENDING`;
 - при `MEDICAL REVIEW PENDING`;
 - при иной блокировке, предусмотренной активной process spec.
 
