@@ -9,7 +9,7 @@
 При расхождении с визуальной схемой приоритет имеют:
 - `AGENTS.md`;
 - `editorial/project-instructions-v1.8.md`;
-- `editorial/pregnancy-book-editorial-v1.7.md`;
+- `editorial/pregnancy-book-editorial-v1.8.md`;
 - `editorial/pregnancy-book-evidence-content-map-v3.0.md`;
 - `editorial/text-architecture-v1.1.md`;
 - `editorial/tone-of-voice-v1.1.md`;

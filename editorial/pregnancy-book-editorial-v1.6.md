@@ -7,7 +7,7 @@ superseded_by: editorial/pregnancy-book-editorial-v1.7.md
 description: Master editorial process specification for developing medical and educational pregnancy materials into engaging, intelligent, book-like narrative nonfiction while preserving source fidelity, medical safety, evidence boundaries, natural human voice, and editorial restraint.
 ---
 
-> **Историческая версия. Активная process spec — `editorial/pregnancy-book-editorial-v1.7.md`.**
+> **Историческая версия. Активная process spec — `editorial/pregnancy-book-editorial-v1.8.md`.**
 > Содержание ниже сохранено без изменений как исторический документ и активной разработкой не управляет.
 
 # Pregnancy Book Editorial v1.6

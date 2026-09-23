@@ -15,7 +15,7 @@ supersedes: editorial/text-architecture-v1.1.md
 
 Он не заменяет:
 
-- `editorial/pregnancy-book-editorial-v1.7.md` — процесс, Checkpoint'ы, переходы;
+- `editorial/pregnancy-book-editorial-v1.8.md` — процесс, Checkpoint'ы, переходы;
 - `editorial/pregnancy-book-evidence-content-map-v3.0.md` — архитектуру книги и границы тем;
 - `editorial/tone-of-voice-v1.1.md` — регистр, обращение, модальность, словарь.
 

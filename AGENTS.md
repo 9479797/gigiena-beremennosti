@@ -34,7 +34,7 @@
    — активная GitHub-first инструкция проекта, приоритеты, стандартные команды,
    правила состояния темы, связи Project ↔ GitHub и действующий стилевой ориентир.
 
-2. `editorial/pregnancy-book-editorial-v1.7.md`
+2. `editorial/pregnancy-book-editorial-v1.8.md`
    — PROCESS SPEC / PROCESS AUTHORITY / SOURCE OF TRUTH для Checkpoint'ов,
    переходов, остановок, возвратов и финального принятия.
    `editorial/pregnancy-book-editorial-v1.6.md` — историческая версия, не управляет активной работой.

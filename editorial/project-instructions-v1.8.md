@@ -35,7 +35,7 @@ persistent_source_of_truth: github-repository
 
 1. `AGENTS.md` — корневая точка входа и правила работы с репозиторием.
 2. `editorial/project-instructions-v1.8.md` — активная инструкция интеграции Project ↔ GitHub, приоритеты, команды, правила состояния и действующий стилевой ориентир.
-3. `editorial/pregnancy-book-editorial-v1.7.md` — активная **PROCESS SPEC / PROCESS AUTHORITY / SOURCE OF TRUTH** для порядка этапов, Checkpoint’ов, пользовательских остановок, автоматических переходов, возвратов и финального принятия. Это не executable skill. `editorial/pregnancy-book-editorial-v1.6.md` — историческая версия (`status: superseded`).
+3. `editorial/pregnancy-book-editorial-v1.8.md` — активная **PROCESS SPEC / PROCESS AUTHORITY / SOURCE OF TRUTH** для порядка этапов, Checkpoint’ов, пользовательских остановок, автоматических переходов, возвратов и финального принятия. Это не executable skill. `editorial/pregnancy-book-editorial-v1.6.md` — историческая версия (`status: superseded`).
 4. `.claude/skills/pregnancy-book-editorial/SKILL.md` — единственный executable `$pregnancy-book-editorial`; он обязан следовать активной process spec.
 5. `editorial/pregnancy-book-evidence-content-map-v3.0.md` — активная архитектура книги, reader jobs, границы тем, coverage, cross-links и evidence priorities.
 6. `editorial/human-review-roles-v1.0.md` — спецификация участников проверки и их мест в маршруте: кто подключается на каком этапе, что получает и что возвращает; hold-состояния ожидания живого участника.
@@ -78,7 +78,7 @@ persistent_source_of_truth: github-repository
 
 Двухслойной схемы «GitHub master + установленная копия» больше нет. Правило `SKILL UPDATE REQUIRED` отменяется: изменение `SKILL.md` в репозитории само по себе делает новую версию действующей.
 
-Единственный executable — `.claude/skills/pregnancy-book-editorial/SKILL.md`. Файл `editorial/pregnancy-book-editorial-v1.7.md` остаётся неисполняемой PROCESS SPEC и не является вторым экземпляром навыка.
+Единственный executable — `.claude/skills/pregnancy-book-editorial/SKILL.md`. Файл `editorial/pregnancy-book-editorial-v1.8.md` остаётся неисполняемой PROCESS SPEC и не является вторым экземпляром навыка.
 
 ## 5. СОСТОЯНИЕ КАЖДОЙ ТЕМЫ
 
@@ -191,7 +191,7 @@ Read-only команда.
 
 ## 7. CHECKPOINTS: НЕ ДОБАВЛЯТЬ ЛИШНИЕ ОДОБРЕНИЯ
 
-Точный порядок Checkpoint’ов и возвратов определяется `editorial/pregnancy-book-editorial-v1.7.md`.
+Точный порядок Checkpoint’ов и возвратов определяется `editorial/pregnancy-book-editorial-v1.8.md`.
 
 Команды проекта не должны превращать каждый технический шаг в вопрос пользователю.
 

@@ -5,7 +5,7 @@
 ## Активные документы
 
 - `project-instructions-v1.8.md` — активная GitHub-first инструкция проекта: постоянный SOURCE OF TRUTH, стандартные команды, правила состояния тем, действующий стилевой ориентир и роли навыков.
-- `pregnancy-book-editorial-v1.7.md` — **PROCESS SPEC / PROCESS AUTHORITY / SOURCE OF TRUTH** для маршрута разработки, Checkpoint'ов, остановок, автоматических переходов, возвратов и финального принятия тем. Это управляющий документ, а не executable skill.
+- `pregnancy-book-editorial-v1.8.md` — **PROCESS SPEC / PROCESS AUTHORITY / SOURCE OF TRUTH** для маршрута разработки, Checkpoint'ов, остановок, автоматических переходов, возвратов и финального принятия тем. Это управляющий документ, а не executable skill.
 - `pregnancy-book-editorial-v1.6.md` — историческая версия (`status: superseded`), заменена v1.7; активной работой не управляет.
 - `pregnancy-book-evidence-content-map-v3.0.md` — активная архитектура книги: reader jobs, границы тем, coverage, cross-links, evidence priorities и правила глубины.
 - `human-review-roles-v1.0.md` — спецификация участников проверки и их мест в маршруте: кто подключается на каком этапе, что получает и что возвращает; hold-состояния ожидания живого участника.
@@ -20,4 +20,4 @@
 
 Единственный executable `$pregnancy-book-editorial` хранится в `.claude/skills/pregnancy-book-editorial/SKILL.md` и обязан следовать активной process spec. Все навыки проекта лежат в `.claude/skills/` (каждый — папка с `SKILL.md` и внутренними файлами).
 
-При конфликте версий семантические номера значимы: для текущей работы используются Project Instructions v1.8, Editorial v1.7 и Content Map v3.0. Исторические версии не должны управлять активной разработкой.
+При конфликте версий семантические номера значимы: для текущей работы используются Project Instructions v1.8, Editorial v1.8 и Content Map v3.0. Исторические версии не должны управлять активной разработкой.
