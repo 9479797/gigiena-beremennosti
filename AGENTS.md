@@ -61,10 +61,13 @@
 9. `editorial/templates/evidence-ledger-template.md`
    — обязательный шаблон evidence ledger темы; копируется в `themes/theme-N/evidence-ledger.md` при начале работы над темой.
 
-10. `themes/theme-1/tema_1_final_canonical.docx`
+10. `editorial/format-spiska-istochnikov-v1.0.md`
+   — обязательный формат списка клинических и научных источников в конце главы: устройство записи, правила пояснения и оговорок, сквозная нумерация, группировка по разделам главы, порядок проверки ссылок. Применяется при сборке списка источников любой темы — как новой, так и переделываемой. Раздел 7 «Известные особенности доступа» содержит номера действующих редакций российских КР и обходы для сайтов, закрытых для машинной проверки; раздел 8 — чек-лист дефектов для переработки существующего списка.
+
+11. `themes/theme-1/tema_1_final_canonical.docx`
    — Theme 1; прошла совместную редактуру, содержит незакрытые `[ПРОВЕРИТЬ]`, ждёт ответов врача-консультанта. Не эталон глубины и не STYLE CANON. Опора для новой работы берётся из `editorial/text-architecture-v1.2.md` и `editorial/tone-of-voice-v1.1.md`; тема 1 — иллюстрация применения этих правил.
 
-11. `themes/theme-2/theme 2 canonical.docx`, `themes/theme-3/theme 3 canonical.docx`, `themes/theme-4/theme 4 canonical.docx`
+12. `themes/theme-2/theme 2 canonical.docx`, `themes/theme-3/theme 3 canonical.docx`, `themes/theme-4/theme 4 canonical.docx`
    — темы 2–4; прошли совместную редактуру, содержат незакрытые `[ПРОВЕРИТЬ]`, ждут ответов врача-консультанта. Не STYLE CANON, не эталон глубины; иллюстрация применения правил v1.1.
 
 `editorial/canonical-style-corpus-v1.0.md` выведен из обращения (status: retired); стиль задаётся `editorial/tone-of-voice-v1.1.md`.
