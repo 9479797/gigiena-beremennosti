@@ -2,7 +2,8 @@
 document_id: pregnancy-book-format-spiska-istochnikov
 document_type: editorial-spec
 version: 1.0.0
-status: active
+status: superseded
+superseded_by: editorial/format-spiska-istochnikov-v2.0.md
 ---
 
 # Формат списка источников главы, v1.0
