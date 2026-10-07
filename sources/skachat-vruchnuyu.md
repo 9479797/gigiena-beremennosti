@@ -105,13 +105,13 @@
 - Зачем: пункт 2 раздела «Что нужно для завершения Checkpoint 2» README Темы 6; цифры эффекта допустимы только из файла в `sources/reviews/`. Проверить, нет ли редакции новее 2014 года, не требуется (решение 07.10.2026).
 - Статус: ждёт
 
-### 9. Badahdah/Natto 2025 — ирригаторы — Тема 6, 6.3, 6.5 (строка 25 реестра)
-- Документ: Natto Z.S., Badahdah A., Hariri M.A. et al. Alleviation of Plaque and Gingivitis with Dental Water Jet in Regular and Orthodontic Patients: A Systematic Review and Meta-Analysis. Healthcare (Basel) 2025;13(4):396; DOI 10.3390/healthcare13040396; PMID 39997271; PMCID PMC11855567.
+### 9. Badahdah 2025 — ирригаторы — Тема 6, 6.3, 6.5 (строка 25 реестра)
+- Документ: Badahdah A., Hariri M.A., Aljohani M.S., Alshehri L.S., Natto Z.S. Alleviation of Plaque and Gingivitis with Dental Water Jet in Regular and Orthodontic Patients: A Systematic Review and Meta-Analysis. Healthcare (Basel) 2025;13(4):396; DOI 10.3390/healthcare13040396; PMID 39997271; PMCID PMC11855567.
 - Ссылка: https://doi.org/10.3390/healthcare13040396 — свободный доступ на mdpi.com, что нажать — «PDF».
 - Запасной путь: https://pmc.ncbi.nlm.nih.gov/articles/PMC11855567/
 - Как проверена ссылка: агенту закрыта (запрос отклонён лимитом частоты); адрес подтверждён по PubMed: название, журнал, год, том, страница и DOI совпали.
-- Что сделать: скачать и положить в `sources/reviews/natto-2025-dental-water-jet-meta-analysis.pdf`.
-- Что проверить при открытии: первый автор в PubMed значится как Natto; в каталоге ledger (запись 17) стоит «Badahdah» — выяснить по титулу, кто первый автор, и привести каталог в соответствие. 18 РКИ, метаанализ по 15, ортодонтические пациенты отдельной группой.
+- Что сделать: скачать и положить в `sources/reviews/badahdah-2025-dental-water-jet-meta-analysis.pdf`.
+- Что проверить при открытии: в PubMed первым автором значится Badahdah, Natto Z.S. — последним (каталог ledger, запись 17, верен; в README Темы 6, пункт 2 раздела «Что нужно для завершения Checkpoint 2», и в `sources/README-inventory.md`, п. 7.7.2, первым назван Natto — сверить по титулу и исправить). 18 РКИ в обзоре; ортодонтические пациенты отдельной группой.
 - Зачем: пункт 2 раздела «Что нужно для завершения Checkpoint 2»; строка 25 и вывод о брекетах в 6.3 и 6.5.
 - Статус: ждёт
 
