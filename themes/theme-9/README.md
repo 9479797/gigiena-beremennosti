@@ -4,11 +4,12 @@
 
 ## Текущий статус
 
-**Начата 08.10.2026 (`START THEME 9`).** Checkpoint 5 выполнен — ждёт решения
-пользователя.
+**Начата 08.10.2026 (`START THEME 9`).** Checkpoint 5 принят; hold `MEDICAL REVIEW PENDING` — пакет врачу собран,
+отправляет пользователь.
 
-- `CURRENT CHECKPOINT`: Checkpoint 5 «Заморозка содержания и список источников» `[gate]` — `CONTENT READY WITH FLAGS`, `SOURCES DRAFT`, `USER DECISION REQUIRED` по 11 строкам SOURCE NEEDED
-- Последний утверждённый Checkpoint: Checkpoint 4 (08.10.2026)
+- `CURRENT CHECKPOINT`: медицинская проверка — `MEDICAL REVIEW PENDING`
+- Последний утверждённый Checkpoint: Checkpoint 5 (08.10.2026) — `CONTENT READY WITH FLAGS`, `SOURCES DRAFT`
+- Пакет врачу: `theme 9 draft.docx`, `evidence-ledger.md`, `theme 9 voprosy vrachu.docx` (= `source-needed.md` + DISPUTED-CLAIMS 23–29); журнал — `human-review.md`, секция 2
 - Отчёты: `checkpoint-4.md`, `checkpoint-5.md`
 - Основа: `themes/theme-9/checkpoint-0.md` — 19 узлов (A 8, B 7, C 4),
   8 узлов `ГЛУБОКО`
@@ -42,6 +43,7 @@
 - 08.10.2026 — черновик Checkpoint 1 принят.
 - 08.10.2026 — Checkpoint 3 принят.
 - 08.10.2026 — Checkpoint 4 принят: «проработай оставшиеся вопросы, если не получится — сделай пометки для врача и переходи далее».
+- 08.10.2026 — все 11 строк SOURCE NEEDED оставлены для врача; Checkpoint 5 принят.
 - 08.10.2026, CP2 — абзац о других животных (грызуны, рептилии) снят: источник
   не найден; фраза «беременность не защищает от ИППП» снята из Темы 9 (своего
   источника нет, остаётся в Теме 4).
@@ -68,7 +70,7 @@
 
 ## Следующий допустимый шаг
 
-Пользователь решает по 11 строкам SOURCE NEEDED (`checkpoint-5.md`, раздел 2;
-рекомендация — все оставить для врача) и принимает Checkpoint 5 → пакет
-врачу-рецензенту: текст, реестр, SOURCE NEEDED, DISPUTED-CLAIMS 23–29, список
-источников.
+Ответ врача → дословно в `human-review.md`, секция 2 → вердикты в реестр →
+встраивание правок → сверка источников после врача (`SOURCES FINAL`) →
+обязательный USER STOP перед финальной редактурой. Финальную редактуру до
+ответа врача не запускать.
