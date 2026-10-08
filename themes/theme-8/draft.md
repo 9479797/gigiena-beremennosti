@@ -49,7 +49,7 @@
 
 **Коротко о главном (Итоги главы)**
 
-**Клинические источники**
+**Клинические и научные источники**
 
 ---
 
@@ -514,76 +514,198 @@
 
 ---
 
-## Клинические источники
+## Клинические и научные источники
 
-**Российские документы**
+Список сгруппирован по разделам главы. Каждая запись устроена одинаково: сначала источник — название кликабельно, — затем после тире то, какое именно утверждение главы на нём стоит. Курсивом добавлены оговорки: где документ недоступен напрямую, где сверка не доводилась до первоисточника, где данные в прежней версии списка были указаны неверно. Все ссылки проверены 09.10.2026.
 
-1. Клинические рекомендации «Нормальная беременность». Российское общество акушеров-гинекологов, 2023 (редакция 2024). Разделы 5.1 и 6. Срок пересмотра истёк. Текст: https://congress-med.ru/assets/files/2024/2024-normalnaya-beremennost.pdf
-2. Клинические рекомендации «Венозные осложнения во время беременности и в послеродовом периоде. Акушерская тромбоэмболия». РОАГ, ААР, АААР, 2025. Разделы 1.2 и 5 сверены дословно 16.09.2026; шкала оценки факторов риска (предшествующее ВТЭО, варикозное расширение вен нижних конечностей тяжёлой степени, многоплодная беременность) сверена по тексту на портале MedElement 17.09.2026.
-3. Клинические рекомендации «Преэклампсия. Эклампсия. Отеки, протеинурия и гипертензивные расстройства во время беременности, в родах и послеродовом периоде». Минздрав России, 2024. Определение преэклампсии (раздел 1.1) сверено по тексту 17.09.2026. https://base.garant.ru/409626439/
-4. Клинические рекомендации «Преждевременная отслойка плаценты». Минздрав России, 2024. Определение (раздел 1.1), предрасполагающие факторы и рекомендация о предупреждении механических травм сверены по тексту 17.09.2026. https://base.garant.ru/410576556/
-5. Клинические рекомендации «Патологическое прикрепление плаценты (предлежание и врастание плаценты)». Минздрав России, 2023. Определение предлежания плаценты (раздел 1.1) сверено по тексту 17.09.2026 (зеркало MedElement; оригинал — КонсультантПлюс, cons_doc_LAW_447855).
-6. Клинические рекомендации «Резус-изоиммунизация. Гемолитическая болезнь плода». Минздрав России, 2024. Рекомендация о дополнительном введении иммуноглобулина человека антирезус Rho(D) при абдоминальной травме сверена по тексту 17.09.2026. https://base.garant.ru/409626441/
-7. Трудовой кодекс Российской Федерации от 30.12.2001 № 197-ФЗ, статьи 93, 96, 254, 255 (часть 1 сверена дословно 17.09.2026), 259, 261.
-8. Федеральный закон от 22.11.1995 № 171-ФЗ, статья 2.
-9. Федеральный закон от 21.11.2011 № 323-ФЗ «Об основах охраны здоровья граждан в Российской Федерации», статья 13.
-10. Федеральный закон от 28.12.2013 № 426-ФЗ «О специальной оценке условий труда», статья 5.
-11. Приказ Минтруда России от 14.09.2021 № 629н «Об утверждении предельно допустимых норм нагрузок для женщин при подъеме и перемещении тяжестей вручную».
-12. Приказ Минздрава России от 23.11.2021 № 1089н «Об утверждении Условий и порядка формирования листков нетрудоспособности…», раздел VIII, пункт 57 (сверено по тексту КонсультантПлюс 17.09.2026).
-13. Приказ Минздрава России от 15.04.2026 № 286н «Об утверждении порядка выдачи медицинскими организациями справок и медицинских заключений» (заменил приказ от 14.09.2020 № 972н). http://publication.pravo.gov.ru/document/0001202605290025 `[ПРОВЕРИТЬ: положения о заключении для перевода беременной не сверены]`
-14. Приказ Минздрава России от 13.11.2025 № 666н «Об утверждении Порядка оказания медицинской помощи по профилю "психиатрия-наркология"» (действует с 01.09.2026, заменил приказ от 30.12.2015 № 1034н). http://publication.pravo.gov.ru/document/0001202512230030 `[ПРОВЕРИТЬ: положения об анонимной помощи не сверены]`
-15. Нормы радиационной безопасности НРБ-99/2009 (СанПиН 2.6.1.2523-09), пункт 3.1.8.
-16. СП 2.2.4285-26 «Санитарно-эпидемиологические требования к условиям труда», утверждены постановлением Главного государственного санитарного врача РФ от 02.06.2026 № 15, действуют с 01.09.2026; раздел VII (пункты 79–84) сверен по тексту 17.09.2026. https://base.garant.ru/414329089/ Прежние документы: СП 2.2.3670-20 (действовал 2021–2026); постановление Главного государственного санитарного врача РФ от 31.12.2020 № 46 (об утрате силы СанПиН 2.2.0.555-96 «Гигиенические требования к условиям труда женщин»).
-17. Правила дорожного движения Российской Федерации, пункт 2.1.2.
-18. ГУ МЧС России по г. Москве. «Что делать, если разбился ртутный градусник?», 07.12.2019. https://moscow.mchs.gov.ru/deyatelnost/press-centr/novosti/4073461; ГУ МЧС России по Республике Северная Осетия — Алания — угарный газ.
-19. Консультативный телефонный центр помощи в отказе от потребления табака (СПбНИИФ): https://spbniif.ru/klinicheskie-podrazdeleniya/konsultativnyy-telefonnyy-tsentr-pomoshchi-v-otkaze-ot-potrebleniya-tabaka-.php
-20. Авиакомпания «Уральские авиалинии». Перелёт беременных на самолёте. https://www.uralairlines.ru/rules/perelet-beremennykh-na-samolete/
+**Алкоголь**
 
-**Международные документы и руководства** (применимость к российской практике отдельно не проверялась)
+1. NHS. [Drinking alcohol while pregnant](https://www.nhs.uk/pregnancy/keeping-well/drinking-alcohol-while-pregnant/), страница проверена NHS 13.03.2023 — алкоголь проходит из крови матери через плаценту, печень ребёнка не сформирована и алкоголь не перерабатывает; у женщин, узнавших о беременности после употребления алкоголя в раннем сроке, риск для ребёнка, вероятно, невысок (8.1).
 
-21. ACOG. Committee Opinion № 807. Tobacco and Nicotine Cessation During Pregnancy. 2020.
-22. ACOG. Committee Opinion № 723. Guidelines for Diagnostic Imaging During Pregnancy and Lactation. Obstet Gynecol. 2017;130(4):e210–e216. PMID 28937575 (аннотация сверена 17.09.2026). `[ПРОВЕРИТЬ: полный текст не получен — acog.org и сайт журнала отдают 402]`
-23. ACOG. Clinical Consensus № 10. Cannabis Use During Pregnancy and Lactation. Obstet Gynecol. 2025;146(4):600–611. PMID 40966737 (аннотация сверена 17.09.2026). `[ПРОВЕРИТЬ: полный текст с acog.org не получен; часть исходов — по вторичным источникам (PubMed, Healio)]`
-24. ACOG. Can I use a sauna or hot tub early in pregnancy? (Ask ACOG). https://www.acog.org/womens-health/experts-and-stories/ask-acog/can-i-use-a-sauna-or-hot-tub-early-in-pregnancy
-25. ACR–SPR Practice Parameter for Imaging Pregnant Patients (цитата о пороге 100 мГр — не путать с ACOG, см. раздел 8.11). `[проверить врачу]`
-26. U.S. Department of Health and Human Services. The Health Consequences of Smoking: A Report of the Surgeon General. 2004. Chapter «Reproductive Effects». https://www.ncbi.nlm.nih.gov/books/NBK44697/
-27. RCOG. Scientific Impact Paper № 1. Air Travel and Pregnancy. 2013. https://www.rcog.org.uk/media/jw4jyghl/sip_1.pdf (разделы 1.3, 1.4, 2, 3 сверены по тексту 17.09.2026)
-28. SOGC. Guidelines for the Management of a Pregnant Trauma Patient. Jain V. et al. JOGC, 2015.
-29. CDC. About Fetal Alcohol Spectrum Disorders; Lead Exposure and Pregnancy; Toxoplasmosis: Risk Factors; Parvovirus B19 in Healthcare Settings; About Cytomegalovirus (https://www.cdc.gov/cytomegalovirus/about/index.html).
-30. CDC. Yellow Book 2026: Pregnant Travelers (https://www.cdc.gov/yellow-book/hcp/family-travel/pregnant-travelers.html); Mosquitoes, Ticks, and Other Arthropods (https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/mosquitoes-ticks-and-other-arthropods.html).
-31. NIOSH (CDC). Examples of Jobs and Reproductive Health. https://www.cdc.gov/niosh/reproductive-health/risk-factors/index.html
-32. ATSDR/CDC. Principles of Pediatric Environmental Health (угарный газ).
-33. NHS. Drinking alcohol while pregnant; Stop smoking in pregnancy; Can paint fumes affect my unborn baby?; Back pain in pregnancy (проверено 10.01.2024, https://www.nhs.uk/pregnancy/common-symptoms/back-pain/); Travelling in pregnancy (проверено 17.08.2022, https://www.nhs.uk/pregnancy/keeping-well/travelling/).
-34. NHS Scotland (NHSGGC). Quit Your Way Pregnancy Service.
-35. HSE (Health and Safety Executive, Великобритания). New and expectant mothers at work: your health and safety. https://www.hse.gov.uk/mothers/worker/
-36. UKTIS. Tobacco and NRT use in pregnancy (со ссылкой на NICE NG209).
-37. ВОЗ. Waterpipe tobacco smoking: FAQ (база знаний РКБТ); Signs of heat stroke, 2024; Radiation and health: wireless (https://www.who.int/teams/environment-climate-change-and-health/radiation-and-health/non-ionizing/wireless).
-38. FDA. What You Should Know About Using Cannabis, Including CBD, When Pregnant or Breastfeeding; Do Cell Phones Pose a Health Hazard? (обновлено 13.05.2021, https://www.fda.gov/radiation-emitting-products/cell-phones/do-cell-phones-pose-health-hazard); Microwave Ovens (обновлено 12.10.2023, https://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-ovens).
-39. NIDA. Substance Use While Pregnant and Breastfeeding.
-40. MedlinePlus Magazine (NIH). Substance use disorders: Get the facts and find support. 01.10.2024. https://magazine.medlineplus.gov/article/substance-use-disorders-get-the-facts-and-find-support
-41. Canver B.R., Newman R.K., Gomez A.E. Alcohol Withdrawal Syndrome. StatPearls, обновлено 14.02.2024. https://www.ncbi.nlm.nih.gov/books/NBK441882/
-42. EPA. Protect Children from Wildfires Smoke; NPIC (National Pesticide Information Center).
-43. Western States PEHSU. Mask or respirator use during pregnancy in wildfire smoke events. 2025.
-44. MotherToBaby. Carbon Monoxide; Pesticides (01.11.2025, https://www.ncbi.nlm.nih.gov/books/NBK582900/); Insect Repellents (08.2024, https://www.ncbi.nlm.nih.gov/books/NBK582767/); Roth M.B. What's the Dirt on Household Cleaners When Pregnant? (11.06.2019, https://mothertobaby.org/baby-blog/whats-the-dirt-on-household-cleaners-when-pregnant/).
-45. American Academy of Pediatrics (HealthyChildren.org). How Parents Can Prevent Exposure to Thirdhand Smoke. Обновлено 24.04.2017. https://www.healthychildren.org/English/health-issues/conditions/tobacco/Pages/How-Parents-Can-Prevent-Exposure-Thirdhand-Smoke.aspx
-46. American Lung Association. Is Secondhand Smoke Infiltrating Your Apartment or Condominium. https://www.lung.org/policy-advocacy/tobacco/smokefree-environments/multi-unit-housing/secondhand-smoke-apartments
-47. INSPQ, Croteau A. Effects of workplace noise exposure during pregnancy: systematic review with meta-analysis and meta-regression. Abstract. 2011. https://www.inspq.qc.ca/sites/default/files/publications/1197_effectsworkplacenoisepregnancy_abstract.pdf
-48. NHTSA / ACOG. Seat belt recommendations for pregnant women; Consumer Reports — belt positioning devices.
-49. Smokefree.gov (Национальный институт онкологии США). Myths About Smoking and Pregnancy.
-50. Washington State Department of Health. Dangers of Mixing Bleach with Cleaners. https://doh.wa.gov/community-and-environment/contaminants/bleach-mixing-dangers
-51. Pew Research Center. Working while pregnant is much more common than it used to be. 31.03.2015. https://www.pewresearch.org/short-reads/2015/03/31/working-while-pregnant-is-much-more-common-than-it-used-to-be/
-52. Справочник «Видаль»: Никоретте; Варениклин. Инструкция к препарату «Табекс».
+2. Centers for Disease Control and Prevention. [About Fetal Alcohol Spectrum Disorders](https://www.cdc.gov/fasd/about/index.html), страница от 10.08.2026 — безопасное при беременности количество алкоголя неизвестно; особенности лица, отставание в росте, нарушения работы мозга, трудности с обучением и поведением остаются на всю жизнь и называются фетальным алкогольным спектром нарушений (8.1).
 
-**Систематические обзоры, метаанализы и исследования**
+3. Минздрав России, Российское общество акушеров-гинекологов. [Клинические рекомендации «Нормальная беременность»](https://congress-med.ru/assets/files/2024/2024-normalnaya-beremennost.pdf), 2023 (редакция 15.02.2024), ID 288 (в рубрикаторе 288_2) — раздел 5.1: врач сообщает беременной о необходимости отказа от приёма алкоголя (уровень убедительности C, достоверности 5) (8.1); о необходимости отказа от курения (B, 2) (8.2); об отказе от работы с длительным стоянием и излишней физической нагрузкой (B, 2) (8.10); о правильном использовании ремня безопасности (C, 4) (8.13); о мерах профилактики тромбоэмболических осложнений при длительном авиаперелёте (C, 5) (8.14); раздел 6: консультация врача-специалиста по профилю заболевания при осложнениях, когда помощь оказывает врач общей практики или фельдшер (8.6). *Рубрикатор Минздрава (cr.minzdrav.gov.ru) агенту закрыт; все цитаты сверены по PDF на congress-med.ru и по копии с портала РОАГ в `sources/russian-guidelines/`.*
 
-53. McMartin K.I. et al. Pregnancy outcome following maternal organic solvent exposure: a meta-analysis. American Journal of Industrial Medicine, 1998.
-54. Moretti M.E. et al. Maternal hyperthermia and the risk for neural tube defects in offspring. Epidemiology, 2005.
-55. Bekkar B. et al. Association of air pollution and heat exposure with preterm birth, low birth weight, and stillbirth in the US. JAMA Network Open, 2020.
-56. Chersich M.F. et al. Associations between high temperatures in pregnancy and risk of preterm birth, low birth weight, and stillbirths. BMJ, 2020.
-57. Cai C. et al. The impact of occupational activities during pregnancy on pregnancy outcomes: a systematic review and metaanalysis. American Journal of Obstetrics and Gynecology, 2019. PMID 31550447 (отношения шансов сверены по аннотации 17.09.2026).
-58. MacDonald L.A. et al. Clinical guidelines for occupational lifting in pregnancy: evidence summary and provisional recommendations. American Journal of Obstetrics and Gynecology, 2013;209:80–88. https://pmc.ncbi.nlm.nih.gov/articles/PMC4606868
-59. Adane H.A. et al. Maternal Occupational Risk Factors and Preterm Birth: A Systematic Review and Meta-Analysis. Public Health Reviews, 2023;44:1606085.
-60. Skröder H. et al. Occupational exposure to whole-body vibrations and pregnancy complications: a nationwide cohort study in Sweden. Occupational and Environmental Medicine, 2020;77(10):691–698. doi: 10.1136/oemed-2020-106519
-61. Hosokawa Y. et al. Association between Heated Tobacco Product Use during Pregnancy and Fetal Growth in Japan: A Nationwide Web-Based Survey. International Journal of Environmental Research and Public Health, 2022;19(18):11826.
-62. Blencowe H. et al. Definitions, terminology and standards for reporting of births and deaths in the perinatal period: International Classification of Diseases (ICD-11). International Journal of Gynecology & Obstetrics, 2024;168(1):1–9.
-63. Dunning K., LeMasters G., Bhattacharya A. A Major Public Health Issue: The High Incidence of Falls During Pregnancy. Maternal and Child Health Journal, 2010;14:720–725.
+4. Российская Федерация. [Федеральный закон «О государственном регулировании производства и оборота этилового спирта, алкогольной и спиртосодержащей продукции и об ограничении потребления (распития) алкогольной продукции»](https://consultant.ru/document/cons_doc_LAW_8368/) от 22.11.1995 № 171-ФЗ, статья 2 (редакция от 23.03.2026) — алкогольной продукцией считается продукция с содержанием этилового спирта более 0,5 % объёма готовой продукции, поэтому «безалкогольный» напиток может содержать до 0,5 % спирта (8.1). *Текст статьи 2 открыт в справочнике pravo.ppt.ru; страница КонсультантПлюс показывает только оглавление.*
+
+**Курение**
+
+5. NHS Scotland, Quit Your Way Pregnancy Service (NHS Greater Glasgow and Clyde). [Hidden risks — carbon monoxide](https://www.rightdecisions.scot.nhs.uk/quit-your-way-pregnancy-service-nhsggc/smoking-and-your-pregnancy/hidden-risks-carbon-monoxide) — угарный газ из табачного дыма вреден для матери и ребёнка, потому что влияет на использование кислорода (8.2).
+
+6. U.S. Department of Health and Human Services. [The Health Consequences of Smoking: A Report of the Surgeon General](https://www.ncbi.nlm.nih.gov/books/n/smokeuse/ch5/), 2004, глава 5 «Reproductive Effects» — курение уменьшает приток крови к плаценте; одним из возможных механизмов называют сужение сосудов (8.2). *NCBI Bookshelf отдаёт агенту CAPTCHA, текст главы не открывался; адрес главы взят из оглавления книги (NBK44695, открыто). В прежнем списке стоял адрес NBK44697, который подтвердить не удалось.*
+
+7. American College of Obstetricians and Gynecologists. [Tobacco and Nicotine Cessation During Pregnancy](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/05/tobacco-and-nicotine-cessation-during-pregnancy). Committee Opinion № 807. Obstetrics & Gynecology, 2020;135(5):e221–e229, DOI 10.1097/AOG.0000000000003822, подтверждён в 2023 — курение связано с задержкой роста плода, предлежанием и отслойкой плаценты, преждевременным излитием околоплодных вод, низким весом при рождении, повышенной перинатальной смертностью; на курение при беременности приходится 22–34 % случаев синдрома внезапной детской смерти (8.2); безопасного количества сигарет нет, лучше всего полностью отказаться, отказ полезен на любом сроке (8.2); пассивное курение повышает риск низкого веса при рождении примерно на 20 % (8.3); немедленный отказ от электронных сигарет и вейпов (8.4); при бездымном табаке низкий вес, недоношенность, мертворождение и остановки дыхания у новорождённого встречаются так же часто, как при курении (8.4).
+
+8. Минздрав России. [Клинические рекомендации «Патологическое прикрепление плаценты (предлежание и врастание плаценты)»](https://www.consultant.ru/document/cons_doc_LAW_447855/), 2023 — определение предлежания плаценты: плацента полностью или частично перекрывает внутренний зев (8.2). *Страница КонсультантПлюс открыта, название подтверждено, текст документа в бесплатной версии идёт по расписанию; определение сверено 17.09.2026 по зеркалу MedElement (запись № 24 в `sources/skachat-vruchnuyu.md`).*
+
+9. Минздрав России. [Клинические рекомендации «Преждевременная отслойка нормально расположенной плаценты»](https://base.garant.ru/410576556/), 2024, ID 800 — определение: отделение плаценты от стенки матки во время беременности или в I–II периодах родов (8.2); механическая травма — предрасполагающий фактор, рекомендуется предупреждение механических травм во время беременности (уровень убедительности B, достоверности 3) (8.16). *В прежнем списке название дано сокращённо — «Преждевременная отслойка плаценты» (так оно записано на зеркале pravo.ppt.ru, по тексту которого сверены определение и рекомендация; в «Гаранте» страница открывается, но текст при чтении агентом искажён).*
+
+10. Blencowe H., Hug L., Moller A.-B. et al. [Definitions, terminology and standards for reporting of births and deaths in the perinatal period: International Classification of Diseases (ICD-11)](https://doi.org/10.1002/ijgo.15794). International Journal of Gynecology & Obstetrics, 2024;168(1):1–9, DOI 10.1002/ijgo.15794 — перинатальная смертность по ICD-11 считается с 22 полных недель беременности (8.2). *Страница издателя агенту не открывалась; выходные данные и порог в 22 недели (154 дня) сверены по реферату в PubMed (PMID 39127912).*
+
+11. Smokefree.gov. [Myths About Smoking During Pregnancy](https://smokefree.gov/quit-smoking/quitting-while-pregnant/myths-about-smoking-pregnancy) — безопасного количества сигарет при беременности нет; резкий отказ от курения не создаёт для ребёнка дополнительного стресса (8.2). *В прежнем списке название дано как «Myths About Smoking and Pregnancy».*
+
+12. NHS. [Stop smoking in pregnancy](https://www.nhs.uk/pregnancy/keeping-well/stop-smoking/), страница проверена NHS 10.01.2023 — после отказа от курения вредные газы, включая угарный газ, выводятся из организма; отказ в последние недели беременности тоже полезен женщине и ребёнку (8.2); электронные сигареты, по имеющимся данным, значительно менее опасны, чем курение (8.4).
+
+13. UK Teratology Information Service (UKTIS). [Tobacco and nicotine replacement therapy (NRT) use in pregnancy](https://uktis.org/monographs/tobacco-and-nrt-use-in-pregnancy/). Версия 2, апрель 2026 — никотинзаместительные препараты в Великобритании рекомендованы беременным как средство первого выбора при отказе от курения (8.2).
+
+14. Reckitt (инструкция, копия на medi.ru). [Никоретте, жевательная резинка фруктовая](https://medi.ru/instrukciya/nikorette_21607/) — в противопоказаниях только гиперчувствительность, беременность не указана; никотин проникает через плаценту, применять препарат при беременности можно, сопоставив пользу для матери и вред для плода (8.2). *В прежнем списке источником назван справочник «Видаль»; процитированные формулировки есть в этой инструкции, а в карточках «Видаль» (например, мятная резинка 4 мг, https://www.vidal.ru/drugs/nicorette__2428) в противопоказаниях стоит «беременность и период грудного вскармливания — в зависимости от лекарственной формы».*
+
+15. Видаль. [Варениклин](https://www.vidal.ru/drugs/molecule/1877), страница действующего вещества — применение при беременности и в период лактации противопоказано (8.2).
+
+16. Видаль. [Табекс, инструкция по применению](https://www.vidal.ru/drugs/tabex__2995) — препарат противопоказан к применению во время беременности (8.2). *В прежнем списке указана только «инструкция к препарату Табекс», без названия справочника и адреса.*
+
+**Пассивное курение**
+
+17. American Academy of Pediatrics. [How Parents Can Prevent Exposure to Thirdhand Smoke](https://www.healthychildren.org/English/health-issues/conditions/tobacco/Pages/How-Parents-Can-Prevent-Exposure-Thirdhand-Smoke.aspx), HealthyChildren.org, обновлено 24.04.2017 — беременные относятся к тем, кому остатки табачного дыма на поверхностях особенно нежелательны; курение в другой комнате, с вентилятором или у открытого окна от них не защищает (8.3).
+
+18. American Lung Association. [Is Secondhand Smoke Infiltrating Your Apartment or Condominium](https://www.lung.org/policy-advocacy/tobacco/smokefree-environments/multi-unit-housing/secondhand-smoke-apartments) — от 44 до 53 % жителей многоквартирных домов, где дома не курят, сталкиваются с проникновением дыма; дым идёт через вентиляцию, щели в стенах и перекрытиях (8.3).
+
+**Электронные сигареты, нагревание табака, кальян и снюс**
+
+19. Hosokawa Y., Zaitsu M., Okawa S. et al. [Association between Heated Tobacco Product Use during Pregnancy and Fetal Growth in Japan: A Nationwide Web-Based Survey](https://doi.org/10.3390/ijerph191811826). International Journal of Environmental Research and Public Health, 2022;19(18):11826, DOI 10.3390/ijerph191811826 — у женщин, которые во время беременности пользовались только системами нагревания табака, ребёнок с малым для срока весом рождался чаще, чем у никогда не куривших (отношение шансов 2,50; доверительный интервал 1,03–6,05) (8.4). *Страница издателя агенту не открывалась; выходные данные и числа сверены по реферату в PubMed (PMID 36142098).*
+
+20. WHO FCTC Knowledge Hub on Waterpipe Tobacco Smoking. [Frequently asked questions](https://extranet.who.int/fctcapps/fctcapps/fctc/kh/wts/faq) — за сеанс кальяна вдыхается около 90 000 мл дыма против 500–600 мл от сигареты; вода токсичные вещества дыма полностью не задерживает; тлеющий уголь выделяет угарный газ, поэтому кальян без табака тоже вреден (8.4). *В прежнем списке название дано как «Waterpipe tobacco smoking: FAQ» и без адреса.*
+
+**Каннабис и другие психоактивные вещества**
+
+21. U.S. Food and Drug Administration. [What You Should Know About Using Cannabis, Including CBD, When Pregnant or Breastfeeding](https://www.fda.gov/consumers/consumer-updates/what-you-should-know-about-using-cannabis-including-cbd-when-pregnant-or-breastfeeding), страница отмечена как актуальная на 16.10.2019 — ТГК из крови матери может попадать в мозг ребёнка; влияние каннабидиола на плод не изучено, в продуктах с ним может оказаться ТГК (8.5).
+
+22. American College of Obstetricians and Gynecologists. [Cannabis Use During Pregnancy and Lactation](https://doi.org/10.1097/AOG.0000000000006053). Clinical Consensus № 10. Obstetrics & Gynecology, 2025;146(4):600–611, DOI 10.1097/AOG.0000000000006053 — ACOG не рекомендует каннабис при беременности и в период лактации; связывает его с низким весом при рождении, задержкой роста плода, переводом новорождённого в реанимацию, перинатальной смертностью и нарушениями развития мозга и поведения (8.5). *Сайт ACOG и страница журнала агенту закрыты; выходные данные сверены по PubMed (PMID 40966737). В реферате названы только преждевременные роды, низкий вес и задержка развития; остальные исходы вошли через пересказ.*
+
+23. National Institute on Drug Abuse. [Substance Use in Women Research Report](https://nida.nih.gov/publications/research-reports/substance-use-in-women/substance-use-while-pregnant-breastfeeding), раздел «Substance Use While Pregnant and Breastfeeding» — кокаин повышает риск преждевременного излития вод и отслойки плаценты, метамфетамин связан с преэклампсией и преждевременными родами (8.5); внезапное прекращение приёма лекарств может быть опаснее для матери и плода, чем продолжение приёма под наблюдением врача (8.5). *Дата страницы в её тексте не указана.*
+
+24. Минздрав России. [Клинические рекомендации «Преэклампсия. Эклампсия. Отеки, протеинурия и гипертензивные расстройства во время беременности, в родах и послеродовом периоде»](https://base.garant.ru/409626439/), 2024, раздел «Термины и определения» — преэклампсия: осложнение, при котором после 20-й недели повышается давление и появляется белок в моче или другие признаки поражения органов (8.5). *В прежнем списке определение отнесено к разделу 1.1; на странице оно стоит в разделе «Термины и определения», раздел 1.1 содержит определения умеренной и тяжёлой преэклампсии.*
+
+25. Российская Федерация. [Федеральный закон «Об основах охраны здоровья граждан в Российской Федерации»](https://www.consultant.ru/document/cons_doc_LAW_121895/9f906d460f9454a8a0d290738d9fc2798c1e865a/) от 21.11.2011 № 323-ФЗ, статья 13 — сведения о факте обращения за медицинской помощью, состоянии здоровья и диагнозе составляют врачебную тайну (8.5).
+
+**Помощь при отказе**
+
+26. MedlinePlus Magazine (National Library of Medicine, NIH). [Substance use disorders: Get the facts and find support](https://magazine.medlineplus.gov/article/substance-use-disorders-get-the-facts-and-find-support), 01.10.2024 — повторяющееся употребление действует на систему вознаграждения мозга, тяга и симптомы отмены мешают бросить (8.6).
+
+27. ФГБУ «СПб НИИФ» Минздрава России. [Консультативный телефонный центр помощи в отказе от потребления табака](https://spbniif.ru/klinicheskie-podrazdeleniya/konsultativnyy-telefonnyy-tsentr-pomoshchi-v-otkaze-ot-potrebleniya-tabaka-.php) — телефон 8-800-200-0-200, звонок бесплатный; центр организован Министерством здравоохранения РФ и работает с понедельника по пятницу с 9:00 до 21:00, в субботу с 9:00 до 18:00 по московскому времени (8.6).
+
+28. Canver B. R., Newman R. K., Gomez A. E. [Alcohol Withdrawal Syndrome](https://www.ncbi.nlm.nih.gov/books/NBK441882/). StatPearls, NCBI Bookshelf NBK441882, обновлено 14.02.2024 — судороги, галлюцинации, дезориентация, дрожь и потливость названы среди проявлений синдрома отмены алкоголя (8.6). *NCBI Bookshelf отдаёт агенту CAPTCHA, текст не открывался; в PubMed по запросу «Alcohol Withdrawal Syndrome, StatPearls, Canver» найдена запись PMID 28722912, её метаданные получить не удалось (запись № 27 в `sources/skachat-vruchnuyu.md`).*
+
+**Бытовая химия и ремонт**
+
+29. Roth M. B. [What's the Dirt on Household Cleaners When Pregnant?](https://mothertobaby.org/baby-blog/whats-the-dirt-on-household-cleaners-when-pregnant/) MotherToBaby New York, 11.06.2019 — бытовые чистящие средства при обычном использовании вряд ли повышают риск для ребёнка; усилившийся запах не показывает, сколько вещества попадает к ребёнку; проветривание и перчатки (8.7).
+
+30. Washington State Department of Health. [Dangers of Mixing Bleach with Cleaners](https://doh.wa.gov/community-and-environment/contaminants/bleach-mixing-dangers) — хлорсодержащее средство с нашатырём выделяет хлорамины, с кислотой, в том числе со средством для унитаза, — хлор (8.7).
+
+31. Centers for Disease Control and Prevention. [People at Increased Risk for Toxoplasmosis](https://www.cdc.gov/toxoplasmosis/risk-factors/index.html), 14.02.2025 — лоток кошки по возможности меняет другой человек; если некому, надевают одноразовые перчатки и затем моют руки с мылом (8.7). *В прежнем списке название дано как «Toxoplasmosis: Risk Factors».*
+
+32. McMartin K. I., Chu M., Kopecky E., Einarson T. R., Koren G. [Pregnancy outcome following maternal organic solvent exposure: a meta-analysis of epidemiologic studies](https://doi.org/10.1002/%28SICI%291097-0274%28199809%2934:3%3C288::AID-AJIM12%3E3.0.CO;2-Q). American Journal of Industrial Medicine, 1998;34(3):288–292, DOI 10.1002/(SICI)1097-0274(199809)34:3<288::AID-AJIM12>3.0.CO;2-Q — при профессиональном контакте с растворителями крупные пороки развития встречались чаще (отношение шансов 1,64; доверительный интервал 1,16–2,30), связь с выкидышем статистически значимой не оказалась (8.7). *Страница издателя агенту не открывалась; выходные данные и числа сверены по реферату в PubMed (PMID 9698999).*
+
+33. NHS. [Can paint fumes affect my unborn baby?](https://www.nhs.uk/chq/Pages/2531.aspx) — маловероятно, что краска или её запах навредят ребёнку; риск выше при красках на растворителях и старой краске со свинцом; рекомендованы краски на водной основе, проветривание, не есть и не пить в комнате (8.7). *Страница последний раз пересматривалась NHS 29.04.2015.*
+
+34. Centers for Disease Control and Prevention. [Risk Factors and Pregnancy](https://cdc.gov/lead-prevention/risk-factors/pregnancy.html) (раздел о свинце), 25.08.2026 — свинец может перейти от матери к ребёнку во время беременности (8.7). *В прежнем списке название дано как «Lead Exposure and Pregnancy».*
+
+35. National Pesticide Information Center, Oregon State University. [Pesticides and Pregnancy](https://npic.orst.edu/health/preg.html), обновлено 19.08.2025 — при обработке помещения от вредителей лучше уйти, затем проветрить и вернуться по инструкции на этикетке, когда обработанные поверхности высохнут (8.7). *В прежнем списке указано только «NPIC», без названия страницы и адреса.*
+
+36. MotherToBaby (Organization of Teratology Information Specialists). [Pesticides](https://mothertobaby.org/fact-sheets/pesticides-pregnancy/), информационный листок, 01.11.2025 — вряд ли обработка дома или места работы профессиональной службой повышает риски для беременности; на даче пестициды лучше не разводить и не распылять самой; если не обойтись — инструкция на упаковке, проветриваемое место, респиратор, закрытая одежда, перчатки, мытьё овощей, фруктов и рук (8.7).
+
+37. ГУ МЧС России по г. Москве. [Что делать, если разбился ртутный градусник?](https://moscow.mchs.gov.ru/deyatelnost/press-centr/novosti/4073461) 07.12.2019 — порядок сбора ртути: вывести людей и животных, закрыть двери, открыть окна, не собирать веником и пылесосом, перчатки, пакеты на обувь, повязка, шприц или кисточка со скотчем, стеклянная ёмкость, раствор марганцовки, сдача отходов (8.7).
+
+**Загрязнённый воздух и угарный газ**
+
+38. Bekkar B., Pacheco S., Basu R., DeNicola N. [Association of Air Pollution and Heat Exposure With Preterm Birth, Low Birth Weight, and Stillbirth in the US: A Systematic Review](https://doi.org/10.1001/jamanetworkopen.2020.8243). JAMA Network Open, 2020;3(6):e208243, DOI 10.1001/jamanetworkopen.2020.8243 — из 58 исследований загрязнителей воздуха 48 показали значимую связь с преждевременными родами, низким весом при рождении или мертворождением (8.8). *Страница издателя агенту не открывалась; выходные данные и числа сверены по реферату в PubMed (PMID 32556259).*
+
+39. U.S. Environmental Protection Agency. [Protect Children from Wildfires, Smoke, and Volcanic Ash](https://epa.gov/node/257003/), опубликовано 07.10.2020, изменено 22.05.2026 — очиститель воздуха с фильтром HEPA помогает убрать частицы дыма из помещения (8.8). *В прежнем списке название дано как «Protect Children from Wildfires Smoke».*
+
+40. Western States Pediatric Environmental Health Specialty Unit. [Masks to Protect from Wildfire Smoke During Pregnancy or Early Child Years](https://wspehsu.ucsf.edu/wp-content/uploads/2025/02/mask-or-respirator-use-during-pregnancy-and-early-child-years-in-wildfire-smoke-events_2_5_25.pdf) (файл от 05.02.2025) — через респиратор N95 с хорошим прилеганием проходит около 100 частиц из 1000, через медицинскую маску — 700–800 (8.8). *В прежнем списке название дано как «Mask or respirator use during pregnancy in wildfire smoke events».*
+
+41. Agency for Toxic Substances and Disease Registry. [Principles of Pediatric Environmental Health](https://www.atsdr.cdc.gov/csem/ped_env_health/docs/ped_env_health.pdf). Case Studies in Environmental Medicine, курс WB2089, 15.02.2012 — гемоглобин плода связывает угарный газ прочнее, чем гемоглобин взрослого, и выводится газ из крови плода дольше (8.8).
+
+42. MotherToBaby (Organization of Teratology Information Specialists). [Carbon Monoxide](https://mothertobaby.org/fact-sheets/carbon-monoxide-pregnancy/), информационный листок, 01.05.2025 — признаки отравления угарным газом: головная боль, тошнота, рвота, спутанность сознания, потеря сознания; бытовой датчик угарного газа с питанием от батарейки (8.8).
+
+**Жара и перегрев**
+
+43. Moretti M. E., Bar-Oz B., Fried S., Koren G. [Maternal hyperthermia and the risk for neural tube defects in offspring: systematic review and meta-analysis](https://doi.org/10.1097/01.ede.0000152903.55579.15). Epidemiology, 2005;16(2):216–219, DOI 10.1097/01.ede.0000152903.55579.15 — материнская гипертермия в первом триместре связана с пороками нервной трубки (отношение шансов 1,92; доверительный интервал 1,61–2,29) (8.9). *Страница издателя агенту не открывалась; выходные данные и числа сверены по реферату в PubMed (PMID 15703536). В реферате нет условия «не меньше 15 минут в горячей ванне или сауне»; полный текст не открывался.*
+
+44. Chersich M. F., Pham M. D., Areal A. et al. [Associations between high temperatures in pregnancy and risk of preterm birth, low birth weight, and stillbirths: systematic review and meta-analysis](https://doi.org/10.1136/bmj.m3811). BMJ, 2020;371:m3811, DOI 10.1136/bmj.m3811 — с каждым градусом повышения температуры шансы преждевременных родов растут в 1,05 раза, в периоды аномальной жары — в 1,16 раза (8.9). *Страница издателя агенту не открывалась; выходные данные и числа сверены по реферату в PubMed (PMID 33148618).*
+
+45. World Health Organization. [What to do if you see signs of heat stroke](https://cdn.who.int/media/docs/default-source/environment-climate-change-and-health/signs-of-heat-stroke.pdf?sfvrsn=96800ae4_5), 16.05.2024 — признаки теплового удара: слабость, головокружение, тошнота, прекращение потоотделения, потеря сознания; при них сразу вызывают скорую помощь (8.9). *В прежнем списке название дано как «Signs of heat stroke»; файл приложен к странице ВОЗ «Heat and health» (31.07.2026).*
+
+46. American College of Obstetricians and Gynecologists. [Can I use a sauna or hot tub early in pregnancy?](https://www.acog.org/womens-health/experts-and-stories/ask-acog/can-i-use-a-sauna-or-hot-tub-early-in-pregnancy) Ask ACOG, сентябрь 2021 — в начале беременности лучше не пользоваться сауной и горячей ванной (8.9).
+
+**Работа во время беременности**
+
+47. Pew Research Center. [Working while pregnant is much more common than it used to be](https://www.pewresearch.org/short-reads/2015/03/31/working-while-pregnant-is-much-more-common-than-it-used-to-be/), 31.03.2015 — 82 % работавших женщин в США оставались на работе до последнего месяца перед первыми родами (8.10).
+
+48. Российская Федерация. [Трудовой кодекс Российской Федерации](https://www.consultant.ru/document/cons_doc_LAW_34683/) от 30.12.2001 № 197-ФЗ — статья 255, часть 1: отпуск по беременности и родам 70 дней до родов (при многоплодной — 84) и 70 дней после (при осложнённых родах — 86, при рождении двух и более детей — 110), пособие по государственному социальному страхованию (8.10); статья 254, части 1–2: снижение норм выработки или перевод на другую работу по медицинскому заключению и заявлению, освобождение от работы с сохранением среднего заработка до предоставления другой работы (8.10, 8.11, 8.12); статья 259, часть 1: запрет командировок, сверхурочной работы, работы в ночное время, выходные и праздничные дни (8.10); статья 96: ночное время с 22 до 6 часов, беременные к работе в это время не допускаются (8.10); статья 93, часть 2: неполное рабочее время по просьбе беременной (8.10); статья 261, части 1–2: запрет увольнения по инициативе работодателя, кроме ликвидации организации и прекращения деятельности предпринимателя, продление срочного договора до окончания беременности (8.10). *Статьи 93, 96, 254, 255, 259 и 261 открыты 09.10.2026 на страницах КонсультантПлюс (редакция до 25.05.2026, с изменениями, не вступившими в силу); текст статьи 93 дополнен сроком в пять рабочих дней на ответ работодателя (применяется с 01.09.2026), на утверждение главы это не влияет.*
+
+49. Минздрав России. [Приказ от 23.11.2021 № 1089н «Об утверждении Условий и порядка формирования листков нетрудоспособности в форме электронного документа и выдачи листков нетрудоспособности в форме документа на бумажном носителе»](https://legalacts.ru/doc/prikaz-minzdrava-rossii-ot-23112021-n-1089n-ob-utverzhdenii/), раздел VIII, пункт 57 — листок нетрудоспособности по беременности и родам оформляет акушер-гинеколог (при его отсутствии врач общей практики, при отсутствии врача — фельдшер): на сроке 30 недель сразу на 140 календарных дней, при многоплодной беременности на сроке 28 недель на 194 дня (8.10). *Страница на legalacts.ru при проверке агенту не открылась; пункт 57 сверен по тексту КонсультантПлюс 17.09.2026 (запись № 28 в `sources/skachat-vruchnuyu.md`).*
+
+**Вредные условия труда**
+
+50. Российская Федерация. [Федеральный закон «О специальной оценке условий труда»](https://www.consultant.ru/document/cons_doc_LAW_156555/402810b1bb7b017100eca8380896285286db0bde/) от 28.12.2013 № 426-ФЗ, статья 5, часть 2 — работник обязан ознакомиться с результатами специальной оценки условий труда на своём рабочем месте (8.11).
+
+51. Главный государственный санитарный врач Российской Федерации. [СП 2.2.4285-26 «Санитарно-эпидемиологические требования к условиям труда»](https://base.garant.ru/414329089/), постановление от 02.06.2026 № 15, в силе с 01.09.2026 — раздел VII «беременные и кормящие женщины», пункты 79–84: допустимые условия труда, запрет операций с подъёмом предметов выше плечевого пояса и с пола, со статическим напряжением мышц ног и пресса и в вынужденной позе, исключение работы на оборудовании с ножной педалью, на конвейере с принудительным ритмом, при превышении нормативов напряжённости труда, влажности и при резких перепадах барометрического давления (8.11); пункт 80 — запрет подъёма предметов с пола и выше плечевого пояса (8.12); пункт 81 — беременных не допускают к работам с возбудителями инфекционных, паразитарных и грибковых заболеваний (8.11). Заменил СП 2.2.3670-20, действовавший 2021–2026. *Пункты 80 и 81 открыты и сверены 09.10.2026; остальные пункты раздела VII сверены по тексту 17.09.2026.*
+
+52. National Institute for Occupational Safety and Health (CDC). [Examples of Jobs and Reproductive Health](https://www.cdc.gov/niosh/reproductive-health/risk-factors/index.html), 03.04.2024 — растворители, формальдегид и акрилаты в салонах красоты, противоопухолевые препараты, газовые анестетики и дезинфицирующие средства в медицине и ветеринарии, пестициды в сельском хозяйстве названы рисками для репродуктивного здоровья (8.11).
+
+53. Centers for Disease Control and Prevention. [Parvovirus B19](https://cdc.gov/infection-control/hcp/healthcare-personnel-epidemiology-control/parvovirus.html), раздел «Infection Control», 23.12.2025 — беременная с парвовирусом B19 может передать вирус плоду, риск гибели плода повышается, особенно в первой половине беременности (8.11). *В прежнем списке название дано как «Parvovirus B19 in Healthcare Settings».*
+
+54. Centers for Disease Control and Prevention. [About Cytomegalovirus](https://www.cdc.gov/cytomegalovirus/about/index.html), 17.01.2025 — вирус передаётся со слюной и мочой, особенно от маленьких детей; люди, бывающие рядом с ними, заражаются чаще; при беременности вирус может передаться ребёнку; мытьё рук с мылом после смены подгузника и отказ от общей с ребёнком посуды, еды и сосок снижают риск (8.11).
+
+55. Croteau A. [Effects of workplace noise exposure during pregnancy: systematic review with meta-analysis and meta-regression](https://www.inspq.qc.ca/en/publications/1197). Institut national de santé publique du Québec, 11.03.2011 (реферат) — шум на работе повышает на 27 % риск рождения ребёнка с малым для срока весом; для преждевременных родов повышение риска предполагается; о влиянии шума на слух ребёнка данных недостаточно; связь с беременностью правдоподобна при шуме от 85 дБА или при более тихом, если работа требует большой сосредоточенности (8.11). *Открыт реферат; полный текст обзора агентом не открывался.*
+
+56. Adane H. A., Iles R., Boyle J. A., Gelaw A., Collie A. [Maternal Occupational Risk Factors and Preterm Birth: A Systematic Review and Meta-Analysis](https://doi.org/10.3389/phrs.2023.1606085). Public Health Reviews, 2023;44:1606085, DOI 10.3389/phrs.2023.1606085 — найдены доказательства умеренной силы связи общей вибрации на работе с преждевременными родами (8.11). *Страница издателя агенту не открывалась; выходные данные сверены по реферату в PubMed (PMID 37937117).*
+
+57. Skröder H., Pettersson H., Albin M. et al. [Occupational exposure to whole-body vibrations and pregnancy complications: a nationwide cohort study in Sweden](https://doi.org/10.1136/oemed-2020-106519). Occupational and Environmental Medicine, 2020;77(10):691–698, DOI 10.1136/oemed-2020-106519 — у работавших полный день при общей вибрации от 0,5 м/с² чаще развивались преэклампсия (отношение шансов 1,76), гестационная гипертензия (1,55) и гестационный диабет (1,62); авторы не советуют подвергать беременных такой вибрации на протяжении всей беременности (8.11). *Страница издателя агенту не открывалась; выходные данные и числа сверены по реферату в PubMed (PMID 32493701).*
+
+58. Главный государственный санитарный врач Российской Федерации. [Нормы радиационной безопасности НРБ-99/2009](https://rulaws.ru/amp/acts/Postanovlenie-Glavnogo-gosudarstvennogo-sanitarnogo-vracha-RF-ot-07.07.2009-N-47/), СанПиН 2.6.1.2523-09, постановление от 07.07.2009 № 47, пункт 3.1.8 — женщины, работающие с источниками ионизирующего излучения, на период беременности и грудного вскармливания переводятся на работу, не связанную с ними (8.11). *Адрес ведёт на постановление об утверждении НРБ-99/2009 с текстом пункта 3.1.8 на сайте rulaws.ru.*
+
+59. American College of Radiology, Society for Pediatric Radiology. [ACR–SPR Practice Parameter for Imaging Pregnant or Potentially Pregnant Patients with Ionizing Radiation](https://gravitas.acr.org/PPTS/DownloadPreviewDocument?DocId=23), пересмотр 2023 — при дозах ниже 100 мГр нарушений развития, вызванных облучением, не выявлено (8.11). *В прежнем списке название дано сокращённо, без года и адреса.*
+
+60. American College of Obstetricians and Gynecologists. [Guidelines for Diagnostic Imaging During Pregnancy and Lactation](https://doi.org/10.1097/AOG.0000000000002355). Committee Opinion № 723. Obstetrics & Gynecology, 2017;130(4):e210–e216, DOI 10.1097/AOG.0000000000002355 — ультразвуковое исследование и магнитно-резонансная томография не связаны с риском и при беременности выбираются в первую очередь (8.11). *Сайт ACOG и страница журнала агенту закрыты; выходные данные и вывод об УЗИ и МРТ сверены по реферату в PubMed (PMID 28937575). Порог дозы в этом документе не сверен (в главе помечен «проверить врачу»).*
+
+61. World Health Organization. [Base stations and wireless technologies](https://www.who.int/teams/environment-climate-change-and-health/radiation-and-health/non-ionizing/wireless), Backgrounder, май 2006 — уровни радиочастотного излучения от базовых станций и беспроводных технологий в общедоступных местах обычно в тысячи раз ниже международных стандартов; неблагоприятных последствий для здоровья не ожидается; беременность на странице не упоминается (8.11). *В прежнем списке название дано как «Radiation and health: wireless».*
+
+62. U.S. Food and Drug Administration. [Cell Phones](https://www.fda.gov/radiation-emitting-products/cell-phones/do-cell-phones-pose-health-hazard), обновлено 13.05.2021 — совокупность научных данных не связывает радиочастотное излучение мобильных телефонов с какими-либо проблемами со здоровьем (8.11). *В прежнем списке стояло прежнее название страницы «Do Cell Phones Pose a Health Hazard?».*
+
+63. U.S. Food and Drug Administration. [Microwave Ovens](https://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-ovens), обновлено 12.10.2023 — печи, соответствующие стандарту и используемые по инструкции, безопасны; при повреждении дверцы, петель, защёлок или уплотнителя нужно обратиться к производителю (8.11).
+
+**Тяжести, долгое стояние и сидение**
+
+64. Минтруд России. [Приказ от 14.09.2021 № 629н «Об утверждении предельно допустимых норм нагрузок для женщин при подъеме и перемещении тяжестей вручную»](https://pravo.ppt.ru/prikaz/mintrud/n-629n-258274) — для женщин предельная нагрузка 10 кг при подъёме и перемещении тяжестей в чередовании с другой работой (до двух раз в час) и 7 кг при постоянном подъёме в течение смены; отдельных норм для беременных в приказе нет (8.12). *Адрес ведёт на текст приказа в справочнике pravo.ppt.ru; приказ действует с 01.03.2022 до 01.03.2028.*
+
+65. MacDonald L. A., Waters T. R., Napolitano P. G. et al. [Clinical guidelines for occupational lifting in pregnancy: evidence summary and provisional recommendations](https://doi.org/10.1016/j.ajog.2013.02.047). American Journal of Obstetrics and Gynecology, 2013;209(2):80–88, DOI 10.1016/j.ajog.2013.02.047 — ориентиры для работниц с неосложнённой беременностью на основе методики NIOSH: 36 фунтов (около 16 кг) при редких подъёмах близко к телу в первой половине беременности, 26 фунтов (около 12 кг) во второй, вплоть до 10 фунтов (около 4,5 кг) при частых подъёмах и грузе вдали от тела; подъём с пола ниже середины голени и над головой не советуют (8.12). *Страница издателя агенту не открывалась, выходные данные сверены по PubMed (PMID 23467051); цифры в реферате не названы, полный текст не открывался (запись № 29 в `sources/skachat-vruchnuyu.md`). В прежнем списке стоял адрес PMC4606868, PubMed указывает для статьи открытую копию PMC4552317.*
+
+66. Cai C., Vandermeer B., Khurana R. et al. [The impact of occupational activities during pregnancy on pregnancy outcomes: a systematic review and metaanalysis](https://doi.org/10.1016/j.ajog.2019.08.059). American Journal of Obstetrics and Gynecology, 2019;222(3):224–238, DOI 10.1016/j.ajog.2019.08.059 — подъём грузов от 11 кг связан с выкидышем (отношение шансов 1,31; доверительный интервал 1,08–1,58), подъём более 100 кг за день — с преждевременными родами (1,31); достоверность низкая и очень низкая (8.12); длительное стояние связано с небольшим повышением риска преждевременных родов (1,11) (8.12). *Страница издателя агенту не открывалась; выходные данные и числа сверены по реферату в PubMed (PMID 31550447). В прежнем списке не были указаны том и страницы.*
+
+67. NHS. [Back pain in pregnancy](https://www.nhs.uk/pregnancy/common-symptoms/back-pain/), страница проверена NHS 10.01.2024 — при подъёме сгибать колени, держа спину прямой, при повороте переставлять ноги, делить покупки между двумя сумками (8.12); обувь на плоской подошве помогает равномерно распределить вес тела (8.16).
+
+68. Health and Safety Executive (Великобритания). [New and expectant mothers at work: Your health and safety](https://www.hse.gov.uk/mothers/worker/) — долгое стояние и долгое сидение названы рисками для беременных работниц; интервал перерывов не указан (8.12).
+
+**Поездки на автомобиле**
+
+69. Российская Федерация. [Правила дорожного движения Российской Федерации](https://www.consultant.ru/document/cons_doc_LAW_2709/a4b879c29ebc2ff9a56a0595499b6eb2dce7980e/), утверждены постановлением Правительства РФ от 23.10.1993 № 1090 (редакция от 28.08.2026), пункт 2.1.2 — при движении на транспортном средстве, оборудованном ремнями безопасности, водитель обязан быть пристёгнутым и не перевозить пассажиров, не пристёгнутых ремнями; исключений для беременных нет (8.13). *В прежнем списке указан только пункт, без документа и адреса.*
+
+70. Peachman R. R. [The Safest Way to Drive While Pregnant](https://www.consumerreports.org/car-safety/safest-way-to-drive-while-pregnant-a1159122691/). Consumer Reports, 13.10.2021 — адаптеры, оттягивающие поясную часть ремня под живот, не регулируются государственным стандартом и не проходили надёжных краш-тестов, по ответу представителя NHTSA на запрос издания (8.13).
+
+**Долгие поездки и перелёты**
+
+71. Минздрав России, Российское общество акушеров-гинекологов, Ассоциация анестезиологов-реаниматологов, Ассоциация акушерских анестезиологов-реаниматологов. [Клинические рекомендации «Венозные осложнения во время беременности и послеродовом периоде. Акушерская тромбоэмболия»](https://pravo.ppt.ru/klinicheskie-rekomendatsii/319532), 2025, ID 723 (в рубрикаторе 723_2) — раздел 1.2: при беременности повышается активность факторов свёртывания, снижаются естественные антикоагулянты, матка затрудняет отток крови от ног, снижается тонус венозной стенки, дегидратация и малоподвижность входят в число предпосылок тромбоза (8.14); раздел 5: компрессионный трикотаж рекомендован, среди прочих, женщинам, путешествующим на большие расстояния более 4 часов (8.14); шкала оценки риска — предшествующее ВТЭО, варикозное расширение вен нижних конечностей тяжёлой степени, многоплодная беременность (8.14). *Рубрикатор Минздрава агенту закрыт; текст сверен по PDF с портала РОАГ в `sources/russian-guidelines/` и по странице зеркала pravo.ppt.ru. В прежнем списке в названии стояло «в послеродовом периоде»; на титуле документа — «послеродовом периоде».*
+
+72. Royal College of Obstetricians and Gynaecologists. [Air Travel and Pregnancy](https://www.rcog.org.uk/media/jw4jyghl/sip_1.pdf). Scientific Impact Paper № 1, 3-е издание, май 2013 — при перелётах дольше четырёх часов: место у прохода, ходьба по салону, упражнения для ног примерно каждые полчаса, достаточно жидкости, ограничение кофе и алкоголя, правильно подобранный компрессионный трикотаж всем беременным, низкомолекулярный гепарин при значительных дополнительных факторах риска (8.14); данных о повышении риска преждевременных родов, излития вод и отслойки плаценты от перелёта нет, досмотровый сканер даёт дозу меньше, чем две минуты полёта на высоте (8.14); для полётов после 28-й недели многие авиакомпании требуют письмо врача или акушерки, многие не допускают к перелёту после 36 полных недель; коллегия советует не летать с 37 недель при неосложнённой одноплодной и с 32 недель при неосложнённой многоплодной беременности (8.14).
+
+73. NHS. [Travelling in pregnancy](https://www.nhs.uk/pregnancy/keeping-well/travelling/), страница проверена NHS 17.08.2022 — в поездке на машине регулярно останавливаться и размяться; не за рулём вращать стопами и шевелить пальцами ног; интервал остановок не указан (8.14).
+
+74. Авиакомпания «Уральские авиалинии». [Перелёт беременных на самолёте](https://www.uralairlines.ru/rules/perelet-beremennykh-na-samolete/) — справка для перелёта должна быть выдана не ранее чем за 24 часа до вылета, указанного в билете (8.14).
+
+**Путешествия**
+
+75. Centers for Disease Control and Prevention. [Pregnant Travelers](https://www.cdc.gov/yellow-book/hcp/family-travel/pregnant-travelers.html). CDC Yellow Book 2026, страница проверена 23.04.2025 — риск акушерских осложнений выше в первом и третьем триместрах; в горы поднимаются постепенно, с временем на привыкание; многие страховые полисы не покрывают помощь при беременности; поездки в районы вспышки вируса Зика стоит пересмотреть; от комаров защищают зарегистрированные репелленты, закрытая одежда и москитные сетки (8.15).
+
+76. Centers for Disease Control and Prevention. [Mosquitoes, Ticks, and Other Arthropods](https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/mosquitoes-ticks-and-other-arthropods.html). CDC Yellow Book 2026, 23.04.2025 — Агентство по охране окружающей среды США не предусматривает для беременных мер сверх указанных на этикетке зарегистрированных репеллентов (8.15).
+
+77. MotherToBaby (Organization of Teratology Information Specialists). [Insect Repellents](https://mothertobaby.org/fact-sheets/insect-repellents/), информационный листок, июль 2026 (прежняя версия — август 2024) — в большинстве исследований DEET не повышал вероятность пороков развития; средство наносят на открытую кожу или на одежду, не под одежду, не на порезы и раздражённую кожу, затем смывают водой с мылом (8.15).
+
+**Падения и травмы**
+
+78. Dunning K., LeMasters G., Bhattacharya A. [A major public health issue: the high incidence of falls during pregnancy](https://doi.org/10.1007/s10995-009-0511-0). Maternal and Child Health Journal, 2010;14(5):720–725, DOI 10.1007/s10995-009-0511-0 — упали хотя бы раз 1070 из 3997 недавно родивших женщин (27 %) (8.16). *Страница издателя агенту не открывалась; выходные данные и числа сверены по реферату в PubMed (PMID 19672702).*
+
+79. Jain V., Chari R., Maslovitz S. et al. [Guidelines for the Management of a Pregnant Trauma Patient](https://doi.org/10.1016/S1701-2163(15)30232-2). Society of Obstetricians and Gynaecologists of Canada, Journal of Obstetrics and Gynaecology Canada, 2015;37(6):553–574, DOI 10.1016/S1701-2163(15)30232-2 — при сроке от 23 недель после травмы не менее четырёх часов проводят мониторинг сердцебиения плода (8.16); антирезусный иммуноглобулин вводят всем резус-отрицательным беременным после травмы (8.16); каждую женщину с травмой отдельно спрашивают о насилии со стороны партнёра (8.16). *Страница издателя агенту не открывалась; рекомендации 20, 22 и 29 сверены по реферату в PubMed (PMID 26334607), в котором приведён перечень рекомендаций целиком.*
+
+80. Минздрав России. [Клинические рекомендации «Резус-изоиммунизация. Гемолитическая болезнь плода»](https://base.garant.ru/409626441/), 2024, раздел 5.2 — при абдоминальной травме у беременной с резус-отрицательной кровью без антирезусных антител рекомендовано дополнительное введение иммуноглобулина человека антирезус Rho(D) (уровень убедительности C, достоверности 4) (8.16).
