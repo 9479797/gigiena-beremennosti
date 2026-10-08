@@ -12,7 +12,7 @@
 - `theme-6/` — Theme 6; Checkpoint 4 пройден (hold акушерки снят 17.09.2026 — роль упразднена), открыты строки 12–16 `editorial/DISPUTED-CLAIMS.md`.
 - `theme-7/` — Theme 7; Checkpoint 4 пройден и выполнена полная редакторская сверка вне маршрута, Checkpoint 2 не завершён (29 строк реестра из 67 не в статусе `VERIFIED`).
 - `theme-8/` — Theme 8; черновик, редакция 4 (17.09.2026: редакторская правка и поиск источников), 13 мест с `[ПРОВЕРИТЬ]` и 10 с `[проверить врачу]`; evidence-ledger.md пока не создан.
-- `theme-9/` — Theme 9; начата 08.10.2026, разведка выполнена (`editorial/reports/razvedka-tema-9-2026-10-08.md`), ждёт отбора кандидатов; `SOURCE MISSING` для Части B.
+- `theme-9/` — Theme 9; начата 08.10.2026, спина темы собрана (`theme-9/checkpoint-0.md`, 20 узлов), ждёт утверждения на Checkpoint 0; `SOURCE MISSING` для Части B.
 - `темы гигиена беременности — SOURCE TEXT 2–9.docx` — общий резервуар исходных текстов. Это source text, а не approved canon и не медицинское доказательство.
 - `SOURCE-TEXT-MAPPING.md` — обязательная карта маршрутизации legacy-блоков SOURCE TEXT в актуальные Theme 2–11, Section 0 и Orientation по Content Map v3.0.
 
