@@ -14,7 +14,7 @@
   8 узлов `ГЛУБОКО`
 - Отчёт разведки: `editorial/reports/razvedka-tema-9-2026-10-08.md`
   (раздел 8 — сверка с планом Темы 9 из содержания книги)
-- Evidence ledger: `themes/theme-9/evidence-ledger.md` — 97 строк
+- Evidence ledger: `themes/theme-9/evidence-ledger.md` — 100 строк
 - Рабочий файл: `themes/theme-9/draft-cp1.md` (≈6 900 слов, имя файла
   сохранено с CP1), для чтения — `themes/theme-9/theme 9 draft.docx`;
   30 пометок `[ПРОВЕРИТЬ: …]`; вопросы врачу — `editorial/DISPUTED-CLAIMS.md`,
