@@ -262,6 +262,19 @@ Checkpoint 2.
 4 — пересчёт недель арифметический (+2 недели), пометка ПРОВЕРИТЬ снята.
 Остаётся `SOURCE NEEDED` ч.1: строка 65 (гликолевая кислота — нужен документ ACOG).
 
+Дополнение 08.10.2026, утро. Federal Register 2014 открыт на govinfo.gov, с. 72076:
+«did not discriminate among risk information obtained from nonclinical animal studies and
+postmarketing human studies»; «did not discriminate among drugs associated with adverse outcomes
+of differing severity or incidence» — формулировка 7.1 (строка 2) подтверждена, ссылка внесена.
+Строка 12: позиция по парацетамолу теперь стоит на первоисточниках — ACOG Practice Advisory
+22.09.2025 («The current weight of evidence does not support a causal link…», «Judicious use at the
+lowest effective dose for the shortest necessary duration»; acog.org закрыт, сверено по Guideline
+Central) и MHRA Drug Safety Update 23.09.2025 («there is no evidence that taking paracetamol during
+pregnancy causes autism in children»); пересказ через FIGO снят. Список — 33 записи: добавлены 14
+(ACOG), 15 (MHRA), прежние 14–31 стали 16–33. Строка 65 (гликолевая кислота): MotherToBaby
+ссылается на ACOG FAQ «Skin Conditions During Pregnancy» (2026), страница отдаёт 402 — остаётся врачу
+и в `sources/skachat-vruchnuyu.md`, запись 14.
+
 Каталог ниже пронумерован по версии списка до этих правок: в главе добавлены записи 3
 (Federal Register), 14 (Нурофен форте), 15 (письмо Минздрава), 16 (FDA 2020), прежние 3–27 стали 4–31.
 
