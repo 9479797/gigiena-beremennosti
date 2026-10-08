@@ -9,7 +9,7 @@
 
 - `CURRENT CHECKPOINT`: медицинская проверка — `MEDICAL REVIEW PENDING`
 - Последний утверждённый Checkpoint: Checkpoint 5 (08.10.2026) — `CONTENT READY WITH FLAGS`, `SOURCES DRAFT`
-- Пакет врачу: `theme 9 draft.docx`, `evidence-ledger.md`, `theme 9 voprosy vrachu.docx` (= `source-needed.md` + DISPUTED-CLAIMS 23–29); журнал — `human-review.md`, секция 2
+- Пакет врачу: `theme 9 draft.docx`, `evidence-ledger.md`, 11 вопросов врачу — пометками «[ПРОВЕРИТЬ: вопрос врачу — …]» в тексте (перечень — `source-needed.md`); журнал — `human-review.md`, секция 2
 - Отчёты: `checkpoint-4.md`, `checkpoint-5.md`
 - Основа: `themes/theme-9/checkpoint-0.md` — 19 узлов (A 8, B 7, C 4),
   8 узлов `ГЛУБОКО`
@@ -18,7 +18,7 @@
 - Evidence ledger: `themes/theme-9/evidence-ledger.md` — 114 строк
 - Рабочий файл: `themes/theme-9/draft-cp1.md` (≈6 900 слов, имя файла
   сохранено с CP1), для чтения — `themes/theme-9/theme 9 draft.docx`;
-  7 пометок `[ПРОВЕРИТЬ: вопрос врачу — …]`; список источников — 38 записей по стандарту v2.0; вопросы врачу — `editorial/DISPUTED-CLAIMS.md`,
+  11 пометок `[ПРОВЕРИТЬ: вопрос врачу — …]` (7 — DISPUTED-CLAIMS 23–29, 4 — логика действий); список источников — 38 записей по стандарту v2.0; вопросы врачу — `editorial/DISPUTED-CLAIMS.md`,
   строки 23–29
 
 Архитектура — по Content Map v3.0: Часть A (профилактика), Часть B (после
@@ -43,7 +43,7 @@
 - 08.10.2026 — черновик Checkpoint 1 принят.
 - 08.10.2026 — Checkpoint 3 принят.
 - 08.10.2026 — Checkpoint 4 принят: «проработай оставшиеся вопросы, если не получится — сделай пометки для врача и переходи далее».
-- 08.10.2026 — все 11 строк SOURCE NEEDED оставлены для врача; Checkpoint 5 принят.
+- 08.10.2026 — все 11 строк SOURCE NEEDED оставлены для врача; Checkpoint 5 принят. Все 11 вопросов помечены в тексте темы; отдельный файл вопросов врачу не нужен.
 - 08.10.2026, CP2 — абзац о других животных (грызуны, рептилии) снят: источник
   не найден; фраза «беременность не защищает от ИППП» снята из Темы 9 (своего
   источника нет, остаётся в Теме 4).
