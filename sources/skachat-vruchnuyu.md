@@ -187,7 +187,7 @@
 - Что сделать: скачать и положить в `sources/reviews/cochrane-cd002281-powered-vs-manual-toothbrush-2014.pdf`.
 - Что проверить при открытии: название, 2014, Issue 6, CD002281.pub3; в резюме: налёта примерно на 11 % меньше через 1–3 месяца и на 21 % после трёх месяцев, воспаления дёсен на 6 % и 11 % (цифры в главе 6.3).
 - Зачем: пункт 2 раздела «Что нужно для завершения Checkpoint 2» README Темы 6; цифры эффекта допустимы только из файла в `sources/reviews/`. Проверить, нет ли редакции новее 2014 года, не требуется (решение 07.10.2026).
-- Статус: ждёт
+- Статус: ждёт скачивания; содержание сверено 09.10.2026 по PubMed (PMC7133541, резюме): «an 11% reduction in plaque at one to three months of use, and a 21% reduction in plaque when assessed after three months of use»; «a 6% and 11% reduction in gingivitis» — цифры 6.3 подтверждены.
 
 ### 9. Badahdah 2025 — ирригаторы — Тема 6, 6.3, 6.5 (строка 25 реестра)
 - Документ: Badahdah A., Hariri M.A., Aljohani M.S., Alshehri L.S., Natto Z.S. Alleviation of Plaque and Gingivitis with Dental Water Jet in Regular and Orthodontic Patients: A Systematic Review and Meta-Analysis. Healthcare (Basel) 2025;13(4):396; DOI 10.3390/healthcare13040396; PMID 39997271; PMCID PMC11855567.
@@ -207,7 +207,7 @@
 - Что сделать: скачать и положить в `sources/reviews/gamba-2024-dental-imaging-pregnancy-systematic-review.pdf`.
 - Что проверить при открытии: название, 2024, 54(1); фраза «No evidence presently supports the routine application of abdominal protection in conventional dental radiography or CBCT examination»; фраза об оговорке для стран с круглыми коллиматорами («In countries where circular collimators are used, radiation protection shields are recommended»).
 - Зачем: пункт 2 раздела «Что нужно для завершения Checkpoint 2»; единственный систематический обзор по строке 19. Ссылка на PMC в каталоге уже есть.
-- Статус: ждёт
+- Статус: ждёт скачивания; содержание сверено 09.10.2026 по полному тексту PMC10985525 (PubMed): «No evidence presently supports the routine application of abdominal protection in conventional dental radiography or CBCT examination»; «In countries where circular collimators are used, radiation protection shields are recommended».
 
 ### 11. Langa 2021 — жёсткость щетины и эффективность — Тема 6, 6.3 (строка 24 реестра)
 - Документ: Langa G.P.J., Muniz F.W.M.G., Wagner T.P., Silva C.F.E., Rösing C.K. Anti-plaque and anti-gingivitis efficacy of different bristle stiffness and end-shape toothbrushes on interproximal surfaces: a systematic review with meta-analysis. J Evid Based Dent Pract 2021;21(2):101548; DOI 10.1016/j.jebdp.2021.101548; PMID 34391550.
@@ -227,7 +227,7 @@
 - Что сделать: скачать и положить в `sources/reviews/ranzan-2019-bristle-stiffness-soft-tissue-systematic-review.pdf`.
 - Что проверить при открытии: год в ledger (2019) совпадает с выпуском, электронная публикация была в 2018; найти в тексте результаты по средней жёсткости: в реферате сказано «Hard-bristle toothbrushes produced more gingival lesions than medium- and soft-bristle brushes», то есть повреждения связаны с жёсткой щетиной, а о средней в реферате ничего нет. Фраза главы «со средней связывают повреждения десневого края» опирается на Molina 2025; проверить, что говорит Ranzan о средней.
 - Зачем: пункт 3 раздела «Что нужно для завершения Checkpoint 2»; пометка 1. Вывод отчёта о расхождении формулировки главы с Ranzan предварительный до проверки.
-- Статус: ждёт
+- Статус: ждёт; 09.10.2026 через PubMed доступен только реферат (PMC9379007 полного текста не отдал): «Hard-bristle toothbrushes produced more gingival lesions than medium- and soft-bristle brushes» — вопрос о средней жёсткости открыт до полного текста.
 
 Записи 13–20 заведены 2026-10-08 источниковедом по заданию «Тема 7, список по стандарту v2.0 и открытые строки»
 (отчёт `editorial/reports/istochniki-2026-10-08-tema-7.md`). Запись 13 — порог по сроку беременности
