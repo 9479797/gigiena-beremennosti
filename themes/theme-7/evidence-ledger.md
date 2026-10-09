@@ -377,3 +377,26 @@ During Pregnancy» — «Безрецептурные (OTC) продукты, с
 | 12, 14 | Louwen F. et al., IJGO 2025, `sources/reviews/louwen-2025-paracetamol-autism-ijgo.pdf` | Раздел 5: «Untreated fever in early pregnancy is associated with increased risks of pregnancy loss, neural tube defects, cleft palate, and cardiac anomalies, and with increased risks of preterm birth and fetal growth restriction in later pregnancy.» Раздел 3: ACOG — «acetaminophen remains the safest first-line analgesic and antipyretic in pregnancy»; «The Royal College of Obstetricians and Gynecologists continues to recommend paracetamol as the first-line analgesic during pregnancy» | Говорит то же, что 7.7 и запись 12 списка. Попутно: в разделе 1 статьи доверительные интервалы Ahlqvist 2024 приведены неверно (аутизм 0,94–1,02, СДВГ 0,95–1,01, нарушения интеллекта 0,96–1,07; в JAMA — 0,93–1,04; 0,94–1,02; 0,92–1,10, сверено по PubMed). В книгу числа не вынесены, правка не нужна |
 | 24 | UKTIS, Use of loratadine in pregnancy | Пользователь прислал текст для пациенток: «Есть ли риск употребления лоратадина во время беременности? Нет. Имеющаяся информация не показывает, что лоратадин причиняет какой-либо вред вам или вашему ребенку во время беременности» | Общий вывод 7.9 подтверждён. Оговорка «если нет других факторов риска» в предложении о прерывании и наблюдении (7.9) по-прежнему не сверена — запись 20 |
 
+## Перенос дополнений из редакции 07.10.2026 (09.10.2026)
+
+Редакция 07.10.2026 (шеф-редакторская правка) в репозиторий не попала. 09.10 по решению
+пользователя в текущий текст перенесено только то, чего в нём не было; каждое место
+сверено с текстом 08.10, решения автора 08.10 (DISPUTED-CLAIMS 20–22) не затронуты.
+Источники открыты и сверены 07.10.2026. Номера — по списку главы (40 записей).
+
+| № в списке | Источник | Адрес | На чём стоит (раздел) | Статус |
+|---|---|---|---|---|
+| 5 | CDC. Medicine and Pregnancy: An Overview, 22.09.2025 (дополнена запись) | cdc.gov/medicine-and-pregnancy/about/index.html | «high fevers … associated with birth defects, low-grade fevers generally do not require any medication» (7.7) | `VERIFIED` |
+| 19 | КР «Преэклампсия. Эклампсия. Отеки, протеинурия и гипертензивные расстройства…», 2024 | base.garant.ru/409626439/ | гипертензия — от 140 и/или 90 мм рт. ст. (7.7) | `VERIFIED` |
+| 20 | Приказ Минздрава России от 20.06.2013 № 388н, п. 4 | normativ.kontur.ru (documentId=367761) | экстренная и неотложная формы скорой помощи (7.7, 7.8) | `VERIFIED` |
+| 25 | NHS. Cough | nhs.uk/symptoms/cough/ | 3–4 недели, лимон и мёд, сиропы, поводы срочно обратиться (7.8) | `QUALIFIED` — зарубежный пациентский источник, о беременности не говорит |
+| 26 | NHS. Sore throat | nhs.uk/symptoms/sore-throat/ | неделя, меры самопомощи (7.8) | `QUALIFIED` — то же |
+| 28 | КР «Нормальная беременность» (дополнена запись) | — | «…в соответствие с клиническими рекомендациями «Геморрой» 2020 г.» (7.10) | `VERIFIED` |
+| 30 | Kowalski R. et al. PLOS ONE, 2015, DOI 10.1371/journal.pone.0130714 | journals.plos.org | мята перечная: «The concentration of essential oil in the herbal teas analysed varied from 0.25 to 1.61%» (7.12); перепроверено 09.10 | `VERIFIED` |
+| 33 | DermNet. Topical steroids | dermnetnz.org/topics/topical-steroid | классы силы: mild — hydrocortisone; potent — betamethasone valerate/dipropionate, mometasone furoate, methylprednisolone aceponate; very potent — clobetasol propionate (7.13) | `VERIFIED` |
+
+Формулировки автора без отдельного источника: «нужно ли лекарство при температуре чуть
+выше 37,5, решает врач» (7.7); маршрут «если консультация закрыта — скорая» (7.7, 7.8);
+отсылка к Теме 1, раздел 1.4, о порядке приёма слабительных (7.10) — пересказа нет, только
+адрес; немедленное обращение при быстрой прибавке веса с отёками, головной болью, нарушениями
+зрения или давлением от 140/90 пересказано по Теме 1, раздел 1.1.
