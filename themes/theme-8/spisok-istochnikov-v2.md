@@ -314,6 +314,31 @@ theme: 8
 | 78 | Dunning 2010 | doi.org/10.1007/s10995-009-0511-0 | 8.16 | нет (PubMed 19672702) |
 | 79 | SOGC, Jain 2015 | doi.org/10.1016/S1701-2163(15)30232-2 | 8.16 | нет (PubMed 26334607) |
 | 80 | КР «Резус-изоиммунизация…», 2024 | base.garant.ru/409626441/ | 8.16 | да |
+| 81 | ACOG Committee Opinion № 711, Opioid Use and Opioid Use Disorder in Pregnancy, Obstet Gynecol 2017;130(2):e81–e94, DOI 10.1097/AOG.0000000000002235, PMID 28742676 | doi.org/10.1097/AOG.0000000000002235; копия: Www.Ncsbn.org/public-files/2017_ACOG_Committee_Opinion.pdf | 8.5, 8.6 | частично (копия на ncsbn.org; acog.org закрыт) |
+| 82 | Минздрав России, приказ от 12.01.2026 № 10н (Порядок диспансерного наблюдения за лицами с расстройствами, связанными с употреблением психоактивных веществ), Минюст 12.02.2026 № 85302 | rulaws.ru/acts/Prikaz-Minzdrava-Rossii-ot-12.01.2026-N-10n/ | 8.6 | да (перепечатка) |
+| 83 | Минздрав РФ, приказ от 23.08.1999 № 327 «Об анонимном лечении в наркологических учреждениях (подразделениях)», Минюст № 1901 | base.garant.ru/12116904; приложение — base.garant.ru/12116904/53f89421bbdaf741eb2d1ecc4ddb4c33/ | 8.6 | да (статус действия не показан) |
+| 84 | Минздрав России, приказ от 15.04.2026 № 286н (Порядок выдачи справок и медицинских заключений), Минюст 28.05.2026 № 86684 | rulaws.ru/acts/Prikaz-Minzdrava-Rossii-ot-15.04.2026-N-286n/ | 8.10 | да (перепечатка, без приложений) |
+| 85 | MedlinePlus Medical Encyclopedia. Alcohol withdrawal, просмотр 01.01.2025 | medlineplus.gov/ency/article/000764.htm | 8.6 | да |
+| 86 | Health Canada. Make your Home Smoke-free in a Multi-Unit Residence, 30.12.2015 | canada.ca/en/health-canada/services/publications/healthy-living/make-your-home-smoke-free-multi-unit-residence.html | 8.3 | да |
+| 87 | Mass.gov. Smoke-free housing (дата страницы не указана) | mass.gov/info-details/smoke-free-housing | 8.3 | да |
+| 88 | Council Directive 92/85/EEC, Annex II, Section A, point 1(b) (биологические агенты) | legislation.gov.uk/eudr/1992/85/annex/II/division/A/2020-01-31?view=plain | 8.11 | да |
+| 89 | CDC. Rubella, Infection Control (персонал здравоохранения), 05.04.2024 | cdc.gov/infection-control/hcp/healthcare-personnel-epidemiology-control/rubella.html | 8.11 | частично (раздел о беременном персонале на отдельной странице) |
+| 90 | Norfolk and Norwich University Hospitals NHS FT. Physiotherapy Advice in Pregnancy, версия 12 | nnuh.nhs.uk/publication/download/physiotherapy-advice-in-pregnancy-v12 | 8.12 | да |
+| 91 | NCT. Подъём и ношение ребёнка при беременности, просмотр май 2019 | nct.org.uk/node/157601 | 8.12 | да |
+| 92 | HSE (Великобритания). Manual handling at work: Good handling technique, 02.04.2025 | hse.gov.uk/MSD/manual-handling/good-handling-technique.htm | 8.12 | да |
+| 93 | Waters T. R., MacDonald L. A., Hudock S. D., Goddard D. E. Provisional recommended weight limits for manual lifting during pregnancy. Hum Factors 2014;56(1):203–214, DOI 10.1177/0018720813502223, PMID 24669554, PMC4606868 | stacks.cdc.gov/view/cdc/34977 (PDF: …/cdc_34977_DS1.pdf) | 8.12 | да (рукопись, табл. 5) |
+| 94 | Johnson E. E. et al. The effects of radiofrequency exposure on adverse female reproductive outcomes: a systematic review … with dose-response meta-analysis. Environ Int 2024;190:108816, DOI 10.1016/j.envint.2024.108816, PMID 38880062 | doi.org/10.1016/j.envint.2024.108816 | 8.11 | нет (реферат в PubMed) |
+| 95 | MotherToBaby. Perchloroethylene (PCE, PERC), 01.05.2026 | mothertobaby.org/fact-sheets/pce/ | 8.11 | да |
+| 96 | Bumps (medicinesinpregnancy.org). Saunas/hot tubs, версия 1.0, май 2016 | medicinesinpregnancy.org/leaflets-a-z/saunashot-tubs/ | 8.9 | да |
+| 97 | South Eastern Sydney LHD. Hyperthermia during pregnancy (листок для пациенток) | seslhd.health.nsw.gov.au/sites/default/files/migration/RHW/Patient_Leaflets/Antenatal/Hyperthermia%20during%20pregnancy.pdf | 8.9 | да |
+| 98 | Минздрав России, приказ от 13.11.2025 № 666н (Порядок оказания медицинской помощи по профилю «психиатрия-наркология») | обзоры: ppt.ru/obzory/vstupaet-v-silu/prikaz-minzdrava-rossii-13-11-2025-666n-…; consultant.ru/legalnews/30513/; текст — remedium.ru/legislation/law/Prikaz-Minzdrava-Rossii-ot-13-11-2025-666n/ | 8.6 | нет (текст не получен; запись 32 в `sources/skachat-vruchnuyu.md`) |
+
+Записи 81–98 добавлены 09.10.2026 при поиске источников под пометки `[ПРОВЕРИТЬ]` (отчёт `editorial/reports/istochniki-2026-10-09-tema-8-proverit.md`). В читательский список они не вставлены: текст главы не менялся, ни одно утверждение главы пока на них не стоит. Дополнения к уже существующим записям:
+
+- 22 (ACOG CC № 10): полный текст прочитан в копии на сайте колледжа (methodistcollege.edu/hubfs/Cannabis%20Use%20During%20Pregnancy%20and%20Lactation.pdf%20(SECURED).pdf, уровень 4). Названы: низкий вес при рождении, малый для срока вес (SGA), поступление в реанимацию, перинатальная смертность, возможный риск нарушений нейропознавательного развития и поведения; «задержки роста плода» и мертворождения в документе нет; врачам рекомендовано советовать отказ при беременности и лактации, продолжение употребления не противопоказание к грудному вскармливанию. Оговорку записи 22 («остальные исходы вошли через пересказ») можно будет заменить после проверки записи 36 в `sources/skachat-vruchnuyu.md`.
+- 28 (StatPearls, Alcohol Withdrawal Syndrome): страница открыта 09.10.2026; слов «vomiting» и «nausea» в ней нет; «gastrointestinal discomfort» названа среди ранних проявлений.
+- 65 (MacDonald 2013): статья в PMC4552317 открыта; числа 36, 26 и 10 фунтов даны на рисунке 2 (изображение), в тексте их нет; значения найдены в таблице 5 парной статьи Waters 2014 (запись 93). Адрес PMC4606868, стоявший в прежнем списке, относится к Waters 2014, а не к MacDonald 2013.
+- 43 (Moretti 2005): условие «не меньше 15 минут» в реферате нет; полный текст не получен (запись 37).
 
 ---
 
@@ -481,3 +506,4 @@ theme: 8
 
 - 09.10.2026: сверены с открытыми страницами или PubMed все 80 записей; полный текст не открывался для записей 6, 8 (текст), 10, 19, 22, 28, 32, 38, 43, 44, 49, 56, 57, 60, 65, 66, 78, 79. Эти записи отмечены оговоркой; недостающее передано в `sources/skachat-vruchnuyu.md`, записи 24–31.
 - Не делалось: поиск новых редакций КР и нормативов; сверка уровней доказательности внутри международных руководств; текст главы не правился.
+- 09.10.2026 (вторая порция): по 13 пометкам `[ПРОВЕРИТЬ]` найдены и прочитаны источники; каталог дополнен записями 81–98; читательский список и текст главы не менялись. Передано пользователю: записи 32–37 в `sources/skachat-vruchnuyu.md`.
