@@ -9,8 +9,9 @@
 
 - `CURRENT CHECKPOINT`: разведка темы (до Checkpoint 0)
 - Последний утверждённый Checkpoint: нет
-- Отчёт разведки: `editorial/reports/razvedka-tema-10-2026-10-09.md` (готовит
-  источниковед)
+- Отчёт разведки: `editorial/reports/razvedka-tema-10-2026-10-09.md` — **готов**
+  (09.10.2026; карта читательских вопросов не выполнена, документы к скачиванию —
+  записи 39–57 в `sources/skachat-vruchnuyu.md`)
 - Evidence ledger: не создан (заводится после Checkpoint 0 по
   `editorial/templates/evidence-ledger-template.md`)
 - Рабочий файл: нет
