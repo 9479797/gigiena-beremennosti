@@ -497,3 +497,18 @@
 | Реквизиты | F42, ID 650_2, 2025, пересмотр не позднее 2027, Российское общество психиатров, взрослые |
 | Беременность | Не упомянута; послеродовой период — раздел 1.2; навязчивости о причинении вреда («контрастные навязчивости») — раздел 1.6 |
 | Темы | 10 (10.4) |
+
+## Документы, присланные пользователем 14.10.2026 (Тема 10)
+
+| Файл | Документ | Примечание |
+|---|---|---|
+| `russian-guidelines/prikaz-747n-2025-akusherstvo-ginekologiya.pdf` (+ `.ocr.txt`) | Приказ Минздрава России от 19.12.2025 № 747н, Порядок по профилю «акушерство и гинекология» | скан; заменил № 1130н (кроме прил. 7–9); распознан tesseract |
+| `russian-guidelines/prikaz-668n-2022-psihicheskie-rasstrojstva.pdf` (+ `.ocr.txt`) | Приказ Минздрава России от 14.10.2022 № 668н, Порядок при психических расстройствах | скан; в силе с 01.07.2023; распознан tesseract |
+| `russian-guidelines/rody-kesarevo-sechenie-2024.pdf` | КР «Роды одноплодные, родоразрешение путём кесарева сечения», 2024, ID 639 | пересмотр 2026 |
+| `russian-guidelines/prikaz-541n-2010-eks-zdravoohranenie.rtf` (+ `.txt`) | Приказ Минздравсоцразвития России от 23.07.2010 № 541н, ЕКС, здравоохранение | «Медицинский психолог» |
+| `who-international/nice-cg192-2014-updated-2020.pdf` | NICE CG192, обновление 11.02.2020 | полный текст |
+| `who-international/cope-australia-perinatal-mental-health-2023.pdf` | COPE, Australian Clinical Practice Guideline, 2023 | |
+| `who-international/who-ipv-sv-guidelines-2013.pdf` | WHO, Responding to IPV and sexual violence against women, 2013 | |
+| `who-international/who-doing-what-matters-2020-ru.pdf` | ВОЗ, «Важные навыки в периоды стресса», рус. изд. | |
+
+Не помещён в `sources/`: «Порядок организации помощи по медицинской психологии» (.doc от пользователя) — проект приказа без даты и номера, нормативной силы не имеет.
