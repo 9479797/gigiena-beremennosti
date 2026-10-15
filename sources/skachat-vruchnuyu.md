@@ -636,9 +636,10 @@
 - Зачем: границы нормы для 11.3 и 11.6; сведение порога 120/80 (КР НБ, Прил. В) и 140/90 (Темы 1 и 7).
 - Статус: ждёт
 
-### 72. RCOG Green-top Guideline No. 57 «Reduced Fetal Movements», 2011 — Тема 11, 11.2
-- Ссылка: https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/reduced-fetal-movements-green-top-guideline-no-57/ (адрес по каноническому пути, не открывался).
-- Что сделать: открыть страницу, проверить, действует ли редакция 2011 года или заменена; бесплатный PDF положить в `sources/who-international/`.
+### 72. RCOG Green-top Guideline No. 57 «Reduced Fetal Movements», 2-е изд., 2026 — Тема 11, 11.2
+- Документ: Whitworth M., Fisher M., Heazell A. et al. BJOG 2026;133(8):e70–e92, DOI 10.1111/1471-0528.70198, PMID 42046127 (реферата в PubMed нет, в PMC нет). Редакция 2011 года заменена.
+- Ссылка: страница RCOG https://www.rcog.org.uk/guidance/browse-all-guidance/green-top-guidelines/reduced-fetal-movements-green-top-guideline-no-57/ (открыта 15.10.2026, рекомендаций на ней нет); текст — https://obgyn.onlinelibrary.wiley.com/doi/10.1111/1471-0528.70198 (Wiley закрыт для машинной проверки).
+- Что сделать: открыть в браузере; если доступ открытый — скачать PDF в `sources/who-international/`; если платный — закрыть запись (по решению 14.10.2026 платное не покупается).
 - Что проверить при открытии: дата редакции и статус; разделы о сроках первых шевелений, о подсчёте, о том, что делать женщине.
 - Зачем: узлы 2–4 основы (сроки, индивидуальный рисунок, что делать и чего не делать).
 - Статус: ждёт
