@@ -708,6 +708,8 @@ As appropriate:
 Cross-links:
 Section 0 and all symptom-specific Themes.
 
+Decisions (user, 15.10.2026): Theme 11 is the primary home for the urgency ladder (§7–8 merged into section 11.7) and for describing a symptom (section 11.8); Section 0 repeats only the emergency level and red flags; Appendices 3–4 become short references. Section 6 is a table «change → urgency level → where in the book». Record: `themes/theme-11/checkpoint-0.md`.
+
 ---
 
 # 7. REFERENCE & NAVIGATION LAYER
@@ -739,6 +741,8 @@ Examples:
 
 ## APPENDIX 3 — Как определить срочность обращения
 
+> Решение пользователя 15.10.2026: основное место — Тема 11, раздел 11.7 (лестница следующего шага). Приложение — короткая справочная страница со ссылкой на Тему 11.
+
 Four-level model:
 1. routine discussion;
 2. earlier clinician contact;
@@ -748,6 +752,8 @@ Four-level model:
 Exact criteria must be evidence-verified.
 
 ## APPENDIX 4 — Как подготовиться к приёму или обращению за помощью
+
+> Решение пользователя 15.10.2026: основное место для «обращения за помощью» — Тема 11, раздел 11.8 (как описать симптом). Приложение — короткая справочная страница со ссылкой на Тему 11.
 
 Routine visit:
 - changes since last visit;
