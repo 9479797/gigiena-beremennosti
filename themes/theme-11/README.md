@@ -6,17 +6,16 @@
 
 **Начата 15.10.2026 (`START THEME 11`).** Разведка выполнена, Checkpoint 0 выполнен.
 
-- `CURRENT CHECKPOINT`: Checkpoint 5 выполнен (15.10.2026) — `CONTENT READY WITH FLAGS`, `SOURCES DRAFT`; GATE: решение пользователя по `source-needed.md`, затем пакет врачу
+- `CURRENT CHECKPOINT`: Checkpoint 5 выполнен (15.10.2026) — `CONTENT READY WITH FLAGS`, `SOURCES DRAFT`; пакет врачу собран 15.10.2026 — hold `MEDICAL REVIEW PENDING` (`themes/theme-11/human-review.md`, секция 2)
 - Отчёт Checkpoint 5: `themes/theme-11/checkpoint-5.md`; SOURCE NEEDED — `themes/theme-11/source-needed.md`; вопросы врачу — `editorial/DISPUTED-CLAIMS.md`, строки 48–54
 - Последний утверждённый Checkpoint: Checkpoint 4 (15.10.2026, «продолжай работу»); отчёт — `themes/theme-11/checkpoint-4.md`
 - Отчёт Checkpoint 2 и 3: `editorial/reports/cp2-tema-11-2026-10-15.md`
 - Основа: `themes/theme-11/checkpoint-0.md` (13 узлов, 7 `ГЛУБОКО`; разделы главы 11.1–11.8)
 - Отчёт разведки: `editorial/reports/razvedka-tema-11-2026-10-15.md` (15.10.2026; документы к
   скачиванию — записи 71–76 в `sources/skachat-vruchnuyu.md`)
-- Evidence ledger: `themes/theme-11/evidence-ledger.md` — инициализирован 15.10.2026, строк нет
+- Evidence ledger: `themes/theme-11/evidence-ledger.md` — 46 строк
 - Рабочий файл: `themes/theme-11/draft-cp1.md` (≈5 500 слов), для чтения — `themes/theme-11/theme 11 draft.docx`
-  (пометки выделены жёлтым). Пометки: `[ИСТОЧНИК]` — 23, `[ПРОВЕРИТЬ]` — 10; рабочие ссылки `[ист.: …]` — 51,
-  снимаются на Checkpoint 5. Строки evidence ledger заводятся на Checkpoint 2 вместе со сверкой (как в Теме 10).
+  (пометки выделены жёлтым). После Checkpoint 5: `[ИСТОЧНИК]` — 0, рабочих ссылок — 0, `[ПРОВЕРИТЬ]` — 14 (строки 48–54 `DISPUTED-CLAIMS.md`).
 - Тест читательских вопросов (text-architecture §10) пройден при написании: добавлены «куда ехать
   ночью и в поездке», «что взять с собой», «какие вопросы задать на приёме по дневнику»; открытым
   остался выбор тонометра (запись 76).
@@ -108,4 +107,6 @@
 
 ## Следующий допустимый шаг
 
-Пользователь решает по `source-needed.md` (по умолчанию — оставить для врача) → пакет врачу-рецензенту: `theme 11 draft.docx` и строки 48–54 `DISPUTED-CLAIMS.md` → hold `MEDICAL REVIEW PENDING`.
+15.10.2026: решение по `source-needed.md` — всё оставить для врача (см. `human-review.md`). `theme 11 draft.docx` пересобран со списком из 19 источников. Пакет врачу (отправляет пользователь): `theme 11 draft.docx`, `evidence-ledger.md`, `source-needed.md`, `editorial/DISPUTED-CLAIMS.md`, строки 48–54. В строки 48 и 54 добавлено сравнение с программой дистанционного наблюдения в Оренбурге (реестр ссылок S-002) — контекст для врача, не опора текста.
+
+Hold `MEDICAL REVIEW PENDING` → ответ врача дословно в `human-review.md` → встраивание → сверка источников после врача (`SOURCES FINAL`) → сверщику: пороги давления и температуры между Темами 1, 7, 9, 11 → обязательный USER STOP перед финальной редактурой.
