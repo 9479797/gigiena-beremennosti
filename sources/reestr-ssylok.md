@@ -84,6 +84,9 @@
 | R-049 | КР «Кариес зубов» (взрослые), 2025, ID 1021_1 | действует (пересмотр не позднее 2027) | https://cr.minzdrav.gov.ru — ID 1021 | https://pravo.ppt.ru/klinicheskie-rekomendatsii/324363 | частично | Google Диск («Кариес зубов»). Файл «Клинические_рекомендации_Кариес_зубов» (2 с.) — НЕ текст КР, не использовать | 6 | 15.10.2026 | — |
 | R-050 | КР «Острые респираторные вирусные инфекции (ОРВИ) у взрослых», 2025, ID 724_2 | действует (пересмотр не позднее 2027) | https://cr.minzdrav.gov.ru — ID 724 | https://pravo.ppt.ru/klinicheskie-rekomendatsii/316824 | частично | Google Диск — страница рубрикатора | 7, 9 | 15.10.2026 | — |
 | R-051 | КР «Токсическое действие окиси углерода. Токсическое действие других газов, дымов и паров», 2024 | действует (пересмотр каждые 3 года) | https://cr.minzdrav.gov.ru | — | не проверялся | Google Диск (3 копии) | 8 | 15.10.2026 | ID на титуле не указан |
+| R-052 | КР «Кариес зубов», ID КР282, 2014 (взрослые, дети), СтАР | заменена КР 1021_1 (2025) | https://cr.minzdrav.gov.ru | https://medi.ru | открыт | Google Диск («Клинические рекомендации Кариес зубов 2014»); о беременных молчит; «использование фторсодержащих зубных паст» | 6 | 16.10.2026 | — |
+| R-053 | Клинические рекомендации (протоколы лечения) при диагнозе «Кариес зубов», СтАР, утв. 30.09.2014 (постановление Совета № 15), актуализ. 02.08.2018 | заменены КР 1021_1 | — | — | открыт | Google Диск; Приложение 2 (с. 60–61) — подбор щётки по стоматологическому статусу («мягкая или средней жесткости»; при обострении заболеваний пародонта — мягкая); о беременных молчит | 6 | 16.10.2026 | — |
+| R-054 | КР «Кариес зубов» у детей (ID 1015_1?) | не установлен | https://cr.minzdrav.gov.ru | — | — | Google Диск («Клинические рекомендаци для детей с кариесом», 21 МБ, скан без текста — не прочитан) | вне границ (дети); при надобности — Тема 6 | 16.10.2026 | текстовая версия |
 
 
 ### А2. Лежат на Google Диске, вне границ книги
@@ -131,8 +134,9 @@
 | N-009 | Приказ Минздрава России от 12.01.2026 № 10н (диспансерное наблюдение, ПАВ) | в силе 01.09.2026–01.09.2032 | http://publication.pravo.gov.ru | https://rulaws.ru/acts/Prikaz-Minzdrava-Rossii-ot-12.01.2026-N-10n/ | частично | Google Диск (официальный текст, скан) | 8 | 15.10.2026 | — |
 | N-010 | Приказ Минздрава России от 15.04.2026 № 286н (справки и медицинские заключения) | в силе 01.09.2026–01.09.2032 | http://publication.pravo.gov.ru/document/0001202605290025 | https://rulaws.ru/acts/Prikaz-Minzdrava-Rossii-ot-15.04.2026-N-286n/ | частично | Google Диск (официальный текст, скан) | 8 | 15.10.2026 | — |
 | N-011 | Приказ Минздрава РФ от 23.08.1999 № 327 (анонимное лечение в наркологии) | действует (подтверждение пользователя 16.10.2026) | http://publication.pravo.gov.ru | https://base.garant.ru/12116904 | частично | Google Диск (выгрузка Гаранта .odt) | 8 | 16.10.2026 | — |
-| N-012 | Приказ Минздрава России от 23.11.2021 № 1089н (листки нетрудоспособности) | действует; изменён приказом от 10.11.2025 № 657н (только п. 1) | http://publication.pravo.gov.ru | https://legalacts.ru/doc/prikaz-minzdrava-rossii-ot-23112021-n-1089n-ob-utverzhdenii/ | закрыт | Google Диск — скан без текста, не прочитан; сроки 140/194 дня — sfr.gov.ru (07.10.2026) | 8 | 16.10.2026 | текст п. 57 (по желанию) |
+| N-012 | Приказ Минздрава России от 23.11.2021 № 1089н (листки нетрудоспособности), п. 57 | действует, ред. от 31.03.2026 | http://publication.pravo.gov.ru | https://legalacts.ru/doc/prikaz-minzdrava-rossii-ot-23112021-n-1089n-ob-utverzhdenii/ | закрыт | Google Диск («Приказ Минздрава России от 23.11.2021 N 1089н», выгрузка legalacts 16.10.2026, текст п. 57 сверен); прежний скан без текста — не нужен | 8 | 16.10.2026 | — |
 | N-013 | Социальный фонд России, отделение по Волгоградской области: новость о пособии по беременности и родам, 07.10.2026 | — | https://sfr.gov.ru/branches/volgograd/news/~2026/10/07/285366 | https://sfr.gov.ru/branches/penza/news/~2026/02/20/278993 | открыт | — | 8 | 16.10.2026 | — |
+| N-014 | НРБ-99/2009, СанПиН 2.6.1.2523-09 (постановление Главного государственного санитарного врача РФ от 07.07.2009 № 47), п. 5.4.3 | действует (по Чибисовой и соавт. 2026; в файле статус не указан) | http://publication.pravo.gov.ru | https://www.consultant.ru | закрыт | Google Диск («СанПиН 2.6.1.2523-09»); п. 5.4.3 — информирование беременной о пользе и риске для плода | 6 | 16.10.2026 | — |
 
 ## В. Международные руководства и официальные материалы
 
@@ -169,6 +173,8 @@
 | I-029 | НМИЦ им. В.А. Алмазова. Экстренные службы психологической поддержки (перечень), 12.2025 | — | https://education.almazovcentre.ru/wp-content/uploads/2025/12/ekstrennye-sluzhby-psihologicheskoj-podderzhki.pdf | — | открыт | — | 10 | 16.10.2026 | операторы линий не названы |
 | I-030 | UKTIS. Use of loratadine in pregnancy (монография), Version 4, March 2026 — раздел Summary | — | https://uktis.org/monographs/use-of-loratadine-in-pregnancy/ | — | открыт (цитаты частями) | — | 7 | 16.10.2026 | — |
 | I-031 | ACOG Committee Opinion No. 554: Reproductive and sexual coercion. Obstet Gynecol 2013;121(2 Pt 1):411–415; PMID 23344307 | не установлен (Reaffirmed?) | https://doi.org/10.1097/01.AOG.0000426427.79586.3b | PubMed 23344307 | реферат; PDF закрыт | — | 10 | 16.10.2026 | статус |
+| I-032 | ACOG FAQ018 «Car Safety for Pregnant Women, Babies, and Children», опубл. 03.2019, пересм. 11.2021 | действует | https://www.acog.org/womens-health (раздел FAQs, FAQ018) | — | закрыт (402) | Google Диск (текстовый PDF; второй файл — изображение) | 8 | 16.10.2026 | — |
+| I-033 | NHTSA. The top 5 things you should know about buckling up (листовка) | — | https://www.nhtsa.gov | — | — | Google Диск; общий материал о ремнях, о беременных не отдельно | 8 (контекст) | 16.10.2026 | — |
 
 ## Г. Пациентские материалы (только навигация и вопросы читательниц; утверждения — с оговоркой о применимости к РФ)
 
@@ -180,6 +186,7 @@
 | P-004 | NHS, Vomiting and morning sickness | проверена 17.04.2024 | https://www.nhs.uk/pregnancy/common-symptoms/vomiting-and-morning-sickness/ | там же | открыт | онлайн | 11 | 15.10.2026 | — |
 | P-005 | South West Maternal Medicine Network (NHS England), Breathlessness in Pregnancy | дата не указана (адрес 2024/05) | https://southwestmaternalmedicinenetwork.nhs.uk/wp-content/uploads/2024/05/Breathlessness-in-Pregnancy.pdf | там же | частично | Google Диск | (11 — не используется в тексте) | 15.10.2026 | — |
 | P-006 | UKTIS / Bumps, Loratadine (листок для пациенток), май 2025, v4.0 | действует | https://www.medicinesinpregnancy.org/ | — | открыт | Google Диск | 7 (только навигация) | 15.10.2026 | нужна монография UKTIS, раздел Summary |
+| P-007 | MotherToBaby (OTIS). Loratadine (Claritin®), fact sheet, 01.02.2026 | действует | https://mothertobaby.org/fact-sheets/loratadine-pregnancy/ | https://mothertobaby.org/fact-sheet-reference/loratadine-claritin/ | — | Google Диск | 7 | 16.10.2026 | — |
 
 ## Д. Научные статьи
 
@@ -202,6 +209,9 @@
 | S-015 | Athan A.M. A critical need for the concept of matrescence in perinatal psychiatry. Frontiers in Psychiatry 2024;15:1364845 | — | https://doi.org/10.3389/fpsyt.2024.1364845 | — | не проверялся (по ссылке у Parimi) | — | 10 (DISPUTED 55) | 16.10.2026 | открыть |
 | S-016 | Ravanelli N., Casasola W., English T., Edwards K.M., Jay O. Heat stress and fetal risk. Environmental limits for exercise and passive heat stress during pregnancy: a systematic review with best evidence synthesis. Br J Sports Med 2019;53(13):799–805; PMID 29496695 | — | https://doi.org/10.1136/bjsports-2017-097914 | PubMed 29496695 | реферат | — | 5 (5.5), 8 (8.9) — кандидат | 16.10.2026 | полный текст |
 | S-017 | Moretti M.E., Bar-Oz B., Fried S., Koren G. Maternal hyperthermia and the risk for neural tube defects in offspring. Epidemiology 2005;16(2):216–219; PMID 15703536 | — | https://doi.org/10.1097/01.ede.0000152903.55579.15 | PubMed 15703536 | реферат | — | 8 | 16.10.2026 | — |
+| S-019 | Au K.S., Ashley-Koch A., Northrup H. Epidemiologic and genetic aspects of spina bifida and other neural tube defects. Dev Disabil Res Rev 2010;16(1):6–15 | — | https://doi.org/10.1002/ddrr.93 | PMC (author manuscript) | — | Google Диск; пересказывает Moretti 2005 (ОШ 1,92) — вторичная опора | 8 (контекст) | 16.10.2026 | — |
+| S-020 | Nicoletti D., Appel L.D., Siedersberger Neto P., Guimarães G.W., Zhang L. Maternal smoking during pregnancy and birth defects in children: a systematic review with meta-analysis. Cad Saúde Pública 2014 | — | https://doi.org/10.1590/0102-311X00115813 | — | — | Google Диск; утверждений Темы 8 на нём нет | 8 (контекст) | 16.10.2026 | — |
+| S-021 | Lo A., Polšek D., Sidhu S. Estimating the burden of neural tube defects in low– and middle–income countries. J Glob Health 2014 | — | — | — | — | Google Диск; для книги не нужна | — | 16.10.2026 | — |
 
 
 ## Е. Инструкции лекарственных препаратов
