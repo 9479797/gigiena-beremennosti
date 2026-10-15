@@ -331,3 +331,5 @@ Checkpoint 2 (сверка источниковедом): 09.10.2026. Запол
 | 152 | SOURCE NEEDED | VERIFIED | строка 163 |
 | 153 | SOURCE NEEDED | вне реестра | контакты врезки — навигация; перепроверка перед печатью |
 | 38, 122, 130 | SOURCE NEEDED | смягчено до «может» | 12.10.2026; см. `source-needed.md` |
+| 10.6, «Матресценция» (16.10.2026) | SOURCE NEEDED ч.1 | QUALIFIED | Parimi, Marshall, Prata, WHI 2025 (полный текст, Google Диск): «The term “matrescence” was originally coined by medical anthropologist Dana Raphael in 1975»; «Likening matrescence to the developmental push of adolescence»; вопрос врачу — DISPUTED 55 |
+| Врезка, 8-800-100-49-94 (16.10.2026) | SOURCE NEEDED | вне реестра | перечень НМИЦ им. Алмазова, 12.2025: «по России», круглосуточно; оператор не назван — перепроверка перед печатью |
