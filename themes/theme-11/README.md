@@ -6,8 +6,9 @@
 
 **Начата 15.10.2026 (`START THEME 11`).** Разведка выполнена, Checkpoint 0 выполнен.
 
-- `CURRENT CHECKPOINT`: Checkpoint 4 выполнен (15.10.2026) — GATE: приёмка пользователем, затем Checkpoint 5 (заморозка содержания и список источников)
-- Последний утверждённый Checkpoint: Checkpoint 3 (15.10.2026); отчёт Checkpoint 4 — `themes/theme-11/checkpoint-4.md`
+- `CURRENT CHECKPOINT`: Checkpoint 5 выполнен (15.10.2026) — `CONTENT READY WITH FLAGS`, `SOURCES DRAFT`; GATE: решение пользователя по `source-needed.md`, затем пакет врачу
+- Отчёт Checkpoint 5: `themes/theme-11/checkpoint-5.md`; SOURCE NEEDED — `themes/theme-11/source-needed.md`; вопросы врачу — `editorial/DISPUTED-CLAIMS.md`, строки 48–54
+- Последний утверждённый Checkpoint: Checkpoint 4 (15.10.2026, «продолжай работу»); отчёт — `themes/theme-11/checkpoint-4.md`
 - Отчёт Checkpoint 2 и 3: `editorial/reports/cp2-tema-11-2026-10-15.md`
 - Основа: `themes/theme-11/checkpoint-0.md` (13 узлов, 7 `ГЛУБОКО`; разделы главы 11.1–11.8)
 - Отчёт разведки: `editorial/reports/razvedka-tema-11-2026-10-15.md` (15.10.2026; документы к
@@ -106,4 +107,4 @@
 
 ## Следующий допустимый шаг
 
-Пользователь принимает текст после Checkpoint 4 → Checkpoint 5: заморозка содержания, список источников по стандарту v2.0, список SOURCE NEEDED; затем пакет врачу (строки 48–54 реестра).
+Пользователь решает по `source-needed.md` (по умолчанию — оставить для врача) → пакет врачу-рецензенту: `theme 11 draft.docx` и строки 48–54 `DISPUTED-CLAIMS.md` → hold `MEDICAL REVIEW PENDING`.
