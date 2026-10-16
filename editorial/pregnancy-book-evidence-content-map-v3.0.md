@@ -218,6 +218,8 @@ Coverage:
 Boundary:
 Do not create an oversized universal testing calendar unless separately approved.
 
+Decisions (user, 16.10.2026, `themes/orientation/checkpoint-0.md`): Orientation is the primary home for items 3, 5, 6 (Appendix 6 becomes a short reference page with links); items 7–8 are short with links to Theme 11 (11.5) and Appendices 4–5; a three-row screening table is approved (no full testing calendar); added: where to be monitored and choice of doctor (item 1), right to refuse an examination (item 5), ultrasound safety (item 4).
+
 ---
 
 # PART I — ПОВСЕДНЕВНАЯ ЖИЗНЬ
