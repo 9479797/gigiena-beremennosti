@@ -6,7 +6,7 @@
 
 **Начата 15.10.2026 (`START THEME 11`).** Разведка выполнена, Checkpoint 0 выполнен.
 
-- `CURRENT CHECKPOINT`: Checkpoint 5 повторно (16.10.2026) — правка по промту шеф-редактора до отправки врачу (`checkpoint-5.md`, раздел 5); пакет 15.10.2026 врачу не отправлялся; повторный проход выполнен, пометки редактора разобраны (`checkpoint-5.md`, раздел 5); `theme 11 draft.docx` пересобран 16.10.2026: `[ПРОВЕРИТЬ]` — 21, `[ОТ РЕДАКТОРА]` — 0, список источников — 20, evidence-ledger — 50 строк, вопросы врачу — DISPUTED-CLAIMS 48–54, 56 (+47 Темы 10); следующий шаг — отправка пакета врачу (пользователь)
+- `CURRENT CHECKPOINT`: Checkpoint 5 повторно (16.10.2026) — правка по промту шеф-редактора до отправки врачу (`checkpoint-5.md`, раздел 5); пакет 15.10.2026 врачу не отправлялся; повторный проход выполнен, пометки редактора разобраны (`checkpoint-5.md`, раздел 5); `theme 11 draft.docx` пересобран 16.10.2026: `[ПРОВЕРИТЬ]` — 21, `[ОТ РЕДАКТОРА]` — 0, список источников — 20, evidence-ledger — 50 строк, вопросы врачу — DISPUTED-CLAIMS 48–54, 56 (+47 Темы 10); пакет передан врачу пользователем 16.10.2026 — hold `MEDICAL REVIEW PENDING` (`human-review.md`, секция 2)
 - Отчёт Checkpoint 5: `themes/theme-11/checkpoint-5.md`; SOURCE NEEDED — `themes/theme-11/source-needed.md`; вопросы врачу — `editorial/DISPUTED-CLAIMS.md`, строки 48–54
 - Последний утверждённый Checkpoint: Checkpoint 4 (15.10.2026, «продолжай работу»); отчёт — `themes/theme-11/checkpoint-4.md`
 - Отчёт Checkpoint 2 и 3: `editorial/reports/cp2-tema-11-2026-10-15.md`
