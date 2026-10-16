@@ -6,7 +6,7 @@
 
 **Начата 09.10.2026 (`START THEME 10`).** Checkpoint 2 выполнен: реестр доказательств и правка текста по источникам.
 
-- `CURRENT CHECKPOINT`: Checkpoint 5 выполнен (14.10.2026) — `CONTENT READY WITH FLAGS`, `SOURCES DRAFT`; GATE: решение пользователя по `source-needed.md`, затем пакет врачу
+- `CURRENT CHECKPOINT`: Checkpoint 5 выполнен (14.10.2026) — `CONTENT READY WITH FLAGS`, `SOURCES DRAFT`; пакет врачу отправлен пользователем (сообщение 16.10.2026) — hold `MEDICAL REVIEW PENDING` (`themes/theme-10/human-review.md`, секция 2). Правка 16.10.2026 (матресценция, телефон доверия, DISPUTED 55) в отправленную версию не входила — дослать врачу пересобранный `theme 10 draft.docx` или этот фрагмент
 - Последний утверждённый Checkpoint: Checkpoint 1 (09.10.2026) — черновик принят; Checkpoint 0 — основа,
   `themes/theme-10/checkpoint-0.md` (14 узлов, 8 `ГЛУБОКО`)
 - Отчёт разведки: `editorial/reports/razvedka-tema-10-2026-10-09.md` — **готов**
