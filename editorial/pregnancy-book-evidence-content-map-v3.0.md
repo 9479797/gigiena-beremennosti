@@ -160,6 +160,8 @@ Coverage:
 6. Как читать рекомендации, ограничения и медицинские цифры.
 7. Чем эта книга не является.
 
+Decisions (user, 16–17.10.2026): audience — pregnant women and those planning pregnancy; a block «Если книгу читает близкий человек» lists sections by role; the line on 10.13 names no role (threat may come from relatives too). Item 6 covers only how the book itself marks sources, caveats and numbers (general medical literacy — Appendix 6 and Orientation). Not included: source-date line (deferred to source check before doctor review), «what to read first», «if your doctor advises otherwise». Record: `themes/introduction/checkpoint-0.md`.
+
 ---
 
 # SECTION 0 — БЫСТРАЯ ПОМОЩЬ: КОГДА НЕЛЬЗЯ ЖДАТЬ
