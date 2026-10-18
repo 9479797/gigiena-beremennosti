@@ -22,3 +22,5 @@
 
 - `draft.md` — текст; `appendices draft.docx` — для чтения.
 - `voprosy-polzovatelyu.md` — вопросы и запросы для поиска.
+
+HTML: навигаторы и обратные ссылки — `editorial/html-navigaciya.md` (решение пользователя 18.10.2026).
