@@ -754,6 +754,8 @@ Examples:
 
 > Решение пользователя 15.10.2026: основное место — Тема 11, раздел 11.7 (лестница следующего шага). Приложение — короткая справочная страница со ссылкой на Тему 11.
 
+Decision (user, 18.10.2026): four levels everywhere (Theme 11.6–11.7, Introduction, Appendix 3); «продолжить наблюдение» is not a level but a lead-in sentence.
+
 Four-level model:
 1. routine discussion;
 2. earlier clinician contact;
