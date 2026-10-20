@@ -290,9 +290,7 @@ pH и маркировка
 
 Если холестаз подтверждён, врач может назначить лекарство — урсодезоксихолевую кислоту. По российским рекомендациям она уменьшает зуд и улучшает анализы, но исходы беременности не улучшает, поэтому наблюдение и анализы продолжаются и на лечении. Клинические рекомендации РФ, 2024 — Внутрипечёночный холестаз при беременности
 
-`[ПРОВЕРИТЬ] интервал повторного анализа (каждые одну-две недели) — по Tommy's (страница проверена 23.10.2024) со ссылкой на RCOG Green-top Guideline No. 43 (2022): «If you are still itching and a cause hasn't been found, the blood tests should be repeated every 1–2 weeks». Первичный документ RCOG недоступен для машинной проверки (20.10.2026). КР РФ 2024 этот случай (зуд при нормальном анализе) не разбирают: они задают повтор через неделю после начала лечения и затем индивидуально. Вопрос врачу-рецензенту.`
-
-`[ОТ РЕДАКТОРА: замечание о размытой привязке закрыто частично — 15.09.2026. По разделу о холестазе теги расставлены поимённо: шкала тяжести и сроки родоразрешения отнесены к КР РФ 2024, числа по мертворождению — к Ovadia C. et al., Lancet, 2019, и к КР РФ 2024 по отдельности. Прежний общий тег «Клинические рекомендации РФ, 2024, RCOG» под этим абзацем оставлен дословно. Остальное замечание в силе: по главе 27 тегов вида «RCOG» называют организацию, а не документ, и в итоговом списке два источника NHS и два RCOG, которые теги не различают. Сквозная нумерация источников по главе требует решения автора.]`
+`[ПРОВЕРИТЬ] интервал повторного анализа (каждые одну-две недели) — по Tommy's (страница проверена 23.10.2024) со ссылкой на RCOG Green-top Guideline No. 43 (2022): «If you are still itching and a cause hasn't been found, the blood tests should be repeated every 1–2 weeks». Первичный документ RCOG недоступен для машинной проверки (20.10.2026); информация RCOG для пациенток (обновлена в апреле 2026) пишет: анализы «обычно повторяют через неделю», а при сохраняющемся зуде — повторяют без указания срока. КР РФ 2024 этот случай (зуд при нормальном анализе) не разбирают: они задают повтор через неделю после начала лечения и затем индивидуально. Вопрос врачу-рецензенту.`
 
 ## 5.3. Растяжки: от чего зависят и что действительно помогает
 
@@ -736,89 +734,82 @@ pH и маркировка
 
 ## Клинические и научные источники
 
-Ниже приведены источники, использованные при медицинской проверке главы.
+Список сгруппирован по разделам главы. Каждая запись устроена одинаково: сначала источник — название кликабельно, — затем после тире то, какое именно утверждение главы на нём стоит. Курсивом добавлены оговорки: где документ недоступен напрямую, где сверка не доводилась до первоисточника, где данные в прежней версии списка были указаны неверно. Все ссылки проверены 20.10.2026.
 
-RCOG (Королевская коллегия акушеров и гинекологов, Великобритания) — Intrahepatic cholestasis of pregnancy.
+**Кожа при беременности: почему она меняется и что с этим делать**
 
-Клинические рекомендации РФ, 2024 — Внутрипеченочный холестаз при беременности (Минздрав России, ID рубрикатора 289, пересмотр не позднее 2026).
+1. American Academy of Dermatology. [Melasma: Overview](https://www.aad.org/public/diseases/a-z/melasma-overview). Обновлено 15.02.2022 — мелазму во время беременности обычно не лечат, у части женщин пятна бледнеют после родов; защита от солнца каждый день (5.1, 5.4).
+2. American Academy of Dermatology. [Melanoma during pregnancy: What it means for you and your baby](https://www.aad.org/public/diseases/skin-cancer/types/common/melanoma/during-pregnancy) — меняющееся пигментное образование показывают дерматологу, не дожидаясь родов; осмотр и биопсия под местным обезболиванием при беременности безопасны (5.1, 5.14).
+3. DermNet. [Intertrigo (Rash in body folds)](https://dermnetnz.org/topics/intertrigo). A. Oakley, обновлено J. Dennis, 2018 — причину раздражения в складках устанавливает врач; складки после мытья и пота просушивают до конца; цинковая паста как барьерное средство (5.1). *Источник называет цинковую пасту для раздражения от влаги, а не для складок у беременных прямо.*
 
-Ovadia C., Seed P.T., Sklavounos A. et al. Association of adverse perinatal outcomes of intrahepatic cholestasis of pregnancy with biochemical markers: results of aggregate and individual patient data meta-analyses. Lancet, 2019;393:899–909, DOI 10.1016/S0140-6736(18)31877-4.
+**Зуд кожи: когда достаточно ухода, а когда нужен врач**
 
-Акне. Клинические рекомендации. Российское общество дерматовенерологов и косметологов, 2015 — раздел о лечении при беременности и лактации; срок пересмотра истёк.
+4. Минздрав России, Российское общество акушеров-гинекологов. [Клинические рекомендации «Внутрипеченочный холестаз при беременности»](https://pravo.ppt.ru/klinicheskie-rekomendatsii/303405), 2024, ID 289 — три степени тяжести по уровню желчных кислот (19–39, 40–99, больше 100 мкмоль/л); при уровне больше 100 мкмоль/л внутриутробная гибель плода в 10–15 % случаев; преждевременные роды в 12–44 % случаев; сроки родоразрешения 40 / 38–39 / 35–36 недель; урсодезоксихолевая кислота уменьшает зуд и улучшает анализы, но не исходы беременности (5.2). *Рубрикатор cr.minzdrav.gov.ru закрыт для машинной проверки — сверено по копии на pravo.ppt.ru и по файлу на Google Диске пользователя (`cholestasis-verification.md`).*
+5. Ovadia C., Seed P. T., Sklavounos A. et al. [Association of adverse perinatal outcomes of intrahepatic cholestasis of pregnancy with biochemical markers: results of aggregate and individual patient data meta-analyses](https://doi.org/10.1016/S0140-6736(18)31877-4). Lancet, 2019;393:899–909 — мертворождение при уровне ниже 40 мкмоль/л — 3 из 2310, при 40–99 — 4 из 1412, при 100 и выше — 18 из 524 (5.2). *PubMed и PMC 20.10.2026 закрыты проверкой CAPTCHA; числа сверены по полному тексту 15.09.2026.*
+6. NHS. [Itching in pregnancy](https://www.nhs.uk/pregnancy/complications/itching-and-intrahepatic-cholestasis/). Проверено 24.02.2026 — сильный зуд, зуд ладоней и подошв, усиление ночью — повод в тот же день связаться с акушерской службой (5.2, 5.14).
+7. Royal College of Obstetricians and Gynaecologists (RCOG). [Intrahepatic cholestasis of pregnancy](https://www.rcog.org.uk/for-the-public/browse-all-patient-information-leaflets/intrahepatic-cholestasis-of-pregnancy-patient-information-leaflet/). Информация для пациенток, 2022, обновлено в апреле 2026 — кремы, в том числе с ментолом, облегчают зуд; антигистаминные помогают спать; после родов зуд быстро проходит, через шесть недель проверяют анализы (5.2).
+8. Tommy's. [Intrahepatic cholestasis of pregnancy (ICP)](https://www.tommys.org/pregnancy/complications/obstetric-cholestasis). Проверено 23.10.2024 — если зуд сохраняется, а причина не найдена, анализы повторяют каждые одну-две недели (5.2). *Сверка не доведена до первоисточника: Tommy's ссылается на RCOG Green-top Guideline No. 43 (2022), документ недоступен для машинной проверки. Информация RCOG для пациенток (№ 8) пишет о повторе через неделю, а при сохраняющемся зуде — без срока.*
 
-Cochrane — Topical preparations for preventing stretch marks in pregnancy.
+**Растяжки: от чего зависят и что действительно помогает**
 
-American Academy of Dermatology — Acne treatment during pregnancy.
+9. Brennan M., Young G., Devane D. [Topical preparations for preventing stretch marks in pregnancy](https://cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000066.pub2/information). Cochrane Database of Systematic Reviews, 2012, CD000066 — убедительных данных, что крем или масло предотвращают растяжки, нет (5.3).
 
-EMA (Европейское агентство лекарственных средств) — Updated measures for pregnancy prevention during retinoid use.
+**Косметика и уход: как оценить средство до применения**
 
-UKTIS (Британская служба информации о тератогенах) — Use of tretinoin in pregnancy.
+10. American Academy of Dermatology. [How to apply sunscreen](https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/how-to-apply-sunscreen) — защита широкого спектра от UVA и UVB, SPF не ниже 30, около 30 мл на открытую кожу (5.4).
+11. BUMPS (UKTIS). [Sunbeds/tanning booths](https://www.medicinesinpregnancy.org/leaflets-a-z/sunbedstanning-booths). Версия 2, март 2016 — ультрафиолет солярия может снижать уровень фолиевой кислоты, в первом триместре — повышать температуру тела (5.4).
+12. MotherToBaby. [Topical Tretinoin](https://mothertobaby.org/fact-sheets/tretinoin-retin-a-pregnancy/pdf/). 01.07.2024 — через кожу всасывается мало ретиноида; в исследованиях риск пороков при правильном нанесении не повышался; при беременности ретиноиды обычно не применяют (5.4). *Прежний источник — монография UKTIS «Use of tretinoin in pregnancy» (сверена 16.09.2026) — 20.10.2026 недоступна: сайт UKTIS перенесён; те же выводы — в этой записи.*
+13. European Medicines Agency. [Updated measures for pregnancy prevention during retinoid use](https://www.ema.europa.eu/en/news/updated-measures-pregnancy-prevention-during-retinoid-use). 23.03.2018 — наружные ретиноиды почти не всасываются, но из предосторожности при беременности противопоказаны (5.4).
+14. American Academy of Dermatology. [Acne treatment during pregnancy](https://www.aad.org/public/diseases/acne/derm-treat/pregnancy) — азелаиновая кислота, бензоила пероксид и салициловая кислота в ограниченных количествах; схему лечения согласуют с дерматологом или акушером-гинекологом (5.4).
+15. MotherToBaby. [Topical Acne Treatments](https://mothertobaby.org/fact-sheets/topical-acne-treatments/). 01.02.2026 — через здоровую кожу всасывается немного вещества, больше — при частом нанесении на большую площадь и повреждённую кожу; при кормлении грудью средства не наносят на сосок и ареолу (5.4).
+16. Российское общество дерматовенерологов и косметологов. Акне. Клинические рекомендации, 2015 — бензоила пероксид отнесён к схемам для планирующих беременность, а не для беременных; о местной азелаиновой кислоте: «побочных действий препарата не отмечалось» (5.4). *Документ 20.10.2026 в открытом доступе не найден; цитаты сверены 15.09.2026 (`themes/theme-7/README.md`). Срок пересмотра истёк.*
+17. РЛС. [Бензоила пероксид — описание вещества](https://www.rlsnet.ru/active-substance/benzoila-peroksid-885) — «при беременности назначают только в случае крайней необходимости»; категория FDA C (5.4).
+18. Видаль. [Бензоила пероксид — инструкция по применению](https://www.vidal.ru/drugs/benzoila-peroksid) — применение у беременных только при чётких показаниях после консультации с врачом; зарегистрированные препараты (5.4).
+19. РЛС. [Салициловая мазь — инструкция](https://www.rlsnet.ru/tn_index_id_5740.htm) — салициловая кислота зарегистрирована как лекарство в форме мази и раствора для других показаний (5.4).
+20. Trivedi M. K., Kroumpouzos G., Murase J. E. [A review of the safety of cosmetic procedures during pregnancy and lactation](https://pubmed.ncbi.nlm.nih.gov/28492048/). International Journal of Women's Dermatology, 2017;3(1):6–10 — пилинги с гликолевой и молочной кислотой безопасны; с трихлоруксусной и салициловой — с осторожностью; данных о ботулотоксине мало, о филлерах нет (5.4). *PubMed 20.10.2026 закрыт проверкой CAPTCHA; запись опознана по выдаче PubMed, содержание сверено 22.09.2026.*
+21. MotherToBaby. [Nailing down the facts: nail treatment safety in pregnancy](https://mothertobaby.org/baby-blog/nailing-down-the-facts-nail-treatment-safety-in-pregnancy). A. Romeo, 02.01.2025 — лак, гель-лак и акриловые ногти риск не повышают; проветривание; перерыв при головной боли и тошноте; средства без формальдегида при аллергии (5.4).
 
-MotherToBaby — Fever/Hyperthermia.
+**Душ, ванна и тепло: как мыться, не пересушивая кожу и не перегреваясь**
 
-NHS (Национальная служба здравоохранения Великобритании) — Using hair dye in pregnancy.
+22. MotherToBaby. [Fever/Hyperthermia](https://mothertobaby.org/fact-sheets/hyperthermia-pregnancy/). 01.02.2025 — джакузи и сауну при беременности ограничивают: они могут вызвать перегрев (5.5).
+23. NHS. [Signs that labour has begun](https://www.nhs.uk/pregnancy/labour-and-birth/signs-of-labour/signs-that-labour-has-begun/). Проверено 09.11.2023 — слизистая пробка отходит перед родами или в их начале, розовая из-за небольшой примеси крови; тёплая ванна в начале родов (5.5, 5.9).
+24. Cambridge University Hospitals NHS Foundation Trust. [Ruptured membranes after 37 weeks of pregnancy](https://www.cuh.nhs.uk/patient-information/ruptured-membranes-after-37-weeks-of-pregnancy-/). Версия 8, 27.11.2025 — ванна и душ после излития вод не повышают частоту инфекций; половой контакт может повышать риск (5.5).
 
-Trivedi M. K., Kroumpouzos G., Murase J. E. A review of the safety of cosmetic procedures during pregnancy and lactation. International Journal of Women’s Dermatology, 2017.
+**Волосы и удаление волос: что меняется и какие способы подходят**
 
-ВОЗ — Бактериальный вагиноз.
+25. American Academy of Dermatology. [Hair loss in new moms](https://www.aad.org/public/diseases/hair-loss/insider/new-moms) — выпадение волос сильнее всего примерно через четыре месяца после родов, к году ребёнка густота у большинства возвращается (5.6).
+26. NHS. [Is hair dye safe in pregnancy?](https://www.nhs.uk/best-start-in-life/pregnancy/using-hair-dye-in-pregnancy-is-it-safe/) 27.09.2023, обновлено 01.10.2025 — здоровая кожа головы всасывает мало краски (5.6).
+27. MotherToBaby. [Hair Treatments](https://mothertobaby.org/fact-sheets/hair-treatments-pregnancy/). 01.06.2026 — мелирование наносят на волосы, не касаясь кожи; часть составов для выпрямления содержит формальдегид или выделяет его при нагревании; работать в проветриваемом помещении (5.6).
+28. NHS 111 Wales. [Hirsutism](https://111.wales.nhs.uk/Hirsutism/). Обновлено 13.11.2025 — внезапный рост густых тёмных волос на лице и теле, понижение голоса, рост мышц — повод для срочной записи к врачу (5.6). *Источник не о беременности.*
 
-NHS — Vaginal discharge in pregnancy.
+**Грудь и соски: что происходит и какой уход нужен**
 
-RCOG — When your waters break prematurely.
+29. NCT. [Maternity bras and nursing bras: what you need to know](https://www.nct.org.uk/information/pregnancy/wellbeing-and-lifestyle-pregnancy/maternity-bras-and-nursing-bras-what-you-need-know). Проверено 17.09.2026 — признаки, что бюстгальтер подошёл: нижний пояс горизонтально, оттягивается от тела примерно на 5 см (5.7).
+30. Department of Education and Early Childhood Development, Victoria. [Promoting Breastfeeding: Victorian Breastfeeding Guidelines](https://www.education.vic.gov.au/Documents/childhood/professionals/health/brestfeedguidelines14.pdf), 2014 — железы Монтгомери выделяют жирный секрет, защищающий сосок и ареолу; специально готовить соски к кормлению не нужно (5.7).
 
-FDA (Управление по контролю за продуктами и лекарствами США) — Risks of relying on rupture-of-membranes tests without clinical assessment.
+**Выделения: какие бывают в норме и что должно насторожить**
 
-DermNet — Intertrigo.
+31. NHS. [Vaginal discharge in pregnancy](https://www.nhs.uk/pregnancy/common-symptoms/vaginal-discharge/). Проверено 17.04.2024 — обычные выделения жидкие, прозрачные или молочно-белые, без неприятного запаха; поводы обратиться: запах, зелёный или жёлтый цвет, зуд, боль при мочеиспускании; кровь — срочно (5.9, 5.13, 5.14).
 
-DermNet — Melasma.
+**Уход за наружной интимной зоной: как мыться и что носить**
 
-American Academy of Dermatology — Melasma: overview and self-care.
+32. British Association of Dermatologists. [Vulval skincare](https://cdn.bad.org.uk/uploads/2021/11/19174105/Vulval-skincare-PIL-May-2023.pdf). Информация для пациенток, май 2023 — подмываться раз в день, рукой, эмолентом вместо мыла; без ежедневных прокладок, влажных салфеток, пены для ванны; хлопковое бельё; промокать мягким полотенцем (5.10, 5.13). *Страница bad.org.uk закрыта для машинной проверки — сверено по PDF той же организации.*
 
-American Academy of Dermatology — Melanoma during pregnancy.
+**Спринцевания, салфетки и прокладки: что можно, а что вредит**
 
-American Academy of Dermatology — Hair loss in new moms.
+33. ВОЗ. [Bacterial vaginosis](https://www.who.int/news-room/fact-sheets/detail/bacterial-vaginosis). 21.11.2025 — спринцевания и промывание влагалища повышают риск бактериального вагиноза (5.12).
 
-MotherToBaby — Topical acne treatments.
+**Зуд, запах и боль в интимной зоне: как понять причину**
 
-MotherToBaby — Hair treatments.
+34. NHS. [Thrush](https://www.nhs.uk/pregnancy/common-symptoms/thrush/). Проверено 17.04.2024 — при беременности перед лечением молочницы обращаются к врачу или акушерке (5.13).
+35. NHS. [Urinary tract infections (UTIs)](https://www.nhs.uk/conditions/urinary-tract-infections-utis/). Проверено 11.07.2025 — при беременности симптомы инфекции мочевых путей — повод для срочной записи к врачу (5.13, 5.14).
+36. Leeds Teaching Hospitals NHS Trust. [Vulval care advice](https://www.leedsth.nhs.uk/patients/resources/vulval-care-advice/). Издание 005, проверено 04.06.2025 — эмолент вместо мыла, хранить в холодильнике; без влажных салфеток и добавок в ванну; хлопковое бельё, дома можно без белья; подсушивать феном на холодном воздухе (5.13).
 
-NCT — Maternity bras and nursing bras.
+**Когда это уже не вопрос гигиены: границы обращения к врачу**
 
-Victorian Breastfeeding Guidelines. Department of Education and Early Childhood Development, Victoria (Австралия), 2014.
-
-NHS — Signs that labour has begun.
-
-РЛС — Азелаиновая кислота; бензоила пероксид; салициловая кислота.
-
-Видаль — Бензоила пероксид: аналоги и комбинированные препараты.
-
-RCOG — Intrahepatic cholestasis of pregnancy: информация для пациенток.
-
-CUH NHS — Ruptured membranes after 37 weeks of pregnancy.
-
-British Association of Dermatologists — Care of vulval skin.
-
-Leeds Teaching Hospitals NHS Trust — Vulval care advice.
-
-American Academy of Dermatology — How to apply sunscreen.
-
-UKTIS / BUMPS — Sunbeds/tanning booths (2016).
-
-NHS — Thrush.
-
-NHS — Urinary tract infections (UTIs).
-
-NHS — Itching and intrahepatic cholestasis of pregnancy.
-
-NHS — Cellulitis.
-
-NHS — Breast lumps; Moles; Mastitis.
-
-Tommy's — Intrahepatic cholestasis of pregnancy (со ссылкой на RCOG Green-top Guideline No. 43, 2022).
-
-MotherToBaby — Nailing down the facts: nail treatment safety in pregnancy (Al Romeo, 02.01.2025).
-
-MotherToBaby — Topical acne treatments (01.02.2026): не наносить на сосок и ареолу при кормлении грудью.
-
-NHS 111 Wales — Hirsutism (обновлено 13.11.2025): поводы для срочной записи к врачу.
-
+37. NHS. [Moles](https://www.nhs.uk/conditions/moles/). Проверено 04.07.2023 — родинку, которая изменила размер, форму или цвет, показывают врачу (5.14).
+38. NHS. [Breast lumps](https://www.nhs.uk/symptoms/breast-lump/). Проверено 28.06.2023 — новое уплотнение в груди, выделения из соска — повод для несрочной записи к врачу (5.14).
+39. NHS. [Cellulitis](https://www.nhs.uk/conditions/cellulitis/). Проверено 18.04.2024 — болезненная, горячая, отёчная кожа — срочная запись к врачу; с высокой температурой, ознобом, головокружением — экстренная помощь (5.14).
+40. Royal College of Obstetricians and Gynaecologists (RCOG). [When your waters break prematurely](https://www.rcog.org.uk/for-the-public/browse-our-patient-information/when-your-waters-break-prematurely/). Информация для пациенток, июнь 2019 — при подтекании надеть прокладку, а не тампон, отметить цвет и количество жидкости и сразу ехать в больницу; зелёная жидкость или неприятный запах — признаки для срочного обращения (5.14).
+41. West Suffolk NHS Foundation Trust. [When your waters break early](https://www.wsh.nhs.uk/CMS-Documents/Patient-leaflets/Maternity/6665-1-When-your-waters-break-early.pdf). Сентябрь 2023 — воды бывают прозрачными или розоватыми, изредка зеленоватыми, коричневыми или с примесью крови (5.14). *Прежде в списке — без названия треста («NHS, местная памятка»); документ опознан 20.10.2026.*
+42. U.S. Food and Drug Administration. [FDA alerts healthcare providers, women about risks associated with improper use of rupture of membranes tests](https://www.fda.gov/news-events/press-announcements/fda-alerts-healthcare-providers-women-about-risks-associated-improper-use-rupture-membranes-tests). 08.08.2018 — тест на подтекание вод сам по себе не ставит диагноз, нужна оценка врача (5.14).
