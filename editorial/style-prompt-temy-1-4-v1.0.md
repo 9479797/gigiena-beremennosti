@@ -2,7 +2,7 @@
 document_id: pregnancy-book-style-prompt-themes-1-4
 document_type: style-prompt
 version: 1.0.0
-status: draft — на утверждение пользователя
+status: active — утверждён пользователем 21.10.2026
 scope: стилистическая правка Тем 5–11, Раздела 0, Введения и приложений
 style_canon: Темы 1–4 в редакции после проверки врачом (присланы пользователем 21.10.2026)
 ---
