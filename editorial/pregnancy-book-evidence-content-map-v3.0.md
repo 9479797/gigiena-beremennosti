@@ -725,6 +725,30 @@ Decisions (user, 15.10.2026): Theme 11 is the primary home for the urgency ladde
 
 ---
 
+# PART VII — ОСОБЫЕ СИТУАЦИИ
+
+# THEME 12 — Поездки и путешествия во время беременности
+
+> Решение пользователя 22–23.10.2026: новая тема — все поездки, по России и за границу; болезни, опасности и прививки разложены по направлениям (Часть B, раздел на группу стран); порядок направлений — Россия и ближнее зарубежье первыми, далее по популярности у российских туристов (АТОР, 2025); Европа и США — полноценные разделы; плановые роды за границей — отдельный раздел (Часть E). Другие темы на этом этапе не правятся: 8.15 и 9.6 остаются на местах до решения пользователя о переносе. Основа — `themes/theme-12/checkpoint-0.md`.
+
+Reader job:
+Decide whether and when to travel, choose a destination knowing which infections and hazards it carries for a pregnant woman, get the vaccinations allowed for that route, pack documents, insurance and a medicine kit, buy a safe medicine abroad by its international name, act if something goes wrong away from home, and — if birth abroad is planned — handle the clinic, the baby's documents and the return.
+
+Coverage:
+1. Travel contraindications; timing by trimester; questions to the doctor.
+2. Flights, trains, cars, cruises (repeat of 3.10, 8.13, 8.14 with links).
+3. Choosing a destination; current outbreak sources; vaccination principles before travel.
+4. Destinations: Russia; near abroad; Turkey/Egypt/Tunisia; China/Korea/Japan; UAE/Middle East; Southeast Asia; India/Sri Lanka/Maldives; Southern Europe; Central & Northern Europe; USA & Canada; Latin America & Caribbean; Africa/Seychelles/Mauritius — each: hazards, vaccines and prevention, on-site behaviour, when to postpone. Full explanation of a disease lives once: dengue — SE Asia; hepatitis E — India; Zika and Oropouche — Latin America; malaria and yellow fever — Africa.
+5. Documents; insurance; medicine kit; carrying medicines across borders; buying medicines abroad by INN.
+6. Food, water, travellers' diarrhoea; heat, swimming, activities; insects, ticks, animals.
+7. Falling ill abroad; after return.
+8. Planned birth abroad.
+
+Cross-links:
+Theme 1 (1.5), Theme 3 (3.10), Theme 7 (7.3 and drug sections), Theme 8 (8.9, 8.13–8.15), Theme 9 (9.3, 9.5, 9.6, 9.8, 9.14), Section 0.
+
+---
+
 # 7. REFERENCE & NAVIGATION LAYER
 
 These are functional reader tools, not duplicate medical chapters.
