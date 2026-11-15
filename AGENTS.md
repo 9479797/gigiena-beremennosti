@@ -98,6 +98,8 @@
 
 `editorial/canonical-style-corpus-v1.0.md` выведен из обращения (status: retired); стиль задаётся `editorial/kak-pisat-tekst.md`.
 
+15.11.2026 удалены выведенные из обращения `standart-redaktury-v1.4`, `style-prompt-temy-1-4-v1.0`, `tone-of-voice-v1.1`, `text-architecture-v1.2`, `pregnancy-book-editorial-v1.7` и навыки `russian-book-editor`, `methodical-review` (в истории Git). Промежуточные файлы тем (редлайны, версии «врачу», SOURCE TEXT) и выполненные задания `claude/` перенесены в `archive/` — папка в синхронизацию claude.ai не входит, перечень — `archive/README.md`.
+
 Исторические версии управляющих документов (project-instructions v1.6–v1.7, editorial v1.6, text-architecture v1.0–v1.1, tone-of-voice v1.0, format-spiska-istochnikov v1.0, canonical-style-corpus) удалены из репозитория 21.10.2026 (решение пользователя: лимит синхронизации проекта claude.ai); при необходимости — в истории Git. Там же — разовые отчёты `editorial/reports/` (оставлены только используемые: ресурсы проверки лекарств, разведка помощи женщинам, источники по Теме 8), рабочая версия Темы 7 `draft-cp1.md` и архив Темы 2.
 
 Дополнительно читать специализированные файлы только тогда, когда они
@@ -167,7 +169,7 @@ _Перенесено из `editorial/tone-of-voice-v1.1.md`, раздел 8 «�
 Ясная русская формулировка с тем же смыслом может трактоваться как
 соответствующая команда.
 
-Сохранять согласованные автоматические связки активной process spec (v1.7):
+Сохранять согласованные автоматические связки активной process spec (v1.8):
 
 `Checkpoint 2 → Checkpoint 3`
 
@@ -188,7 +190,7 @@ Prepress-аудит запускается после читательской �
 
 Файл:
 
-`themes/темы гигиена беременности — SOURCE TEXT 2–9.docx`
+`archive/themes/темы гигиена беременности — SOURCE TEXT 2–9.docx`
 
 является только резервуаром исходных материалов.
 
