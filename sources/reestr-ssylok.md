@@ -300,3 +300,24 @@
 | T9-16 | NHS, Toxoplasmosis (25.08.2023) | https://www.nhs.uk/conditions/toxoplasmosis/ | открыт | онлайн, 15.11.2026 | 9.1 | — |
 | T9-17 | CDC, Preventing Toxoplasmosis (30.01.2024) | https://www.cdc.gov/toxoplasmosis/prevention/index.html | открыт | онлайн, 15.11.2026 | 9.1 | — |
 | T9-18 | WHO, The treatment of diarrhoea (руководство для врачей, WHO/FCH/CAH/05.1) | https://apo.who.int/publications/i/item/the-treatment-of-diarrhoea | частично (карточка без PDF) | онлайн, 15.11.2026 | 9.2 | текст PDF; who.int закрыт |
+
+## Темы 1 и 2: документы, внесённые 15.11.2026 (v2)
+
+Коды T1-NN и T2-NN; при общей чистке реестра перенести в группы А–Д. WebFetch 15.11.2026 остался без разрешения (повторов и обходов не было).
+
+| Код | Документ | Ссылка | Доступ | Где сверено | Темы | Чего не хватает |
+|---|---|---|---|---|---|---|
+| T1-01 | КР «Нормальная беременность», 2023, ID 288 (288_2) | https://cr.minzdrav.gov.ru/recomend/288_2 | закрыт (скрипт); читается на Диске | Google Диск, «Нормальная беременность. Клин. рек-и. pdf.pdf», 15.11.2026: пп. 2.3, 2.5, 3.1–3.3, 5.1 | 1, 2 | пересмотр не позднее 2025 истёк |
+| T1-02 | ACOG CO 462, Moderate caffeine consumption, Obstet Gynecol 2010;116(2 Pt 1):467–468, PMID 20664420, DOI 10.1097/AOG.0b013e3181eeb2a1 | https://doi.org/10.1097/AOG.0b013e3181eeb2a1 | частично (реферат PubMed) | PubMed, 15.11.2026 | 1 | полный текст, запись 115 |
+| T1-03 | Russell R.M. et al., J Lab Clin Med 1988;112(4):458–463, PMID 2902178 | https://pubmed.ncbi.nlm.nih.gov/2902178/ | частично (реферат) | PubMed, 15.11.2026 | 1 | полный текст |
+| T1-04 | Vinnakota R.D., Brett A.S., Am J Med Sci 2018;357(2):160–163, PMID 30528320, DOI 10.1016/j.amjms.2018.10.014 | https://doi.org/10.1016/j.amjms.2018.10.014 | частично (реферат) | PubMed, 15.11.2026 | 1 | полный текст |
+| T1-05 | ACG 2023, целиакия, PMID 36602836 | https://doi.org/10.14309/ajg.0000000000002075 | частично (реферат; в PMC нет) | PubMed, 15.11.2026 | 1 | запись 114 |
+| T2-01 | Lu Q. et al., Sleep Med Rev 2021;58:101436, PMID 33571887 | https://doi.org/10.1016/j.smrv.2021.101436 | частично (реферат) | PubMed, 15.11.2026 | 2 | полный текст |
+| T2-02 | Liu D. et al., Reprod Sci 2025;32(10):3240–3261, PMID 40397284 | https://doi.org/10.1007/s43032-025-01849-z | частично (реферат) | PubMed, 15.11.2026 | 2 | полный текст |
+| T2-03 | Luo L. et al., Cochrane 2020;12:CD010655.pub3, PMID 33275278 | https://doi.org/10.1002/14651858.CD010655.pub3 | частично (реферат; в PMC есть PMC8094374) | PubMed, 15.11.2026 | 2 | полный текст |
+| T2-04 | Jahani Kondori M. et al., J Prim Care Community Health 2020;11, PMID 32054396 | https://doi.org/10.1177/2150132720905950 | частично (реферат; PMC7025421 открыт) | PubMed, 15.11.2026 | 2 | запись 119 |
+| T2-05 | Kember A.J. et al., CMAJ 2025;197(23):E645, PMID 40523680 | https://doi.org/10.1503/cmaj.241858 | открыт (PMC12187203) | PMC, 15.11.2026 | 2 | — |
+| T2-06 | Riemann D. et al., J Sleep Res 2023;32(6):e14035, PMID 38016484 | https://doi.org/10.1111/jsr.14035 | частично (реферат) | PubMed, 15.11.2026 | 2 | полный текст |
+| T2-07 | Kalmbach D.A. et al., Sleep Med 2025;133:106570, PMID 40413907; Sleep Adv 2023;4(1):zpad031, PMID 37645455 | https://doi.org/10.1016/j.sleep.2025.106570 | частично (рефераты) | PubMed, 15.11.2026 | 2 | — |
+| T2-08 | Meers J.M., Nowakowski S., Curr Psychiatry Rep 2022;24(8):353–357, PMID 35689720; Kember A.J. et al., Front Med 2023;10:1235252, PMID 37671402; Yu T. et al., J Clin Pharmacol 2016;56(5):590–596, PMID 26358647; Cronin R.S. et al., EClinicalMedicine 2019;10:49–57, PMID 31193832 | DOI в списке Темы 2 | частично (рефераты) | PubMed, 15.11.2026 | 2 | — |
+| T2-09 | NICE NG201 и обзор W (NBK573947); NHS «Reducing the risk of stillbirth»; КР 723_1 | адреса в списке Темы 2 | закрыт 15.11.2026 (запрос без разрешения) | прежний список, 23.09.2026 | 2 | записи 112, 113 |
