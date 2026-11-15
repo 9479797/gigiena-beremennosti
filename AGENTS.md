@@ -100,7 +100,7 @@
 
 `editorial/canonical-style-corpus-v1.0.md` выведен из обращения (status: retired); стиль задаётся `editorial/kak-pisat-tekst.md`.
 
-15.11.2026 удалены выведенные из обращения `standart-redaktury-v1.4`, `style-prompt-temy-1-4-v1.0`, `tone-of-voice-v1.1`, `text-architecture-v1.2`, `pregnancy-book-editorial-v1.7` и навыки `russian-book-editor`, `methodical-review` (в истории Git). Промежуточные файлы тем (редлайны, версии «врачу», SOURCE TEXT) и выполненные задания `claude/` перенесены в `archive/` — папка в синхронизацию claude.ai не входит, перечень — `archive/README.md`.
+15.11.2026 удалены выведенные из обращения `standart-redaktury-v1.4`, `style-prompt-temy-1-4-v1.0`, `tone-of-voice-v1.1`, `text-architecture-v1.2`, `pregnancy-book-editorial-v1.7` и навыки `russian-book-editor`, `methodical-review` (в истории Git). Промежуточные файлы тем (редлайны, версии «врачу», SOURCE TEXT), выполненные задания `claude/` и снимок памяти от 30.10 удалены из репозитория 15.11.2026 (лимит синхронизации claude.ai); последний коммит, где они есть, — 3bb9b2a.
 
 Исторические версии управляющих документов (project-instructions v1.6–v1.7, editorial v1.6, text-architecture v1.0–v1.1, tone-of-voice v1.0, format-spiska-istochnikov v1.0, canonical-style-corpus) удалены из репозитория 21.10.2026 (решение пользователя: лимит синхронизации проекта claude.ai); при необходимости — в истории Git. Там же — разовые отчёты `editorial/reports/` (оставлены только используемые: ресурсы проверки лекарств, разведка помощи женщинам, источники по Теме 8), рабочая версия Темы 7 `draft-cp1.md` и архив Темы 2.
 
@@ -194,7 +194,7 @@ Prepress-аудит запускается после читательской �
 
 Файл:
 
-`archive/themes/темы гигиена беременности — SOURCE TEXT 2–9.docx`
+`themes/темы гигиена беременности — SOURCE TEXT 2–9.docx` (удалён из репозитория 15.11.2026; при необходимости — `git show 3bb9b2a:"themes/темы гигиена беременности — SOURCE TEXT 2–9.docx"`)
 
 является только резервуаром исходных материалов.
 

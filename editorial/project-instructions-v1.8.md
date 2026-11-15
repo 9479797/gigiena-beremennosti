@@ -49,7 +49,7 @@ persistent_source_of_truth: github-repository
 13. `themes/theme-1/tema_1_final_canonical.docx` — Тема 1 после проверки врачом (заменена 21.10.2026). Не эталон глубины и не медицинский источник для других тем. Образец изложения — Тема 1 в редакции автора от 5.11.2026 (пункт 8а); прежний статус STYLE CANON Тем 1–4 (решение 21.10.2026) заменён решением автора 15.11.2026.
 14. `themes/theme-2/theme 2 canonical.docx`, `themes/theme-3/theme 3 canonical.docx`, `themes/theme-4/theme 4 canonical.docx` — Темы 2–4 после проверки врачом (заменены 21.10.2026). Образец изложения — Тема 2 в редакции автора от 6.11.2026 (пункт 8а); не эталон глубины и не медицинский источник для других тем.
 15. `.claude/skills/methodical-review/SKILL.md` — независимая методическая экспертиза.
-16. `archive/themes/темы гигиена беременности — SOURCE TEXT 2–9.docx` — резервуар исходных неканонических материалов; внутренние номера являются legacy labels, поэтому использовать вместе с `themes/SOURCE-TEXT-MAPPING.md` и активной Content Map.
+16. `themes/темы гигиена беременности — SOURCE TEXT 2–9.docx` (удалён из репозитория 15.11.2026; при необходимости — `git show 3bb9b2a:"themes/темы гигиена беременности — SOURCE TEXT 2–9.docx"`) — резервуар исходных неканонических материалов; внутренние номера являются legacy labels, поэтому использовать вместе с `themes/SOURCE-TEXT-MAPPING.md` и активной Content Map.
 17. Одобренные пользователем тексты, решения, evidence ledger и Regression Watch конкретной темы — действующий canon/state этой темы после фиксации в репозитории.
 
 `editorial/canonical-style-corpus-v1.0.md` выведен из обращения (status: retired); стиль задаётся `editorial/kak-pisat-tekst.md`.
