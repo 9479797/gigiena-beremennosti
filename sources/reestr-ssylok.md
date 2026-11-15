@@ -274,3 +274,29 @@
 Темы 1–10 внесены частично (документы с Google Диска пользователя внесены все — 15.10.2026) — только документы, которые лежат в `sources/` или
 открывались в последних сессиях. Остальные источники этих тем вносятся при их
 проверке на источники (по одной теме за раз).
+
+
+## Тема 9: документы, внесённые 15.11.2026 (v2)
+
+Коды T9-NN; при общей чистке реестра перенести в группы А–Д.
+
+| Код | Документ | Ссылка | Доступ | Где сверено | Темы | Чего не хватает |
+|---|---|---|---|---|---|---|
+| T9-01 | КР «Корь», 2024, ID 563 | https://pravo.ppt.ru/klinicheskie-rekomendatsii/305070 | открыт (копия) | онлайн-копия, 15.11.2026 | 9.6 | срок иммуноглобулина: разделы 5 и 7 — 5 календарных дней, приложение А3 — 4 суток |
+| T9-02 | КР «Острые кишечные инфекции у взрослых», 2024, ID 875_1 | https://medvestnik.ru/cr/875_1.html | открыт (копия) | онлайн-копия, 15.11.2026 | 9.2 | — |
+| T9-03 | КР «Острый гепатит C у детей», 2025, ID 57_3 | https://pravo.ppt.ru/klinicheskie-rekomendatsii/321751 | открыт (копия) | онлайн-копия, 15.11.2026 | 9.11 | — |
+| T9-04 | КР «Острый гепатит C у детей», 2022, ID 57 (прежняя редакция) | https://pravo.ppt.ru/klinicheskie-rekomendatsii/268415 | открыт (копия) | онлайн-копия, 15.11.2026 | 9.11 | только для сравнения |
+| T9-05 | КР «Нормальная беременность», 2023, ID 288 (копия pravo.ppt.ru) | https://pravo.ppt.ru/klinicheskie-rekomendatsii/294020 | открыт (копия, обрывается на 100000 знаков; знак «+» в сроках потерян) | онлайн-копия, 15.11.2026 | 9.1, 9.5, 9.11 | сверить срок СГВ «35+0–37+0» по PDF |
+| T9-06 | КР «Болезнь Лайма у взрослых», 2025, ID 566_2 | https://pravo.ppt.ru/klinicheskie-rekomendatsii/322506 | закрыт 15.11.2026 (запрос без разрешения) | — | 9.9 | срок профилактики боррелиоза: запись 109 в skachat-vruchnuyu |
+| T9-07 | СанПиН 3.3686-21 (корь, краснуха, ветряная оспа) | pediatrhelp.ru (перепечатка) | закрыт 15.11.2026 (запрос без разрешения) | — | 9.6 | запись 108 |
+| T9-08 | AGG, Toxoplasma gondii Infection in Pregnancy, 2023, DOI 10.1055/a-2111-7394 | https://pmc.ncbi.nlm.nih.gov/articles/PMC10689109/ | открыт | PMC, 15.11.2026 | 9.1, 9.7 | — |
+| T9-09 | SOGC, Parvovirus B19 infection in pregnancy, 2014, PMID 25668048 | https://doi.org/10.1016/S1701-2163(15)30390-X | частично (резюме PubMed) | PubMed, 15.11.2026 | 9.6 | полный текст |
+| T9-10 | ISUOG, Role of ultrasound in congenital infection, 2020, PMID 32400006, DOI 10.1002/uog.21991 | https://doi.org/10.1002/uog.21991 | закрыт 15.11.2026 (запрос без разрешения) | — | 9.6 | запись 110 |
+| T9-11 | UKHSA, Viral rash in pregnancy guidance, Issue 6.0, 2024 | https://assets.publishing.service.gov.uk/media/66a90597a3c2a28abb50d9f6/viral-rash-in-pregnancy-guidance-syphilis-august-2024.pdf | закрыт 15.11.2026 (запрос без разрешения; ранее открывался) | — | 9.6 | раздел о парвовирусе: график УЗИ |
+| T9-12 | CDC, Immune globulin for measles PEP | https://www.cdc.gov/measles/downloads/measles-immune-globulin-post-exposure-prophylaxis.pdf | открыт | онлайн, 15.11.2026 | 9.6 | — |
+| T9-13 | UKHSA, Administration of HNIG for measles PEP (обновлено 22.10.2026) | https://gov.uk/government/publications/immunoglobulin-when-to-use/administration-of-hnig-for-measles-post-exposure-prophylaxis | открыт | онлайн, 15.11.2026 | 9.6 | — |
+| T9-14 | CDC MMWR RR-4, 2023, HCV у детей, DOI 10.15585/mmwr.rr7204a1 | https://www.cdc.gov/mmwr/volumes/72/rr/rr7204a1.htm | открыт | онлайн, 15.11.2026 | 9.11 | — |
+| T9-15 | NHS, Dysentery (17.07.2024) | https://www.nhs.uk/conditions/dysentery/ | открыт | онлайн, 15.11.2026 | 9.2 | — |
+| T9-16 | NHS, Toxoplasmosis (25.08.2023) | https://www.nhs.uk/conditions/toxoplasmosis/ | открыт | онлайн, 15.11.2026 | 9.1 | — |
+| T9-17 | CDC, Preventing Toxoplasmosis (30.01.2024) | https://www.cdc.gov/toxoplasmosis/prevention/index.html | открыт | онлайн, 15.11.2026 | 9.1 | — |
+| T9-18 | WHO, The treatment of diarrhoea (руководство для врачей, WHO/FCH/CAH/05.1) | https://apo.who.int/publications/i/item/the-treatment-of-diarrhoea | частично (карточка без PDF) | онлайн, 15.11.2026 | 9.2 | текст PDF; who.int закрыт |
