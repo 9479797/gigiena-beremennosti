@@ -321,3 +321,48 @@
 | T2-07 | Kalmbach D.A. et al., Sleep Med 2025;133:106570, PMID 40413907; Sleep Adv 2023;4(1):zpad031, PMID 37645455 | https://doi.org/10.1016/j.sleep.2025.106570 | частично (рефераты) | PubMed, 15.11.2026 | 2 | — |
 | T2-08 | Meers J.M., Nowakowski S., Curr Psychiatry Rep 2022;24(8):353–357, PMID 35689720; Kember A.J. et al., Front Med 2023;10:1235252, PMID 37671402; Yu T. et al., J Clin Pharmacol 2016;56(5):590–596, PMID 26358647; Cronin R.S. et al., EClinicalMedicine 2019;10:49–57, PMID 31193832 | DOI в списке Темы 2 | частично (рефераты) | PubMed, 15.11.2026 | 2 | — |
 | T2-09 | NICE NG201 и обзор W (NBK573947); NHS «Reducing the risk of stillbirth»; КР 723_1 | адреса в списке Темы 2 | закрыт 15.11.2026 (запрос без разрешения) | прежний список, 23.09.2026 | 2 | записи 112, 113 |
+
+## Тема 3: ссылки списка источников, проверка 19.11.2026 (v2 от 19.11.2026)
+
+Коды T3-NN соответствуют номерам записей списка «Клинические и научные источники» Темы 3 (T3-01 = запись [1]). Часть документов уже есть в группах выше (например, NICE NG201 — T2-09, I-053; WHO, RCOG, CDC); при общей чистке реестра объединить. WebFetch 19.11.2026 открывает только адреса, которые перед этим вернула выдача WebSearch; PubMed-метаданные запрашивались через API, страницы PubMed и NCBI Bookshelf агенту закрыты (CAPTCHA).
+
+| Код | Документ | Ссылка | Доступ | Где сверено | Темы | Чего не хватает |
+|---|---|---|---|---|---|---|
+| T3-01 | ACOG CO 804, 2020 | https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/04/physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period | закрыт (ACOG) | поиск по acog.org + PubMed, 19.11.2026 | 3 | страница; в PubMed 33481513 — не КО, а комментарий (не использовать); запись 122 в skachat-vruchnuyu |
+| T3-02 | Mottola et al., BJSM 2018 (2019 Canadian guideline) | https://bjsm.bmj.com/content/52/21/1339 | частично (PubMed) | PubMed, 19.11.2026 | 3 | полный текст |
+| T3-03 | WHO, Guidelines on physical activity and sedentary behaviour, 2020 | https://www.ncbi.nlm.nih.gov/books/NBK566046/ | закрыт (CAPTCHA, NCBI) | who.int (страница издания), 19.11.2026 | 3 | текст Bookshelf; запись 124 в skachat-vruchnuyu |
+| T3-04 | WHO, Guideline on haemoglobin cutoffs, 2024 | https://www.who.int/publications/i/item/9789240088542 | частично (карточка издания) | who.int (alias), 19.11.2026 | 3 | порог 70 г/л в тексте не сверен; запись 125 в skachat-vruchnuyu |
+| T3-05 | SMFM Consult Series 50, 2020 (reaffirmed 2025) | https://publications.smfm.org/publications/326-society-for-maternal-fetal-medicine-consult-series-50/ | открыт (карточка) | онлайн, 19.11.2026 | 3 | текст не открывался |
+| T3-06 | CDC, How to Measure Physical Activity Intensity | https://www.cdc.gov/physical-activity-basics/measuring/index.html | открыт | онлайн, 19.11.2026 | 3 | — |
+| T3-07 | Ravanelli et al., BJSM 2019;53:799–805 | https://pubmed.ncbi.nlm.nih.gov/29496695/ | частично (реферат PubMed) | PubMed, 19.11.2026 | 3 | полный текст |
+| T3-08 | СП 2.1.4284-26 (постановление № 20 от 02.06.2026), приложение 4 | https://02.rospotrebnadzor.ru/upload/iblock/749/td3cen07sl6tt5sp3z9kpc09onwb10br/SP_2.1.4284_26.pdf | закрыт (адрес не подтверждён) | новость «Гаранта» о документе, 19.11.2026 | 3 | текст документа; температуры приложения 4 не сверены; запись 123 в skachat-vruchnuyu |
+| T3-09 | CDC, Chloramines and Pool Operation | https://www.cdc.gov/healthy-swimming/toolkit/chloramines-and-pool-operation.html | открыт | онлайн, 19.11.2026 | 3 | — |
+| T3-10 | Millour et al., saddle height in cycling, PMID 32022807 | https://pubmed.ncbi.nlm.nih.gov/32022807/ | частично (реферат PubMed) | PubMed, 19.11.2026 | 3 | год; полный текст |
+| T3-11 | AHA, Warm Up, Cool Down | https://www.heart.org/en/healthy-living/exercise-and-physical-activity/fitness-basics/warm-up-cool-down | открыт | онлайн, 19.11.2026 | 3 | — |
+| T3-12 | HSE, Dizziness and fainting in pregnancy | https://www2.hse.ie/conditions/dizziness-and-fainting-pregnancy/ | открыт | онлайн, 19.11.2026 | 3 | — |
+| T3-13 | CDC, Heat and Pregnancy; Clinical Overview of Heat and Pregnancy | https://www.cdc.gov/heat-health/hcp/clinical-overview/heat-and-pregnant-women.html | открыт (одна из двух страниц) | онлайн, 19.11.2026 | 3 | — |
+| T3-14 | AHA и Красный Крест, 2024 Guidelines for First Aid | https://cpr.heart.org/en/resuscitation-science/2024-first-aid-guidelines | открыт | онлайн, 19.11.2026 | 3 | — |
+| T3-15 | ACSM, Delayed Onset Muscle Soreness | https://www.acsm.org/docs/default-source/files-for-resource-library/delayed-onset-muscle-soreness-%28doms%29.pdf | закрыт (адрес не подтверждён) | — | 3 | название, год и числа 12–24 и 24–72 ч в документе; запись 126 в skachat-vruchnuyu |
+| T3-16 | Aldabe et al., relaxin и PGP, 2012, PMID 22310881 | https://pubmed.ncbi.nlm.nih.gov/22310881/ | частично (реферат; есть PMC) | PubMed, 19.11.2026 | 3 | полный текст |
+| T3-17 | Theodorsen et al., J Physiother 2024, PMID 38472049 | https://pubmed.ncbi.nlm.nih.gov/38472049/ | частично (реферат) | PubMed, 19.11.2026 | 3 | полный текст |
+| T3-18 | Cabral et al., J Physiother 2025;71:254–259, PMID 41006087 | https://pubmed.ncbi.nlm.nih.gov/41006087/ | частично (реферат) | PubMed, 19.11.2026 | 3 | полный текст |
+| T3-19 | NICE NG201, Antenatal care, 2021 | https://www.nice.org.uk/guidance/ng201/chapter/Recommendations | открыт | онлайн, 19.11.2026 | 3 | — |
+| T3-20 | RCOG, Pelvic girdle pain and pregnancy | https://www.rcog.org.uk/for-the-public/browse-our-patient-information/pelvic-girdle-pain-and-pregnancy/ | открыт | онлайн, 19.11.2026 | 3 | — |
+| T3-21 | RCOG GTG 37b (в записи — «Diagnosis and treatment of venous thrombosis…») | https://www.rcog.org.uk/media/wj2lpco5/gtg-37b-1.pdf | открыт (PDF) | онлайн, 19.11.2026 | 3 | название записи |
+| T3-22 | ACOG Clinical Consensus No. 4, UTI, 2023 | https://www.acog.org/clinical/clinical-guidance/clinical-consensus/articles/2023/08/urinary-tract-infections-in-pregnant-individuals | открыт | онлайн, 19.11.2026 | 3 | — |
+| T3-23 | NICE NG127, Suspected neurological conditions | https://www.nice.org.uk/guidance/ng127/chapter/recommendations-for-adults-aged-over-16 | закрыт (ошибка запроса) | поиск по nice.org.uk, 19.11.2026 | 3 | раздел о синдроме конского хвоста; запись 120 в skachat-vruchnuyu |
+| T3-24 | NICE NG210, Pelvic floor dysfunction, 2021 | https://www.nice.org.uk/guidance/ng210/chapter/Recommendations | открыт | онлайн, 19.11.2026 | 3 | годы и срок «не менее трёх месяцев» не сверены по тексту |
+| T3-25 | IUGA, Pelvic Floor Exercises | https://www.yourpelvicfloor.org/conditions/pelvic-floor-exercises/ | закрыт (адрес подтверждён оглавлением) | оглавление сайта, 19.11.2026 | 3 | текст страницы; запись 127 в skachat-vruchnuyu |
+| T3-26 | Woodley et al., Cochrane CD007471.pub4, 2020 | https://www.cochrane.org/evidence/CD007471_how-effective-pelvic-floor-muscle-training-undertaken-during-pregnancy-or-after-birth-preventing-or | открыт (резюме) | онлайн, 19.11.2026 | 3 | — |
+| T3-27 | Sobhgol et al., Int Urogynecol J 2020, PMID 32506232 | https://pubmed.ncbi.nlm.nih.gov/32506232/ | частично (реферат) | PubMed, 19.11.2026 | 3 | полный текст |
+| T3-28 | NHS Forth Valley, Electrical Muscle Stimulator | https://nhsforthvalley.com/health-services/az-of-services/maternity/pelvic-health-physiotherapy/physiotherapy-leaflets-aftercare/electrical-muscle-stimulator/ | закрыт (документ подтверждён по другому адресу) | nhsforthvalley.com/?p=3812218, 19.11.2026 | 3 | текст о беременности в листке; запись 128 в skachat-vruchnuyu |
+| T3-29 | CDC NIOSH, Physical Job Demands and Reproductive Health | https://www.cdc.gov/niosh/reproductive-health/prevention/physical-demands.html | открыт | онлайн, 19.11.2026 | 3 | — |
+| T3-30 | RCOG, Air travel and pregnancy | https://www.rcog.org.uk/for-the-public/browse-our-patient-information/air-travel-and-pregnancy/ | открыт | онлайн, 19.11.2026 | 3 | — |
+| T3-31 | CDC HEAR HER, Urgent Maternal Warning Signs | https://www.cdc.gov/hearher/maternal-warning-signs/index.html | открыт | онлайн, 19.11.2026 | 3 | — |
+| T3-32 | ACOG, Preterm Labor and Birth (FAQ) | https://www.acog.org/womens-health/faqs/preterm-labor-and-birth | закрыт (ACOG) | поиск по acog.org, 19.11.2026 | 3 | текст страницы; запись 121 в skachat-vruchnuyu |
+| T3-33 | RCOG, When your waters break prematurely | https://www.rcog.org.uk/for-the-public/browse-our-patient-information/when-your-waters-break-prematurely/ | открыт | онлайн, 19.11.2026 | 3 | — |
+| T3-34 | RCOG, Your baby's movements in pregnancy | https://www.rcog.org.uk/for-the-public/browse-our-patient-information/your-babys-movements-in-pregnancy/ | открыт | онлайн, 19.11.2026 | 3 | — |
+| T3-35 | RANZCOG, C-Obs 62 (в записи — «Exercise During Pregnancy») | https://ranzcog.edu.au/wp-content/uploads/Exercise-During-Pregnancy-Guidance.pdf | открыт (PDF) | онлайн, 19.11.2026 | 3 | название; пересмотр |
+| T3-36 | NHS, Exercising in pregnancy (Best Start in Life) | https://www.nhs.uk/best-start-in-life/pregnancy/exercising-in-pregnancy/ | открыт | онлайн, 19.11.2026 | 3 | — |
+| T3-37 | European Hernia Society, rectus diastasis, 2021 | https://academic.oup.com/bjs/article/108/10/1189/6378260 | частично (реферат; есть PMC) | PubMed, 19.11.2026 | 3 | полный текст |
+| T3-38 | CDC NIOSH, Heat-related Illnesses | https://www.cdc.gov/niosh/heat-stress/about/illnesses.html | открыт | онлайн, 19.11.2026 | 3 | — |
